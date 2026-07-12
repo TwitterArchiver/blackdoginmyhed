@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T17:25:15",
+  "last_updated": "2026-07-12T17:26:05",
   "html": {
     "https://web.archive.org/web/20250921062149if_/https://twitter.com/blackdoginmyhed/status/1969648239021314063": {
       "status": "done",
@@ -11269,14 +11269,14 @@
       "last_updated": "2026-07-12T17:02:18"
     },
     "https://video.twimg.com/tweet_video/HEaqhP3b0AAYS_x.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260327121452_twitter_com_blackdoginmyhed_status_2037503620141428850.json",
         "20260327121910_twitter_com_blackdoginmyhed_status_2037504701659529362.json"
       ],
-      "last_updated": "2026-07-12T17:02:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327121452im_/https://video.twimg.com/tweet_video/HEaqhP3b0AAYS_x.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f27bb9ef0e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-12T17:25:41",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260327121452/https://video.twimg.com/tweet_video/HEaqhP3b0AAYS_x.mp4",
+      "miss_count": 5
     },
     "https://video.twimg.com/tweet_video/HEgP6hXaIAAjgK2.mp4": {
       "status": "done",
@@ -11293,13 +11293,13 @@
       "last_updated": "2026-07-12T16:12:23"
     },
     "https://video.twimg.com/ext_tw_video/2038877082445660160/pu/vid/avc1/720x1280/4fB7brvsP7oFCnAI.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260331084103_twitter_com_blackdoginmyhed_status_2038899361577676937.json"
       ],
-      "last_updated": "2026-07-12T16:12:36",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260331084103/https://video.twimg.com/ext_tw_video/2038877082445660160/pu/vid/avc1/720x1280/4fB7brvsP7oFCnAI.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-12T17:25:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331084103im_/https://video.twimg.com/ext_tw_video/2038877082445660160/pu/vid/avc1/720x1280/4fB7brvsP7oFCnAI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a10646db0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HE95bnRaMAAPWkg.mp4": {
       "status": "done",
@@ -11352,13 +11352,13 @@
       "last_updated": "2026-07-12T16:12:23"
     },
     "https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/720x1280/UkMCitNXVVKDmHDY.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260510100456_twitter_com_blackdoginmyhed_status_2053415986263670824.json"
       ],
-      "last_updated": "2026-07-12T17:02:36",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260510100456/https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/720x1280/UkMCitNXVVKDmHDY.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-07-12T17:25:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510100456/https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/720x1280/UkMCitNXVVKDmHDY.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a10646870>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2054081924520611840/vid/avc1/1024x748/l9IYxTYifof3CHmF.mp4": {
       "status": "done",
@@ -11382,13 +11382,13 @@
       "last_updated": "2026-07-12T16:12:23"
     },
     "https://video.twimg.com/tweet_video/HI4aSQdb0AAwlnn.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260522025043_twitter_com_blackdoginmyhed_status_2057655366775984311.json"
       ],
-      "last_updated": "2026-07-12T16:12:38",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260522025043/https://video.twimg.com/tweet_video/HI4aSQdb0AAwlnn.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-12T17:26:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522025043im_/https://video.twimg.com/tweet_video/HI4aSQdb0AAwlnn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a10635e50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HI3_WRlboAAzCQh.mp4": {
       "status": "done",
@@ -11489,13 +11489,13 @@
       "last_updated": "2026-07-12T16:12:23"
     },
     "https://video.twimg.com/tweet_video/HKgDcPobMAAe47N.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260611025506_twitter_com_blackdoginmyhed_status_2064904227382776200.json"
       ],
-      "last_updated": "2026-07-12T17:02:39",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260611025506/https://video.twimg.com/tweet_video/HKgDcPobMAAe47N.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-12T17:26:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611025506im_/https://video.twimg.com/tweet_video/HKgDcPobMAAe47N.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a106370e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HKgeuDeboAAxi0e.mp4": {
       "status": "done",
@@ -20006,7 +20006,7 @@
       "miss_count": 2
     },
     "20260327121910_twitter_com_blackdoginmyhed_status_2037504701659529362.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -20016,7 +20016,7 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T17:02:35"
+      "last_updated": "2026-07-12T17:25:41"
     },
     "20260327123125_twitter_com_blackdoginmyhed_status_2037507785605382301.json": {
       "status": "done",
@@ -20841,7 +20841,7 @@
       "last_updated": "2026-07-12T16:13:12"
     },
     "20260331084103_twitter_com_blackdoginmyhed_status_2038899361577676937.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -20852,7 +20852,7 @@
           "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T16:13:12"
+      "last_updated": "2026-07-12T17:25:45"
     },
     "20260331084919_twitter_com_blackdoginmyhed_status_2038901440618569943.json": {
       "status": "done",
@@ -29287,7 +29287,7 @@
       "last_updated": "2026-07-12T16:13:26"
     },
     "20260522025043_twitter_com_blackdoginmyhed_status_2057655366775984311.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -29298,7 +29298,7 @@
           "https://pbs.twimg.com/profile_images/1975485847312211975/hJDhAkhT_normal.png"
         ]
       },
-      "last_updated": "2026-07-12T16:13:26"
+      "last_updated": "2026-07-12T17:26:01"
     },
     "20260522025941_twitter_com_blackdoginmyhed_status_2057657625467326563.json": {
       "status": "done",
@@ -34905,7 +34905,7 @@
       "last_updated": "2026-07-12T16:13:11"
     },
     "20260611025506_twitter_com_blackdoginmyhed_status_2064904227382776200.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -34916,7 +34916,7 @@
           "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T17:02:39",
+      "last_updated": "2026-07-12T17:26:05",
       "miss_count": 1
     },
     "20260611032646_twitter_com_blackdoginmyhed_status_2064912194685554780.json": {

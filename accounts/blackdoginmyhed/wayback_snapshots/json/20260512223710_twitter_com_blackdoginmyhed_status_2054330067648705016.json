@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2054308131887263830",
+    "created_at": "2026-05-12T22:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054330067648705016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054330067648705016",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054308131887263830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 来三百六十度转一圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2054308131887263830",
+        "created_at": "2026-05-12T22:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054330067648705016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054330067648705016",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054308131887263830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 来三百六十度转一圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2054308131887263830",
+        "created_at": "2026-05-12T21:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T22:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054308131887263830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054308131887263830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉仍在亏钱做生意中 我要联系勇哥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 371,
+          "like_count": 2389,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 688
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2041967002298765536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18252,
+          "following_count": 1985,
+          "like_count": 55814,
+          "listed_count": 24,
+          "media_count": 6678,
+          "tweet_count": 23511
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

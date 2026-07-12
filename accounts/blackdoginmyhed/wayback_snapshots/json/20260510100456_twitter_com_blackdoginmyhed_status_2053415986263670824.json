@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2053392333899792865",
+    "created_at": "2026-05-10T10:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053415986263670824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786579756433149952",
+          "start": 0,
+          "username": "yhoy358674"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053415986263670824",
+    "in_reply_to_user_id": "1786579756433149952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053392333899792865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhoy358674 真可怜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7999,
+        "height": 1280,
+        "media_key": "7_2053392302018867200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053392302018867200/pu/img/AowMWzvounfpcjpJ.jpg",
+        "public_metrics": {
+          "view_count": 133
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/320x568/R3ZIHuQ7ZJ_BiWJv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/480x852/VpkQrFj8nx6879jn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/720x1280/UkMCitNXVVKDmHDY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053392302018867200/pu/pl/SHHyOcZAXnx6U0eP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053392305244327936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8dbBqb0AAEcHA.jpg",
+        "width": 922
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2053392305412014080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8dbCSagAASuxe.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2053392333899792865",
+        "created_at": "2026-05-10T10:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053415986263670824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786579756433149952",
+              "start": 0,
+              "username": "yhoy358674"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053415986263670824",
+        "in_reply_to_user_id": "1786579756433149952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053392333899792865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhoy358674 真可怜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053392302018867200",
+            "3_2053392305244327936",
+            "3_2053392305412014080"
+          ]
+        },
+        "author_id": "1786579756433149952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053392333899792865",
+        "created_at": "2026-05-10T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053392333899792865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taVcgrqOrW",
+              "end": 146,
+              "expanded_url": "https://x.com/yhoy358674/status/2053392333899792865/video/1",
+              "media_key": "7_2053392302018867200",
+              "start": 123,
+              "url": "https://t.co/taVcgrqOrW"
+            },
+            {
+              "display_url": "pic.x.com/taVcgrqOrW",
+              "end": 146,
+              "expanded_url": "https://x.com/yhoy358674/status/2053392333899792865/video/1",
+              "media_key": "3_2053392305244327936",
+              "start": 123,
+              "url": "https://t.co/taVcgrqOrW"
+            },
+            {
+              "display_url": "pic.x.com/taVcgrqOrW",
+              "end": 146,
+              "expanded_url": "https://x.com/yhoy358674/status/2053392333899792865/video/1",
+              "media_key": "3_2053392305412014080",
+              "start": 123,
+              "url": "https://t.co/taVcgrqOrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053392333899792865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼变异母体，画那个死人妆造还不让喷，不敢直接回我就拉黑之后精神胜利自己发帖意淫，我尊重你妈臭逼，主页还写了在辽宁朝阳，我在朝阳精神小伙是没少看见，变异母体我还是第一次见，嘴巴发紫是当母狗让人拿烟头烫的吗，你这种变异母体只能在家里用手机发发贴了 https://t.co/taVcgrqOrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些烟!vape电子烟常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个 纸烟有俄产万宝路 查普曼系列 寿百年系列包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 359,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 643
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T02:13:22.000Z",
+        "description": "---",
+        "id": "1786579756433149952",
+        "name": "死人妆造的母猪都去死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053084129126932480/crMplehU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 55,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 130
+        },
+        "username": "yhoy358674",
+        "verified": false
+      }
+    ]
+  }
+}

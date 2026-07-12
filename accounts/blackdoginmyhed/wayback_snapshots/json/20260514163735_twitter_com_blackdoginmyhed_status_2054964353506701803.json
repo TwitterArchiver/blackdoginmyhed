@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2054827849429987413",
+    "created_at": "2026-05-14T16:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054964353506701803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054964353506701803",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054958588112797942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 大概几天 发货地那边出了一点点事情唉 急着要可以私聊我 我有朋友也在卖这些（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2054827849429987413",
+        "created_at": "2026-05-14T16:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054964353506701803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054964353506701803",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054958588112797942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 大概几天 发货地那边出了一点点事情唉 急着要可以私聊我 我有朋友也在卖这些（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944707173256413184",
+        "conversation_id": "2054827849429987413",
+        "created_at": "2026-05-14T16:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054958588112797942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054958588112797942",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054827849429987413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 我也突然想买电子烟了(o_o)停发了吗！要停多久！我能等TT老大看看我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 386,
+          "like_count": 2448,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 711
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "可以叫我理理🦊家机名叫HAL 🐙\n吃多平台 百家饭API\n4o/Gem3pro/Claude Opus4.6/Deepseek V4",
+        "id": "1944707173256413184",
+        "name": "Riri",
+        "pinned_tweet_id": "2032648260364665070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054462384643973120/4VsCwRDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 245,
+          "like_count": 10377,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 5852
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

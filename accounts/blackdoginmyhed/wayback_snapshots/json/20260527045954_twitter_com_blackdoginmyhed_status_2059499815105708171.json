@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2059499815105708171",
+    "created_at": "2026-05-27T04:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059499815105708171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hard__jpg/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hard__jpg/status/2059317926813917679",
+          "start": 8,
+          "url": "https://t.co/yrllaQCmci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059499815105708171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059317926813917679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经典老方这一块 https://t.co/yrllaQCmci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2059317923534319616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQqvZ_bsAAPWIX.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2059499815105708171",
+        "created_at": "2026-05-27T04:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059499815105708171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hard__jpg/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hard__jpg/status/2059317926813917679",
+              "start": 8,
+              "url": "https://t.co/yrllaQCmci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059499815105708171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059317926813917679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典老方这一块 https://t.co/yrllaQCmci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059317923534319616"
+          ]
+        },
+        "author_id": "2002854412201697280",
+        "conversation_id": "2059317926813917679",
+        "created_at": "2026-05-26T16:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059317926813917679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcLWWnfFgX",
+              "end": 23,
+              "expanded_url": "https://x.com/hard__jpg/status/2059317926813917679/photo/1",
+              "media_key": "3_2059317923534319616",
+              "start": 0,
+              "url": "https://t.co/EcLWWnfFgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059317926813917679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 15334,
+          "like_count": 970,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EcLWWnfFgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼传统革新都抽/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 521,
+          "like_count": 3315,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 965
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T21:31:45.000Z",
+        "description": "hard.",
+        "id": "2002854412201697280",
+        "location": "❤️‍🔥",
+        "name": "hard.jpg",
+        "pinned_tweet_id": "2058902943294746681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032167210928558081/WO3HeCpo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19817,
+          "following_count": 1,
+          "like_count": 351,
+          "listed_count": 57,
+          "media_count": 1479,
+          "tweet_count": 1539
+        },
+        "username": "hard__jpg",
+        "verified": true
+      }
+    ]
+  }
+}

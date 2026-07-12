@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2050530642866373018",
+    "created_at": "2026-05-03T02:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050769277192753392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050769277192753392",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050530642866373018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2050530642866373018",
+        "created_at": "2026-05-03T02:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050769277192753392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050769277192753392",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050530642866373018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2050530642866373018",
+        "created_at": "2026-05-02T10:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050530642866373018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050530642866373018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2504,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇做题蛆是怎么看待要出去留学的人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 270,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 562
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "rim de lacent!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471964957110272/CXxZxkpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 1640,
+          "like_count": 86680,
+          "listed_count": 5,
+          "media_count": 1188,
+          "tweet_count": 5418
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

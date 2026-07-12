@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054499187124043776"
+      ],
+      "media_source_tweet_id": [
+        "2054499197689483409"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2054526003855405467",
+    "created_at": "2026-05-13T11:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054526003855405467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002743082891259904",
+          "start": 3,
+          "username": "CHZJAE_5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qNa2ELcWvp",
+          "end": 37,
+          "expanded_url": "https://x.com/CHZJAE_5/status/2054499197689483409/photo/1",
+          "media_key": "3_2054499187124043776",
+          "start": 14,
+          "url": "https://t.co/qNa2ELcWvp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054526003855405467",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054499197689483409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CHZJAE_5: https://t.co/qNa2ELcWvp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2054499187124043776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMMIB_bgAAAnAz.png",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054499187124043776"
+          ],
+          "media_source_tweet_id": [
+            "2054499197689483409"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2054526003855405467",
+        "created_at": "2026-05-13T11:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054526003855405467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002743082891259904",
+              "start": 3,
+              "username": "CHZJAE_5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNa2ELcWvp",
+              "end": 37,
+              "expanded_url": "https://x.com/CHZJAE_5/status/2054499197689483409/photo/1",
+              "media_key": "3_2054499187124043776",
+              "start": 14,
+              "url": "https://t.co/qNa2ELcWvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054526003855405467",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054499197689483409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CHZJAE_5: https://t.co/qNa2ELcWvp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054499187124043776"
+          ]
+        },
+        "author_id": "2002743082891259904",
+        "conversation_id": "2054499197689483409",
+        "created_at": "2026-05-13T09:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054499197689483409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNa2ELcWvp",
+              "end": 23,
+              "expanded_url": "https://x.com/CHZJAE_5/status/2054499197689483409/photo/1",
+              "media_key": "3_2054499187124043776",
+              "start": 0,
+              "url": "https://t.co/qNa2ELcWvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054499197689483409",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qNa2ELcWvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 376,
+          "like_count": 2423,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 701
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T14:09:00.000Z",
+        "description": "",
+        "id": "2002743082891259904",
+        "name": "CHZJAE_5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054396765726773248/qjS0okKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 65,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 8
+        },
+        "username": "CHZJAE_5",
+        "verified": false
+      }
+    ]
+  }
+}

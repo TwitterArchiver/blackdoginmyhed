@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068336027887194112"
+      ],
+      "media_source_tweet_id": [
+        "2068336043833827599"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2068375911414849926",
+    "created_at": "2026-06-20T16:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068375911414849926"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 37,
+          "tag": "ClinicalTrialgame"
+        },
+        {
+          "end": 76,
+          "start": 56,
+          "tag": "ClinicalTrialfanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2024787065850970112",
+          "start": 3,
+          "username": "ClinicalLas13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBnUM6yKbH",
+          "end": 100,
+          "expanded_url": "https://x.com/ClinicalLas13/status/2068336043833827599/photo/1",
+          "media_key": "3_2068336027887194112",
+          "start": 77,
+          "url": "https://t.co/lBnUM6yKbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068375911414849926",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068336043833827599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ClinicalLas13: self medicating 💊 #ClinicalTrialgame #ClinicalTrialfanart https://t.co/lBnUM6yKbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2068336027887194112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ0qKpb0AAhlab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068336027887194112"
+          ],
+          "media_source_tweet_id": [
+            "2068336043833827599"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2068375911414849926",
+        "created_at": "2026-06-20T16:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068375911414849926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 37,
+              "tag": "ClinicalTrialgame"
+            },
+            {
+              "end": 76,
+              "start": 56,
+              "tag": "ClinicalTrialfanart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2024787065850970112",
+              "start": 3,
+              "username": "ClinicalLas13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBnUM6yKbH",
+              "end": 100,
+              "expanded_url": "https://x.com/ClinicalLas13/status/2068336043833827599/photo/1",
+              "media_key": "3_2068336027887194112",
+              "start": 77,
+              "url": "https://t.co/lBnUM6yKbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068375911414849926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068336043833827599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ClinicalLas13: self medicating 💊 #ClinicalTrialgame #ClinicalTrialfanart https://t.co/lBnUM6yKbH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068336027887194112"
+          ]
+        },
+        "author_id": "2024787065850970112",
+        "conversation_id": "2068336043833827599",
+        "created_at": "2026-06-20T14:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068336043833827599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 18,
+              "tag": "ClinicalTrialgame"
+            },
+            {
+              "end": 57,
+              "start": 37,
+              "tag": "ClinicalTrialfanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBnUM6yKbH",
+              "end": 81,
+              "expanded_url": "https://x.com/ClinicalLas13/status/2068336043833827599/photo/1",
+              "media_key": "3_2068336027887194112",
+              "start": 58,
+              "url": "https://t.co/lBnUM6yKbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336043833827599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 12387,
+          "like_count": 1061,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "self medicating 💊 #ClinicalTrialgame #ClinicalTrialfanart https://t.co/lBnUM6yKbH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 652,
+          "like_count": 4412,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T10:04:12.000Z",
+        "description": "Adult Sensitive Content Only 🔞 I draw Clinical Trial fanart - No repost to other socials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clinicallas13.straw.page",
+                "end": 23,
+                "expanded_url": "http://clinicallas13.straw.page",
+                "start": 0,
+                "url": "https://t.co/E6yU9OUzgQ"
+              }
+            ]
+          }
+        },
+        "id": "2024787065850970112",
+        "location": "he/they/ 19yrs / dms open 4eva",
+        "name": "Las 🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024791292795088896/KXI2yqwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 230,
+          "like_count": 9523,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/E6yU9OUzgQ",
+        "username": "ClinicalLas13",
+        "verified": false
+      }
+    ]
+  }
+}

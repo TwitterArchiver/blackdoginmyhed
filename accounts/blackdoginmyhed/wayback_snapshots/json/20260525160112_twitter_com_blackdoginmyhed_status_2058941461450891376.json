@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2058933523365650862",
+    "created_at": "2026-05-25T16:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058941461450891376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048387997742329856",
+          "start": 0,
+          "username": "yuyumimio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058941461450891376",
+    "in_reply_to_user_id": "2048387997742329856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058933523365650862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyumimio 🥺吃点泡菜试试就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2058933523365650862",
+        "created_at": "2026-05-25T16:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058941461450891376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058941461450891376",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058933523365650862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 🥺吃点泡菜试试就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058933523365650862",
+        "created_at": "2026-05-25T15:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058933523365650862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058933523365650862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝是什么味道……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没有回fo直接私聊喊我）\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 484,
+          "like_count": 3134,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 906
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 189,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 169
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066903944174145536"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2066903947231846488",
+    "created_at": "2026-06-16T15:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066903947231846488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VegsPciOVP",
+          "end": 93,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2066903947231846488/photo/1",
+          "media_key": "3_2066903944174145536",
+          "start": 70,
+          "url": "https://t.co/VegsPciOVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066903947231846488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "淡淡的陈皮薄荷味 香料在烟草里 烟嘴没有任何味道\n可能因为香料的原因烟草味不太正 有点奇怪\n但是作为18块一盒的烟还是挺好抽的 可以试一试 https://t.co/VegsPciOVP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066903944174145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8eL7FakAA9YZe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066903944174145536"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2066903947231846488",
+        "created_at": "2026-06-16T15:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066903947231846488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VegsPciOVP",
+              "end": 93,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2066903947231846488/photo/1",
+              "media_key": "3_2066903944174145536",
+              "start": 70,
+              "url": "https://t.co/VegsPciOVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066903947231846488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淡淡的陈皮薄荷味 香料在烟草里 烟嘴没有任何味道\n可能因为香料的原因烟草味不太正 有点奇怪\n但是作为18块一盒的烟还是挺好抽的 可以试一试 https://t.co/VegsPciOVP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 642,
+          "like_count": 4315,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1254
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2047621311581868380",
+    "created_at": "2026-04-25T08:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047950268629909560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "care1337_"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        },
+        {
+          "end": 29,
+          "id": "1788079911208652800",
+          "start": 17,
+          "username": "cai_xu60525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047950268629909560",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047903449472442431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@care1337_ @grok @cai_xu60525 笑死我了("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2047621311581868380",
+        "created_at": "2026-04-25T08:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047950268629909560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            },
+            {
+              "end": 29,
+              "id": "1788079911208652800",
+              "start": 17,
+              "username": "cai_xu60525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047950268629909560",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047903449472442431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ @grok @cai_xu60525 笑死我了("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2047621311581868380",
+        "created_at": "2026-04-25T05:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047903449472442431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1788079911208652800",
+              "start": 6,
+              "username": "cai_xu60525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047903449472442431",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047903263861743989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @cai_xu60525 严谨的说，那鲨鱼是不是有几率把别人的父母咬死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 249,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 484
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互关！男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2047948633165951417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 232,
+          "like_count": 3813,
+          "listed_count": 2,
+          "media_count": 443,
+          "tweet_count": 1519
+        },
+        "username": "care1337_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8583519,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 6681,
+          "media_count": 8860982,
+          "tweet_count": 123736250
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-08T05:34:20.000Z",
+        "description": "无差别拷打民国蛆 建制蛆 民运蛆 \n不惯着任何人",
+        "id": "1788079911208652800",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "安和昴",
+        "pinned_tweet_id": "2010048405486424326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933077154448998400/5WKgvqu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 592,
+          "like_count": 15452,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 6969
+        },
+        "username": "cai_xu60525",
+        "verified": false
+      }
+    ]
+  }
+}

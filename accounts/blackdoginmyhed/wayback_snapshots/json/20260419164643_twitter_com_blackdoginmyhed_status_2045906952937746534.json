@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2045895870827343957",
+    "created_at": "2026-04-19T16:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045906952937746534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521781722551103490",
+          "start": 0,
+          "username": "_XiaoYu_OvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045906952937746534",
+    "in_reply_to_user_id": "1521781722551103490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045895870827343957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_XiaoYu_OvO_ 他可是蟑螂杀手蚊子克星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2045895870827343957",
+        "created_at": "2026-04-19T16:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045906952937746534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521781722551103490",
+              "start": 0,
+              "username": "_XiaoYu_OvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045906952937746534",
+        "in_reply_to_user_id": "1521781722551103490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045895870827343957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_XiaoYu_OvO_ 他可是蟑螂杀手蚊子克星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521781722551103490",
+        "conversation_id": "2045895870827343957",
+        "created_at": "2026-04-19T16:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045895870827343957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045895870827343957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏 想起来晚上看到房间里有个高脚蛛（？\n现在睡觉了 害怕爬到床上😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 236,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 461
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T09:20:23.000Z",
+        "description": "| 小县城高三在读的笨蛋 |\n可能会发带有各种情绪的推文 | 笨蛋@_yh_awa_ | 不知道说什么了 祝看到的你开心快乐每一天awa（ '▿ ' ）|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "_yh_awa_"
+              }
+            ]
+          }
+        },
+        "id": "1521781722551103490",
+        "location": "距你2147483647米",
+        "name": "筱雨awa",
+        "pinned_tweet_id": "1922606074273661215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842600495145168896/d9a8nlO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 313,
+          "like_count": 21743,
+          "listed_count": 4,
+          "media_count": 540,
+          "tweet_count": 3480
+        },
+        "username": "_XiaoYu_OvO_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2043549018241056784",
+    "created_at": "2026-04-13T19:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T20:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043774574660334055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1915027119060701184",
+          "start": 0,
+          "username": "BRO1748216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043774574660334055",
+    "in_reply_to_user_id": "1915027119060701184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043768376900890794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BRO1748216 什么,这不是压缩毛巾吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2043549018241056784",
+        "created_at": "2026-04-13T19:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043774574660334055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1915027119060701184",
+              "start": 0,
+              "username": "BRO1748216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043774574660334055",
+        "in_reply_to_user_id": "1915027119060701184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043768376900890794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BRO1748216 什么,这不是压缩毛巾吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915027119060701184",
+        "conversation_id": "2043549018241056784",
+        "created_at": "2026-04-13T19:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043768376900890794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043768376900890794",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043549018241056784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 这不套儿吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 196,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 381
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T12:57:07.000Z",
+        "description": "⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1915027119060701184",
+        "location": "河南南阳",
+        "name": "便宜罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990052315538313216/lvu9Og36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 229,
+          "like_count": 2129,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 200
+        },
+        "username": "BRO1748216",
+        "verified": false
+      }
+    ]
+  }
+}

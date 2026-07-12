@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2060607719749345342",
+    "created_at": "2026-05-30T09:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060648711643070739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362678086211301384",
+          "start": 0,
+          "username": "Amagalan_B1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060648711643070739",
+    "in_reply_to_user_id": "1362678086211301384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060648121726558213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amagalan_B1 如果你更喜欢信息茧房的话小红书更适合你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2060607719749345342",
+        "created_at": "2026-05-30T09:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060648711643070739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362678086211301384",
+              "start": 0,
+              "username": "Amagalan_B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060648711643070739",
+        "in_reply_to_user_id": "1362678086211301384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060648121726558213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amagalan_B1 如果你更喜欢信息茧房的话小红书更适合你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362678086211301384",
+        "conversation_id": "2060607719749345342",
+        "created_at": "2026-05-30T09:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060648121726558213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060648121726558213",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060607719749345342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 还真是有区别的。虽然你会觉得可以手动翻译也一样，但自动翻译改变的不是翻译而是推送机制。原本因为没有翻译所以推送的更多是同语言和你平时浏览的差不多话题，现在出现自动翻译以后其实推送机制完全抹平了，所有语言出现在你首页上的概率是等价的，相当于圈子被破除。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 554,
+          "like_count": 3572,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1072
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T08:19:32.000Z",
+        "description": "A heavy tank made by Renault. A fan of trains, tanks，F1 & battleships. #Renault #Alpine💙💛 Car 35 WEC Fuji🥇 🎉🎉\nRenault is and should be always Blue/Yellow!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "Renault"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "tag": "Alpine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "defense.gouv.fr",
+                "end": 23,
+                "expanded_url": "https://www.defense.gouv.fr/",
+                "start": 0,
+                "url": "https://t.co/hXf8XtfrY4"
+              }
+            ]
+          }
+        },
+        "id": "1362678086211301384",
+        "location": "Boulogne-Billancourt, France",
+        "name": "☢️Char B1 bis",
+        "pinned_tweet_id": "2060503160360231035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888752159979696128/1MaSeRRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 836,
+          "like_count": 73464,
+          "listed_count": 1,
+          "media_count": 551,
+          "tweet_count": 18408
+        },
+        "url": "https://t.co/hXf8XtfrY4",
+        "username": "Amagalan_B1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2052444188785135939",
+    "created_at": "2026-05-08T11:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052715396684496930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444696438068236298",
+          "start": 0,
+          "username": "ZihanWa65060259"
+        },
+        {
+          "end": 28,
+          "id": "1823160336691982336",
+          "start": 17,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052715396684496930",
+    "in_reply_to_user_id": "1444696438068236298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052711506085908986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZihanWa65060259 @Hozheganma 相当大哦 国产烟大多数都是烤烟 外烟是混合烟 制作工艺不一样  以及国产的外国牌子也是国内卷烟厂制造 用的国内的烟草 味道也不一样 以及香精和爆珠国内很少有做好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2052444188785135939",
+        "created_at": "2026-05-08T11:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052715396684496930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444696438068236298",
+              "start": 0,
+              "username": "ZihanWa65060259"
+            },
+            {
+              "end": 28,
+              "id": "1823160336691982336",
+              "start": 17,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052715396684496930",
+        "in_reply_to_user_id": "1444696438068236298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052711506085908986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZihanWa65060259 @Hozheganma 相当大哦 国产烟大多数都是烤烟 外烟是混合烟 制作工艺不一样  以及国产的外国牌子也是国内卷烟厂制造 用的国内的烟草 味道也不一样 以及香精和爆珠国内很少有做好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444696438068236298",
+        "conversation_id": "2052444188785135939",
+        "created_at": "2026-05-08T11:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052711506085908986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            },
+            {
+              "end": 28,
+              "id": "1823160336691982336",
+              "start": 17,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052711506085908986",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052444188785135939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed @Hozheganma 外国烟和中国烟区别大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些烟!vape电子烟常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个 纸烟有俄产万宝路 查普曼系列 寿百年系列包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 321,
+          "like_count": 2197,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 619
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T16:12:16.000Z",
+        "description": "",
+        "id": "1444696438068236298",
+        "name": "poem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035621120511246336/zDy8-vS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 602,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1026
+        },
+        "username": "ZihanWa65060259",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "高中在读/重度play游戏🎮中../oder🚬/无戒断之人😇/自伤/友跨/durg&set/同类互fo/无政府/q我：https://t.co/cNzWslTT8R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 82,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 59,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "Highland.No-1",
+        "name": "沫依#Ng♓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 358,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 489
+        },
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068746199503454208"
+      ],
+      "media_source_tweet_id": [
+        "2068746202762350752"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2069020068282069421",
+    "created_at": "2026-06-22T11:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069020068282069421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1002206298220449792",
+          "start": 3,
+          "username": "BoyTraco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tf38EONZAT",
+          "end": 50,
+          "expanded_url": "https://x.com/BoyTraco/status/2068746202762350752/photo/1",
+          "media_key": "3_2068746199503454208",
+          "start": 27,
+          "url": "https://t.co/Tf38EONZAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069020068282069421",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1927
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068746202762350752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BoyTraco: MEU CARRO!!! https://t.co/Tf38EONZAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068746199503454208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWptS_XwAAqUzQ.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068746199503454208"
+          ],
+          "media_source_tweet_id": [
+            "2068746202762350752"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2069020068282069421",
+        "created_at": "2026-06-22T11:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069020068282069421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1002206298220449792",
+              "start": 3,
+              "username": "BoyTraco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tf38EONZAT",
+              "end": 50,
+              "expanded_url": "https://x.com/BoyTraco/status/2068746202762350752/photo/1",
+              "media_key": "3_2068746199503454208",
+              "start": 27,
+              "url": "https://t.co/Tf38EONZAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069020068282069421",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1927
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068746202762350752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BoyTraco: MEU CARRO!!! https://t.co/Tf38EONZAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068746199503454208"
+          ]
+        },
+        "author_id": "1002206298220449792",
+        "conversation_id": "2068746202762350752",
+        "created_at": "2026-06-21T17:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068746202762350752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tf38EONZAT",
+              "end": 36,
+              "expanded_url": "https://x.com/BoyTraco/status/2068746202762350752/photo/1",
+              "media_key": "3_2068746199503454208",
+              "start": 13,
+              "url": "https://t.co/Tf38EONZAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068746202762350752",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 705,
+          "impression_count": 227390,
+          "like_count": 28781,
+          "quote_count": 97,
+          "reply_count": 89,
+          "retweet_count": 1927
+        },
+        "reply_settings": "everyone",
+        "text": "MEU CARRO!!! https://t.co/Tf38EONZAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 650,
+          "like_count": 4443,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-31T15:12:56.000Z",
+        "description": "(Qualquer pronome/21y)\n📚 Estudante de História da Arte, 🇯🇵TokuFan, 💜Não-Binario, 🦸🏻Cosplay do Superman e Perfil de desenhos: @MaryCarvalhoArt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 125,
+                "username": "MaryCarvalhoArt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCncUf…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCncUf3jODh3kiRFyx3U_Xrw",
+                "start": 0,
+                "url": "https://t.co/YghiHbkM3R"
+              }
+            ]
+          }
+        },
+        "id": "1002206298220449792",
+        "location": "Rio de janeiro, logo ali",
+        "name": "Mary Carvalho (amo o SuperHomem)",
+        "pinned_tweet_id": "1991905683558560014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006533785920188416/I5Gcav7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 260,
+          "like_count": 47441,
+          "listed_count": 1,
+          "media_count": 4237,
+          "tweet_count": 17841
+        },
+        "url": "https://t.co/YghiHbkM3R",
+        "username": "BoyTraco",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2061444414627836353",
+    "created_at": "2026-06-01T13:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061444414627836353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "晒出你用过的机场"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SnowfairySerin…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/SnowfairySerina/status/2060595111323386285",
+          "start": 16,
+          "url": "https://t.co/Okqq1MMknh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061444414627836353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060595111323386285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#晒出你用过的机场\n老王微披恩 https://t.co/Okqq1MMknh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2061444414627836353",
+        "created_at": "2026-06-01T13:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061444414627836353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "晒出你用过的机场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SnowfairySerin…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/SnowfairySerina/status/2060595111323386285",
+              "start": 16,
+              "url": "https://t.co/Okqq1MMknh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061444414627836353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060595111323386285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#晒出你用过的机场\n老王微披恩 https://t.co/Okqq1MMknh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2060595111323386285",
+        "created_at": "2026-05-30T05:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060595111323386285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "晒出你用过的机场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Vincy1230/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/Vincy1230/status/2060447330688786884",
+              "start": 77,
+              "url": "https://t.co/l7jR4w4RMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060595111323386285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3757,
+          "like_count": 7,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060447330688786884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#晒出你用过的机场\n大连周水子\n南京禄口\n广州白云\n上海浦东\n金门尚义\n澎湖马公\n台北松山\n台北桃园\n台中清泉岗\n高雄小港\n东京成田\n东京羽田\n福冈空港 https://t.co/l7jR4w4RMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 571,
+          "like_count": 3704,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1118
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "博客：https://t.co/QEDOoQWl83\n行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//@eztakesin 面包猫和蛋糕猫是最好的战斗搭档！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "eztakesin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "snowfairyserina.homes",
+                "end": 26,
+                "expanded_url": "https://snowfairyserina.homes",
+                "start": 3,
+                "url": "https://t.co/QEDOoQWl83"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 星空合众国 格维克之境",
+        "name": "✨☘️🌈雨夜辰曦•雪若仙🏳️‍⚧️Together Forever✨",
+        "pinned_tweet_id": "2061322399644368953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1128,
+          "like_count": 3927,
+          "listed_count": 6,
+          "media_count": 676,
+          "tweet_count": 5449
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

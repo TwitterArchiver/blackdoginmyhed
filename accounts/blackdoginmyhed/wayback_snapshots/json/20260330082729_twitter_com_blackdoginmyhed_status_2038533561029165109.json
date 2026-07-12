@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2038404135771599084",
+    "created_at": "2026-03-30T08:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038533561029165109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002072845892157441",
+          "start": 0,
+          "username": "kill_me_sakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038533561029165109",
+    "in_reply_to_user_id": "2002072845892157441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038404135771599084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_me_sakura 自己最重要哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2038404135771599084",
+        "created_at": "2026-03-30T08:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038533561029165109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002072845892157441",
+              "start": 0,
+              "username": "kill_me_sakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038533561029165109",
+        "in_reply_to_user_id": "2002072845892157441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038404135771599084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_me_sakura 自己最重要哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002072845892157441",
+        "conversation_id": "2038404135771599084",
+        "created_at": "2026-03-29T23:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038404135771599084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038404135771599084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我發交友自介條有人理我嗎。。\n但我已經在試圖回歸正常人了 會不會不被當同類然後掉一堆fo。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 102,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 186
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T17:45:47.000Z",
+        "description": "友跨 戒割戒o 抽菸難戒🚬\n正在努力當正常人\n成分複雜 fo你表示我喜歡你呀！òωó",
+        "id": "2002072845892157441",
+        "name": "都是你的錯",
+        "pinned_tweet_id": "2038460668261839096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025648197411258368/LvOOcd6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 67,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 459
+        },
+        "username": "kill_me_sakura",
+        "verified": false
+      }
+    ]
+  }
+}

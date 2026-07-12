@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057557540611731456"
+      ],
+      "media_source_tweet_id": [
+        "2057557542700507390"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2057627750740209811",
+    "created_at": "2026-05-22T01:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057627750740209811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1424773223598731266",
+          "start": 3,
+          "username": "Ninja3ft129735"
+        },
+        {
+          "end": 33,
+          "id": "1636652528971423746",
+          "start": 20,
+          "username": "JamianGerard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8IC27NeVT4",
+          "end": 57,
+          "expanded_url": "https://x.com/Ninja3ft129735/status/2057557542700507390/photo/1",
+          "media_key": "3_2057557540611731456",
+          "start": 34,
+          "url": "https://t.co/8IC27NeVT4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057627750740209811",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057557542700507390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ninja3ft129735: @JamianGerard https://t.co/8IC27NeVT4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2057557540611731456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3prokWsAAoTw-.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057557540611731456"
+          ],
+          "media_source_tweet_id": [
+            "2057557542700507390"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2057627750740209811",
+        "created_at": "2026-05-22T01:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057627750740209811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1424773223598731266",
+              "start": 3,
+              "username": "Ninja3ft129735"
+            },
+            {
+              "end": 33,
+              "id": "1636652528971423746",
+              "start": 20,
+              "username": "JamianGerard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8IC27NeVT4",
+              "end": 57,
+              "expanded_url": "https://x.com/Ninja3ft129735/status/2057557542700507390/photo/1",
+              "media_key": "3_2057557540611731456",
+              "start": 34,
+              "url": "https://t.co/8IC27NeVT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057627750740209811",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057557542700507390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ninja3ft129735: @JamianGerard https://t.co/8IC27NeVT4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057557540611731456"
+          ]
+        },
+        "author_id": "1424773223598731266",
+        "conversation_id": "2057514369496310177",
+        "created_at": "2026-05-21T20:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057557542700507390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636652528971423746",
+              "start": 0,
+              "username": "JamianGerard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8IC27NeVT4",
+              "end": 37,
+              "expanded_url": "https://x.com/Ninja3ft129735/status/2057557542700507390/photo/1",
+              "media_key": "3_2057557540611731456",
+              "start": 14,
+              "url": "https://t.co/8IC27NeVT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057557542700507390",
+        "in_reply_to_user_id": "1636652528971423746",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 17819,
+          "like_count": 1267,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057514369496310177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamianGerard https://t.co/8IC27NeVT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 450,
+          "like_count": 2862,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 832
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T16:43:15.000Z",
+        "description": "Yeah, you know who that PFP is • Trans.\nHe/Them pronouns.",
+        "id": "1424773223598731266",
+        "name": "Alex",
+        "pinned_tweet_id": "1562230121913786368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009210423636082688/gLH6frOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 3039,
+          "like_count": 69975,
+          "listed_count": 29,
+          "media_count": 32273,
+          "tweet_count": 90442
+        },
+        "username": "Ninja3ft129735",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T08:56:10.000Z",
+        "description": "Filmmaker & Creative Technologist | AI, Art, & Music Production |\nPartnered with 10+ AI platforms through Creative R&D | \nSharing tools, insights & experiments.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/jamiangerard",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/jamiangerard",
+                "start": 0,
+                "url": "https://t.co/wOUpUiPxgZ"
+              }
+            ]
+          }
+        },
+        "id": "1636652528971423746",
+        "location": "Chicago, IL",
+        "name": "Jamian Gerard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045534227236868096/trRK_xOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5713,
+          "following_count": 6968,
+          "like_count": 122015,
+          "listed_count": 87,
+          "media_count": 2219,
+          "tweet_count": 11486
+        },
+        "url": "https://t.co/wOUpUiPxgZ",
+        "username": "JamianGerard",
+        "verified": true
+      }
+    ]
+  }
+}

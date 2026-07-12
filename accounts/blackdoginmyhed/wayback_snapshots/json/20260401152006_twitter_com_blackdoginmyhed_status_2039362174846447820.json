@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2039361211893170421",
+    "created_at": "2026-04-01T15:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039362174846447820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800150674761728000",
+          "start": 0,
+          "username": "0___qwq___0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039362174846447820",
+    "in_reply_to_user_id": "1800150674761728000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039361211893170421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0___qwq___0 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2039361211893170421",
+        "created_at": "2026-04-01T15:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039362174846447820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800150674761728000",
+              "start": 0,
+              "username": "0___qwq___0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039362174846447820",
+        "in_reply_to_user_id": "1800150674761728000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039361211893170421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0___qwq___0 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800150674761728000",
+        "conversation_id": "2039361211893170421",
+        "created_at": "2026-04-01T15:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039361211893170421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039361211893170421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻塞。是不是喹硫平害de"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 115,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 235
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T12:59:13.000Z",
+        "description": "she/they/any｜pan｜11.4.3｜乱发东西，不为本账号任何内容负责｜Think twice before you follow|⚠️shtwt",
+        "id": "1800150674761728000",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800150816738959360/xESixo3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 532,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 552
+        },
+        "username": "0___qwq___0",
+        "verified": false
+      }
+    ]
+  }
+}

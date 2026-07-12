@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2062798958032998611",
+    "created_at": "2026-06-05T07:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062798958032998611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062798958032998611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近炫了好多纸烟嗓子疼疼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2062798958032998611",
+        "created_at": "2026-06-05T07:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062798958032998611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062798958032998611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近炫了好多纸烟嗓子疼疼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2062660608240349272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 606,
+          "like_count": 3909,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1189
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

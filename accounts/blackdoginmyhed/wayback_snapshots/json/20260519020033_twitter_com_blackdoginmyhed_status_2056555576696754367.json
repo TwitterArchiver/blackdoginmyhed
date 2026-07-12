@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056555474200477696",
+        "3_2056555546229305347"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056555576696754367",
+    "created_at": "2026-05-19T02:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056555576696754367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M07hhBqiHN",
+          "end": 31,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2056555576696754367/photo/1",
+          "media_key": "3_2056555474200477696",
+          "start": 8,
+          "url": "https://t.co/M07hhBqiHN"
+        },
+        {
+          "display_url": "pic.x.com/M07hhBqiHN",
+          "end": 31,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2056555576696754367/photo/1",
+          "media_key": "3_2056555546229305347",
+          "start": 8,
+          "url": "https://t.co/M07hhBqiHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056555576696754367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "逐渐理解了竹村 https://t.co/M07hhBqiHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2056555474200477696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpaTsSawAARnpY.jpg",
+        "width": 2240
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2056555546229305347",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpaX4nbcAM94lB.jpg",
+        "width": 2405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056555474200477696",
+            "3_2056555546229305347"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056555576696754367",
+        "created_at": "2026-05-19T02:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056555576696754367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M07hhBqiHN",
+              "end": 31,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2056555576696754367/photo/1",
+              "media_key": "3_2056555474200477696",
+              "start": 8,
+              "url": "https://t.co/M07hhBqiHN"
+            },
+            {
+              "display_url": "pic.x.com/M07hhBqiHN",
+              "end": 31,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2056555576696754367/photo/1",
+              "media_key": "3_2056555546229305347",
+              "start": 8,
+              "url": "https://t.co/M07hhBqiHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056555576696754367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逐渐理解了竹村 https://t.co/M07hhBqiHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 424,
+          "like_count": 2681,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 774
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

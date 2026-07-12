@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2050844187105636846",
+    "created_at": "2026-05-03T07:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050844187105636846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896904934995656704",
+          "start": 3,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050844187105636846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050672387423866889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @penpunx: 爱自己和不自杀是两个层面的事情，我感觉不自杀的理由底层来说只有求生欲望这一条，因为把死亡看作不需要恐惧的事情，或觉得死亡不是终点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2050844187105636846",
+        "created_at": "2026-05-03T07:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050844187105636846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896904934995656704",
+              "start": 3,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050844187105636846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050672387423866889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @penpunx: 爱自己和不自杀是两个层面的事情，我感觉不自杀的理由底层来说只有求生欲望这一条，因为把死亡看作不需要恐惧的事情，或觉得死亡不是终点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050672387423866889",
+        "created_at": "2026-05-02T20:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T21:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050672387423866889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050672387423866889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱自己和不自杀是两个层面的事情，我感觉不自杀的理由底层来说只有求生欲望这一条，因为把死亡看作不需要恐惧的事情，或觉得死亡不是终点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 274,
+          "like_count": 1989,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 568
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 487,
+          "like_count": 12658,
+          "listed_count": 1,
+          "media_count": 487,
+          "tweet_count": 4171
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

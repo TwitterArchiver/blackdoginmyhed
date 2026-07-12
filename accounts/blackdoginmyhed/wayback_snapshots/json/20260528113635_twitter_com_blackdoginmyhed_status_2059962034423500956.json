@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2059784353052582321",
+    "created_at": "2026-05-28T11:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059962034423500956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1122005404345442306",
+          "start": 0,
+          "username": "semysin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059962034423500956",
+    "in_reply_to_user_id": "1122005404345442306",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059784353052582321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@semysin look nice"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059784350674432000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXS9CfbsAA26RA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2059784353052582321",
+        "created_at": "2026-05-28T11:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059962034423500956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1122005404345442306",
+              "start": 0,
+              "username": "semysin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059962034423500956",
+        "in_reply_to_user_id": "1122005404345442306",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059784353052582321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@semysin look nice"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059784350674432000"
+          ]
+        },
+        "author_id": "1122005404345442306",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2059784353052582321",
+        "created_at": "2026-05-27T23:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059784353052582321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gh24kV2Hck",
+              "end": 169,
+              "expanded_url": "https://x.com/semysin/status/2059784353052582321/photo/1",
+              "media_key": "3_2059784350674432000",
+              "start": 146,
+              "url": "https://t.co/gh24kV2Hck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059784353052582321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 31215,
+          "like_count": 913,
+          "quote_count": 6,
+          "reply_count": 105,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "I'm very anxious in a kitchen and I have like no cooking skills\n\nBut I'm slowly learning 🥹 here's some Chinese sausage and spam rice with veggies https://t.co/gh24kV2Hck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 538,
+          "like_count": 3452,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1006
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-27T05:11:49.000Z",
+        "description": "🔞 | I put the 'ho' in wholesome | He/They 🇧🇩  | 🎨: #Sinlustration | 18+: #Semussy | PFP: @acidicchocoo | Banner: @ComfortKittxn",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 51,
+                "tag": "Sinlustration"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "tag": "Semussy"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "acidicchocoo"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "ComfortKittxn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/semysin",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/semysin",
+                "start": 0,
+                "url": "https://t.co/RIbvLcxMjm"
+              }
+            ]
+          }
+        },
+        "id": "1122005404345442306",
+        "location": "Hell",
+        "name": "🩷 Semy Sin 🩷",
+        "pinned_tweet_id": "1617600662711455744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020291062871506944/cGvHbPjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 856,
+          "like_count": 55387,
+          "listed_count": 40,
+          "media_count": 1255,
+          "tweet_count": 27406
+        },
+        "url": "https://t.co/RIbvLcxMjm",
+        "username": "semysin",
+        "verified": false
+      }
+    ]
+  }
+}

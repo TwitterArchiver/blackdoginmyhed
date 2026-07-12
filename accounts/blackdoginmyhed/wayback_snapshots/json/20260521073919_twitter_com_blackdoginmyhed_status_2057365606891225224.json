@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2057114055064916342",
+    "created_at": "2026-05-21T07:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057365606891225224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "chnghob658339"
+        },
+        {
+          "end": 31,
+          "id": "1732763258325762048",
+          "start": 15,
+          "username": "laigendianziyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057365606891225224",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057364854676361235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnghob658339 @laigendianziyan 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2057114055064916342",
+        "created_at": "2026-05-21T07:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057365606891225224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "chnghob658339"
+            },
+            {
+              "end": 31,
+              "id": "1732763258325762048",
+              "start": 15,
+              "username": "laigendianziyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057365606891225224",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057364854676361235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnghob658339 @laigendianziyan 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2057114055064916342",
+        "created_at": "2026-05-21T07:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057364854676361235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "laigendianziyan"
+            },
+            {
+              "end": 33,
+              "id": "1951181920022437889",
+              "start": 17,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057364854676361235",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057364564254343264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laigendianziyan @blackdoginmyhed 真的，坐了硬座才发现本来讨厌的高铁座位有多好睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 448,
+          "like_count": 2845,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 823
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "03 想交朋友。想买衣服。国女国男综合特征，想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画、中国古典文学和西方近现代哲学，最近新对西方政治思想史、英美道德哲学、德国私法/刑法感兴趣。物理学研究生，想学代数拓扑。",
+        "id": "1717455447110844416",
+        "location": "华东",
+        "name": "Zhuang Xuexin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 92
+        },
+        "username": "chnghob658339",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "隔壁永远在尖叫。\n欢迎互fo看到fo基本都会回微查成分致歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2057021031186071673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 113,
+          "like_count": 4940,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "laigendianziyan",
+        "verified": false
+      }
+    ]
+  }
+}

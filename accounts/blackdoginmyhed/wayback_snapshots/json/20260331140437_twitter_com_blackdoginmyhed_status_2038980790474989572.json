@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2038979880214499729",
+    "created_at": "2026-03-31T14:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038980790474989572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019293013114253313",
+          "start": 0,
+          "username": "seeyouinthe2999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038980790474989572",
+    "in_reply_to_user_id": "2019293013114253313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038979880214499729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeyouinthe2999 天哪简直就是我)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2038979880214499729",
+        "created_at": "2026-03-31T14:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038980790474989572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038980790474989572",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038979880214499729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 天哪简直就是我)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2038979880214499729",
+        "created_at": "2026-03-31T14:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038979880214499729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038979880214499729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特到底怎么开口说话啊，我根本不会和陌生人交朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 111,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 217
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 215,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 680
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

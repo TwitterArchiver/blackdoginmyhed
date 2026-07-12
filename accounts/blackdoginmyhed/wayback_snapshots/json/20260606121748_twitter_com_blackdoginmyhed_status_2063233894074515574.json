@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2063233894074515574",
+    "created_at": "2026-06-06T12:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063233894074515574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiharu_orange…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/chiharu_orange/status/2063231661194739900",
+          "start": 8,
+          "url": "https://t.co/elAuYQyZmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063233894074515574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063231661194739900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "薄荷色美甲喜欢 https://t.co/elAuYQyZmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2063231650318921728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKISQSaaMAAcTsx.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2063233894074515574",
+        "created_at": "2026-06-06T12:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063233894074515574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiharu_orange…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/chiharu_orange/status/2063231661194739900",
+              "start": 8,
+              "url": "https://t.co/elAuYQyZmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063233894074515574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063231661194739900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "薄荷色美甲喜欢 https://t.co/elAuYQyZmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063231650318921728"
+          ]
+        },
+        "author_id": "1972304204619513856",
+        "conversation_id": "2063231661194739900",
+        "created_at": "2026-06-06T12:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063231661194739900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1951181920022437889",
+              "start": 59,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdQjaLwwjn",
+              "end": 99,
+              "expanded_url": "https://x.com/chiharu_orange/status/2063231661194739900/photo/1",
+              "media_key": "3_2063231650318921728",
+              "start": 76,
+              "url": "https://t.co/mdQjaLwwjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063231661194739900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道，我好困啊\n就他妈周末偷摸找阴暗的角落来一根\n我上次回家又是什么时候呢\n\n卧槽俄烟真好抽还是是我斯拉夫情节犯了 @blackdoginmyhed https://t.co/mdQjaLwwjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2062660608240349272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 619,
+          "like_count": 3984,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1203
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T14:15:47.000Z",
+        "description": "18↑⚠内有死鸽⚠\n天龙老鼠人｜oc口嗨 #橘眠记事本｜和安知 #安知我\n*本质是储存/黑泥/倾诉的账号 | 会刷屏\n*在这里发的所有东西不会也不应该出现在墙内的sns\n*匿名/Q&A：https://t.co/LmAQxTPeEQ\n*如果你觉得我的存在让你不舒服，我故意的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "橘眠记事本"
+              },
+              {
+                "end": 36,
+                "start": 32,
+                "tag": "安知我"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/chiharu_orange",
+                "end": 116,
+                "expanded_url": "https://confess.ngl.link/chiharu_orange",
+                "start": 93,
+                "url": "https://t.co/LmAQxTPeEQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzhi-ehzo.com",
+                "end": 23,
+                "expanded_url": "https://anzhi-ehzo.com/",
+                "start": 0,
+                "url": "https://t.co/Z7dpIO2Fby"
+              }
+            ]
+          }
+        },
+        "id": "1972304204619513856",
+        "location": "阴暗的角落",
+        "name": "橘眠",
+        "pinned_tweet_id": "2045802022709199203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973012959770312704/NDQU4tyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 59,
+          "like_count": 18714,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/Z7dpIO2Fby",
+        "username": "chiharu_orange",
+        "verified": true
+      }
+    ]
+  }
+}

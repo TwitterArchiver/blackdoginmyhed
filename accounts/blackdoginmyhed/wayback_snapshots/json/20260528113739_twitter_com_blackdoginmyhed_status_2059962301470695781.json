@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059658888996130817"
+      ],
+      "media_source_tweet_id": [
+        "2059658891168751705"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2059962301470695781",
+    "created_at": "2026-05-28T11:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059962301470695781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1125264611454988288",
+          "start": 3,
+          "username": "tortadefrango67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y33dKIaaMD",
+          "end": 63,
+          "expanded_url": "https://x.com/tortadefrango67/status/2059658891168751705/photo/1",
+          "media_key": "3_2059658888996130817",
+          "start": 40,
+          "url": "https://t.co/y33dKIaaMD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059962301470695781",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 735
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059658891168751705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tortadefrango67: bebam água pessoal https://t.co/y33dKIaaMD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2059658888996130817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVg2NUXEAEEJ5p.jpg",
+        "width": 519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059658888996130817"
+          ],
+          "media_source_tweet_id": [
+            "2059658891168751705"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2059962301470695781",
+        "created_at": "2026-05-28T11:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059962301470695781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1125264611454988288",
+              "start": 3,
+              "username": "tortadefrango67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y33dKIaaMD",
+              "end": 63,
+              "expanded_url": "https://x.com/tortadefrango67/status/2059658891168751705/photo/1",
+              "media_key": "3_2059658888996130817",
+              "start": 40,
+              "url": "https://t.co/y33dKIaaMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059962301470695781",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 735
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059658891168751705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tortadefrango67: bebam água pessoal https://t.co/y33dKIaaMD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059658888996130817"
+          ]
+        },
+        "author_id": "1125264611454988288",
+        "conversation_id": "2059658891168751705",
+        "created_at": "2026-05-27T15:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059658891168751705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y33dKIaaMD",
+              "end": 42,
+              "expanded_url": "https://x.com/tortadefrango67/status/2059658891168751705/photo/1",
+              "media_key": "3_2059658888996130817",
+              "start": 19,
+              "url": "https://t.co/y33dKIaaMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658891168751705",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 381,
+          "impression_count": 62595,
+          "like_count": 8431,
+          "quote_count": 12,
+          "reply_count": 14,
+          "retweet_count": 735
+        },
+        "reply_settings": "everyone",
+        "text": "bebam água pessoal https://t.co/y33dKIaaMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 538,
+          "like_count": 3454,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1007
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T05:02:44.000Z",
+        "description": "uma tortita uma simples torta pequena e frágil uma tortinha de frango mt deliciosa uma torta de frango (tenho dona linda fofa🩷) #amomeustortiletes",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 128,
+                "tag": "amomeustortiletes"
+              }
+            ]
+          }
+        },
+        "id": "1125264611454988288",
+        "name": "torta de frango",
+        "pinned_tweet_id": "1340131091420745728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041166381211623424/EZAQ4Tho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24120,
+          "following_count": 873,
+          "like_count": 54652,
+          "listed_count": 14,
+          "media_count": 3644,
+          "tweet_count": 36118
+        },
+        "username": "tortadefrango67",
+        "verified": false
+      }
+    ]
+  }
+}

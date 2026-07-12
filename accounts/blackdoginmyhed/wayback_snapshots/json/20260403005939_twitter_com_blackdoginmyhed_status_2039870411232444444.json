@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2039870411232444444",
+    "created_at": "2026-04-03T00:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039870411232444444"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "电子烟"
+        },
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "vape"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "悦刻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1853293374889136128",
+          "start": 14,
+          "username": "gimanother"
+        },
+        {
+          "end": 36,
+          "id": "1452123941686976519",
+          "start": 26,
+          "username": "C21Koy_7c"
+        },
+        {
+          "end": 45,
+          "id": "1546104577161760768",
+          "start": 37,
+          "username": "R0y0o0u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/blackdoginmyhe…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/blackdoginmyhed/status/2038614379386884266",
+          "start": 107,
+          "url": "https://t.co/AByJvQPxj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039870411232444444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038614379386884266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好上早推特 现在是开奖时间\n@gimanother\n@C21Koy_7c\n@R0y0o0u\n恭喜这三位!\n如果是要电子烟的话请收到了返张图给我\n推u找我买电子烟有折扣一只以上包邮哦!\n#电子烟 #vape #悦刻 https://t.co/AByJvQPxj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2038613709346770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqcXhvbEAAWkh7.jpg",
+        "width": 1720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2039870411232444444",
+        "created_at": "2026-04-03T00:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039870411232444444"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "电子烟"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "vape"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "悦刻"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1853293374889136128",
+              "start": 14,
+              "username": "gimanother"
+            },
+            {
+              "end": 36,
+              "id": "1452123941686976519",
+              "start": 26,
+              "username": "C21Koy_7c"
+            },
+            {
+              "end": 45,
+              "id": "1546104577161760768",
+              "start": 37,
+              "username": "R0y0o0u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/blackdoginmyhe…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/blackdoginmyhed/status/2038614379386884266",
+              "start": 107,
+              "url": "https://t.co/AByJvQPxj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039870411232444444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038614379386884266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好上早推特 现在是开奖时间\n@gimanother\n@C21Koy_7c\n@R0y0o0u\n恭喜这三位!\n如果是要电子烟的话请收到了返张图给我\n推u找我买电子烟有折扣一只以上包邮哦!\n#电子烟 #vape #悦刻 https://t.co/AByJvQPxj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038613709346770944"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2038614379386884266",
+        "created_at": "2026-03-30T13:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038614379386884266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "vape"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "电子烟"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "悦刻"
+            },
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "一次性电子烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYgySxBGEs",
+              "end": 169,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2038614379386884266/photo/1",
+              "media_key": "3_2038613709346770944",
+              "start": 146,
+              "url": "https://t.co/nYgySxBGEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038614379386884266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 326,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "转发这条然后和我互fo 这周五抽三位自选一只70r电子烟 可折现电子烟!\n我要卖点电子烟赚点烟钱!\n主营一次性和换弹 一手自发实惠价!\n下图是26号的品类口味表可供参考\n#vape #电子烟 #悦刻 #一次性电子烟 \n(重发的原因是因为之前那条里没写转发()所以重新发一遍 之前那条转了也算 https://t.co/nYgySxBGEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 134,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 253
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 250,
+          "like_count": 22768,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 2779
+        },
+        "username": "gimanother",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 3398,
+          "like_count": 29726,
+          "listed_count": 5,
+          "media_count": 2104,
+          "tweet_count": 27994
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-10T12:11:13.000Z",
+        "description": "单机｜❤️→@Monika13145201｜裏垢→@moep89677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "Monika13145201"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "moep89677"
+              }
+            ]
+          }
+        },
+        "id": "1546104577161760768",
+        "location": "Suisei",
+        "name": "Ryou",
+        "pinned_tweet_id": "2003518084133585011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 356,
+          "like_count": 6633,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 7038
+        },
+        "username": "R0y0o0u",
+        "verified": false
+      }
+    ]
+  }
+}

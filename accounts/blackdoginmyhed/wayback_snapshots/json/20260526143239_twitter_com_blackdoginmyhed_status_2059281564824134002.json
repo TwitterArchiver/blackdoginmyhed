@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2059157905782534437",
+    "created_at": "2026-05-26T14:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059281564824134002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040359655419830272",
+          "start": 0,
+          "username": "zzz1039883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059281564824134002",
+    "in_reply_to_user_id": "2040359655419830272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059157905782534437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz1039883 你好（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2059157905782534437",
+        "created_at": "2026-05-26T14:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059281564824134002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040359655419830272",
+              "start": 0,
+              "username": "zzz1039883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059281564824134002",
+        "in_reply_to_user_id": "2040359655419830272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059157905782534437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1039883 你好（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040359655419830272",
+        "conversation_id": "2059157905782534437",
+        "created_at": "2026-05-26T06:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059157905782534437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059157905782534437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能给我推一点卖电子烟的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼传统革新都抽/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 510,
+          "like_count": 3253,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 954
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T09:23:54.000Z",
+        "description": "4i 175-150-enfp /交友 聊天 搞黄色/碎碎念/柳智敏全肯定账号^^ 有🚪",
+        "id": "2040359655419830272",
+        "name": "香菜毁灭者",
+        "pinned_tweet_id": "2046470536000336342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059203472764088320/m2f9pM-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 38,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 195
+        },
+        "username": "zzz1039883",
+        "verified": false
+      }
+    ]
+  }
+}

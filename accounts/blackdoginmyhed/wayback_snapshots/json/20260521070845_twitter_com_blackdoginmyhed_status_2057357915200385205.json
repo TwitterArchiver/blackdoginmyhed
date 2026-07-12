@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057352275513995264",
+        "3_2057352275518242816"
+      ],
+      "media_source_tweet_id": [
+        "2057352284947030480",
+        "2057352284947030480"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2057357915200385205",
+    "created_at": "2026-05-21T07:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057357915200385205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949348575378644992",
+          "start": 3,
+          "username": "Ace_Purin"
+        },
+        {
+          "end": 24,
+          "id": "1632832954421633029",
+          "start": 15,
+          "username": "482xxnay"
+        },
+        {
+          "end": 35,
+          "id": "1452123941686976519",
+          "start": 25,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2gaxBqba8p",
+          "end": 105,
+          "expanded_url": "https://x.com/Ace_Purin/status/2057352284947030480/photo/1",
+          "media_key": "3_2057352275513995264",
+          "start": 82,
+          "url": "https://t.co/2gaxBqba8p"
+        },
+        {
+          "display_url": "pic.x.com/2gaxBqba8p",
+          "end": 105,
+          "expanded_url": "https://x.com/Ace_Purin/status/2057352284947030480/photo/1",
+          "media_key": "3_2057352275518242816",
+          "start": 82,
+          "url": "https://t.co/2gaxBqba8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057357915200385205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057352284947030480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ace_Purin: @482xxnay @C21Koy_7c 被奸人所害再次惨遭封号 需要联系可以评论区或者dm我转告一下\n本人发自内心的对审核感到疑惑 https://t.co/2gaxBqba8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057352275513995264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0u_ofacAAn_sc.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057352275518242816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0u_ogbQAAHt0Y.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057352275513995264",
+            "3_2057352275518242816"
+          ],
+          "media_source_tweet_id": [
+            "2057352284947030480",
+            "2057352284947030480"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2057357915200385205",
+        "created_at": "2026-05-21T07:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057357915200385205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949348575378644992",
+              "start": 3,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 24,
+              "id": "1632832954421633029",
+              "start": 15,
+              "username": "482xxnay"
+            },
+            {
+              "end": 35,
+              "id": "1452123941686976519",
+              "start": 25,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gaxBqba8p",
+              "end": 105,
+              "expanded_url": "https://x.com/Ace_Purin/status/2057352284947030480/photo/1",
+              "media_key": "3_2057352275513995264",
+              "start": 82,
+              "url": "https://t.co/2gaxBqba8p"
+            },
+            {
+              "display_url": "pic.x.com/2gaxBqba8p",
+              "end": 105,
+              "expanded_url": "https://x.com/Ace_Purin/status/2057352284947030480/photo/1",
+              "media_key": "3_2057352275518242816",
+              "start": 82,
+              "url": "https://t.co/2gaxBqba8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057357915200385205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057352284947030480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ace_Purin: @482xxnay @C21Koy_7c 被奸人所害再次惨遭封号 需要联系可以评论区或者dm我转告一下\n本人发自内心的对审核感到疑惑 https://t.co/2gaxBqba8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057352275513995264",
+            "3_2057352275518242816"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2057352284947030480",
+        "created_at": "2026-05-21T06:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057352284947030480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632832954421633029",
+              "start": 0,
+              "username": "482xxnay"
+            },
+            {
+              "end": 20,
+              "id": "1452123941686976519",
+              "start": 10,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gaxBqba8p",
+              "end": 90,
+              "expanded_url": "https://x.com/Ace_Purin/status/2057352284947030480/photo/1",
+              "media_key": "3_2057352275513995264",
+              "start": 67,
+              "url": "https://t.co/2gaxBqba8p"
+            },
+            {
+              "display_url": "pic.x.com/2gaxBqba8p",
+              "end": 90,
+              "expanded_url": "https://x.com/Ace_Purin/status/2057352284947030480/photo/1",
+              "media_key": "3_2057352275518242816",
+              "start": 67,
+              "url": "https://t.co/2gaxBqba8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057352284947030480",
+        "in_reply_to_user_id": "1632832954421633029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@482xxnay @C21Koy_7c 被奸人所害再次惨遭封号 需要联系可以评论区或者dm我转告一下\n本人发自内心的对审核感到疑惑 https://t.co/2gaxBqba8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 448,
+          "like_count": 2839,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 822
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 217,
+          "like_count": 2669,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 不接急单 不接急单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "2052774374865006816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 529,
+          "like_count": 3976,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 4249
+        },
+        "username": "482xxnay",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 3554,
+          "like_count": 32099,
+          "listed_count": 2,
+          "media_count": 2308,
+          "tweet_count": 29993
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

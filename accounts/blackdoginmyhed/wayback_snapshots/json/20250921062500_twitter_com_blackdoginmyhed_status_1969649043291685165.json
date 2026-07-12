@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "1969649043291685165",
+    "created_at": "2025-09-21T06:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969649043291685165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDzhanshou5150…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/DDzhanshou5150/status/1969530646549971128",
+          "start": 5,
+          "url": "https://t.co/3ig9ruy8xm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969649043291685165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969530646549971128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尼古丁！ https://t.co/3ig9ruy8xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_1969530596201545728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1UtpGjbQAADlqq.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "1969649043291685165",
+        "created_at": "2025-09-21T06:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969649043291685165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1969530646549971128",
+              "start": 5,
+              "url": "https://t.co/3ig9ruy8xm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969649043291685165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969530646549971128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼古丁！ https://t.co/3ig9ruy8xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969530596201545728"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1969530646549971128",
+        "created_at": "2025-09-20T22:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T23:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969530646549971128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDPJRamDcU",
+              "end": 33,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1969530646549971128/photo/1",
+              "media_key": "3_1969530596201545728",
+              "start": 10,
+              "url": "https://t.co/xDPJRamDcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969530646549971128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 29834,
+          "like_count": 275,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "就在刚刚你发明了粉 https://t.co/xDPJRamDcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "nag2sa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961854510021890048/OR2QZ81E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7040,
+          "following_count": 6557,
+          "like_count": 23063,
+          "listed_count": 15,
+          "media_count": 4801,
+          "tweet_count": 33342
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

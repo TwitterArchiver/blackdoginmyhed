@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2034861592207401186",
+    "created_at": "2026-03-20T05:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034861592207401186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Arara_P_Land/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Arara_P_Land/status/2034749252191109237",
+          "start": 7,
+          "url": "https://t.co/TbAffXe3u0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034861592207401186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034749252191109237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊呀骇死我哩 https://t.co/TbAffXe3u0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_2034675940643807234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDye_OMboAIAHGh.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2034861592207401186",
+        "created_at": "2026-03-20T05:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034861592207401186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Arara_P_Land/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Arara_P_Land/status/2034749252191109237",
+              "start": 7,
+              "url": "https://t.co/TbAffXe3u0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034861592207401186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034749252191109237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊呀骇死我哩 https://t.co/TbAffXe3u0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034675940643807234"
+          ]
+        },
+        "author_id": "1861014145505910784",
+        "conversation_id": "2034749252191109237",
+        "created_at": "2026-03-19T21:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T22:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034749252191109237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE3e95CZ6K",
+              "end": 30,
+              "expanded_url": "https://x.com/Arara_P_Land/status/2034749252191109237/photo/1",
+              "media_key": "3_2034675940643807234",
+              "start": 7,
+              "url": "https://t.co/rE3e95CZ6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034749252191109237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 662,
+          "impression_count": 842658,
+          "like_count": 10772,
+          "quote_count": 132,
+          "reply_count": 81,
+          "retweet_count": 799
+        },
+        "reply_settings": "everyone",
+        "text": "真冬、たばこ https://t.co/rE3e95CZ6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/也许是enby/非三无都会回fo虽然也没人fo（",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026312026201505792/w8nfM-7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 76,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 98
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:48:52.000Z",
+        "description": "ホッケをおいしく焼ける人が好きです。\nrapirando@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arara-p-land.com",
+                "end": 23,
+                "expanded_url": "https://arara-p-land.com",
+                "start": 0,
+                "url": "https://t.co/oQEJK7Vqad"
+              }
+            ]
+          }
+        },
+        "id": "1861014145505910784",
+        "location": "リンク集→",
+        "name": "らぴらんど",
+        "pinned_tweet_id": "2033064368724914502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013378544731095040/BoUXu0I8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6814,
+          "following_count": 86,
+          "like_count": 30198,
+          "listed_count": 27,
+          "media_count": 851,
+          "tweet_count": 4592
+        },
+        "url": "https://t.co/oQEJK7Vqad",
+        "username": "Arara_P_Land",
+        "verified": true
+      }
+    ]
+  }
+}

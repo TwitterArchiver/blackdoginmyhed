@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2060553567765762545",
+    "created_at": "2026-05-30T02:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060553567765762545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Anonymous77921…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Anonymous779215/status/2060365260771471646",
+          "start": 8,
+          "url": "https://t.co/m7n87Fs75B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060553567765762545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060365260771471646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会员制餐厅，， https://t.co/m7n87Fs75B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2060553567765762545",
+        "created_at": "2026-05-30T02:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060553567765762545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Anonymous77921…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Anonymous779215/status/2060365260771471646",
+              "start": 8,
+              "url": "https://t.co/m7n87Fs75B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060553567765762545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060365260771471646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会员制餐厅，， https://t.co/m7n87Fs75B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977352693245980672",
+        "conversation_id": "2060365260771471646",
+        "created_at": "2026-05-29T14:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060365260771471646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060365260771471646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2494,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "我打算建个蓝v群，有没有人想进"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 553,
+          "like_count": 3547,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1060
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:36:43.000Z",
+        "description": ".",
+        "id": "1977352693245980672",
+        "name": "Anonymous",
+        "pinned_tweet_id": "2059654282912141627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016476555103358976/ir3bfWgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 365,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1380
+        },
+        "username": "Anonymous779215",
+        "verified": true
+      }
+    ]
+  }
+}

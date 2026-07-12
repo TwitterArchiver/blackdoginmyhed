@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2075247028813402583",
+    "created_at": "2026-07-09T15:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075247028813402583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RaminNasibov/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/RaminNasibov/status/2074891773646721534",
+          "start": 8,
+          "url": "https://t.co/z9rvEdnHVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075247028813402583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074891773646721534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太阳系的真相! https://t.co/z9rvEdnHVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_2074891771369177088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt_EqPXQAAGiNO.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2075247028813402583",
+        "created_at": "2026-07-09T15:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075247028813402583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RaminNasibov/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/RaminNasibov/status/2074891773646721534",
+              "start": 8,
+              "url": "https://t.co/z9rvEdnHVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075247028813402583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074891773646721534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太阳系的真相! https://t.co/z9rvEdnHVU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074891771369177088"
+          ]
+        },
+        "author_id": "36889519",
+        "conversation_id": "2074891773646721534",
+        "created_at": "2026-07-08T16:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074891773646721534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04ov8f4wJq",
+              "end": 23,
+              "expanded_url": "https://x.com/RaminNasibov/status/2074891773646721534/photo/1",
+              "media_key": "3_2074891771369177088",
+              "start": 0,
+              "url": "https://t.co/04ov8f4wJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074891773646721534",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 75792,
+          "like_count": 4891,
+          "quote_count": 30,
+          "reply_count": 33,
+          "retweet_count": 592
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/04ov8f4wJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我（ 推文能看到很多记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 651,
+          "like_count": 4614,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T05:13:30.000Z",
+        "description": "Branding & Visual Identity Designer ✦ Available for new projects: ramin@nasibov.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasibov.me",
+                "end": 23,
+                "expanded_url": "https://www.nasibov.me",
+                "start": 0,
+                "url": "https://t.co/iCqDSJzjlc"
+              }
+            ]
+          }
+        },
+        "id": "36889519",
+        "location": "Book a project →",
+        "name": "Ramin Nasibov",
+        "pinned_tweet_id": "2074967981927395634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006792793650323456/WI88G3rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859403,
+          "following_count": 301845,
+          "like_count": 908957,
+          "listed_count": 3983,
+          "media_count": 76745,
+          "tweet_count": 93158
+        },
+        "url": "https://t.co/iCqDSJzjlc",
+        "username": "RaminNasibov",
+        "verified": true
+      }
+    ]
+  }
+}

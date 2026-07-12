@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2026867912548454705",
+    "created_at": "2026-02-26T03:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026867912548454705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/anblk984/status/2026554768240554019",
+          "start": 16,
+          "url": "https://t.co/4EhqgHm4BH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026867912548454705",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026554768240554019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "mark think mark https://t.co/4EhqgHm4BH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2026554704730505216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_ExE1bwAAKo-Z.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2026867912548454705",
+        "created_at": "2026-02-26T03:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026867912548454705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/anblk984/status/2026554768240554019",
+              "start": 16,
+              "url": "https://t.co/4EhqgHm4BH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026867912548454705",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026554768240554019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mark think mark https://t.co/4EhqgHm4BH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026554704730505216"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026554768240554019",
+        "created_at": "2026-02-25T07:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:07:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026554707221914110",
+          "2026554768240554019"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "范马勇次郎",
+              "probability": 0.2939,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElUiJ7cHca",
+              "end": 30,
+              "expanded_url": "https://x.com/anblk984/status/2026554768240554019/photo/1",
+              "media_key": "3_2026554704730505216",
+              "start": 7,
+              "url": "https://t.co/ElUiJ7cHca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026554768240554019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8340,
+          "like_count": 120,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "范马勇次郎： https://t.co/ElUiJ7cHca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/非三无都会回fo虽然也没人fo（",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026312026201505792/w8nfM-7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/劳保爱习楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2020994442631709177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9563,
+          "following_count": 971,
+          "like_count": 104586,
+          "listed_count": 59,
+          "media_count": 2004,
+          "tweet_count": 25871
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

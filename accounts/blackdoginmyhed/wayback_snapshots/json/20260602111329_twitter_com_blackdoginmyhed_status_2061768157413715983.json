@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061765231597244416",
+        "3_2061765231618220032"
+      ],
+      "media_source_tweet_id": [
+        "2061765242645028872",
+        "2061765242645028872"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1309225658623508480",
+          "name": "呪術廻戦"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1346901380292775936",
+          "name": "Jujutsu Kaisen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1346901380292775936",
+          "name": "Jujutsu Kaisen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2061768157413715983",
+    "created_at": "2026-06-02T11:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061768157413715983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 34,
+          "tag": "pridemonth"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "jjk"
+        },
+        {
+          "end": 65,
+          "start": 51,
+          "tag": "jujutsukaisen"
+        },
+        {
+          "end": 78,
+          "start": 66,
+          "tag": "kirarahoshi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853293374889136128",
+          "start": 3,
+          "username": "gimanother"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tt64Qouz6C",
+          "end": 102,
+          "expanded_url": "https://x.com/gimanother/status/2061765242645028872/photo/1",
+          "media_key": "3_2061765231597244416",
+          "start": 79,
+          "url": "https://t.co/Tt64Qouz6C"
+        },
+        {
+          "display_url": "pic.x.com/Tt64Qouz6C",
+          "end": 102,
+          "expanded_url": "https://x.com/gimanother/status/2061765242645028872/photo/1",
+          "media_key": "3_2061765231618220032",
+          "start": 79,
+          "url": "https://t.co/Tt64Qouz6C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061768157413715983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061765242645028872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gimanother: 骄傲月快乐！（来迟了一天因为工作）\n#pridemonth #jjk #jujutsukaisen #kirarahoshi https://t.co/Tt64Qouz6C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061768157413715983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061768157413715983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061768157413715983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2061765231597244416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzcje-a0AAthk1.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2061765231618220032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzcjfDa4AAJRxp.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061765231597244416",
+            "3_2061765231618220032"
+          ]
+        },
+        "author_id": "1853293374889136128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309225658623508480",
+              "name": "呪術廻戦"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1346901380292775936",
+              "name": "Jujutsu Kaisen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346901380292775936",
+              "name": "Jujutsu Kaisen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061765242645028872",
+        "created_at": "2026-06-02T11:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061765242645028872"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "pridemonth"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "jjk"
+            },
+            {
+              "end": 49,
+              "start": 35,
+              "tag": "jujutsukaisen"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "kirarahoshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt64Qouz6C",
+              "end": 86,
+              "expanded_url": "https://x.com/gimanother/status/2061765242645028872/photo/1",
+              "media_key": "3_2061765231597244416",
+              "start": 63,
+              "url": "https://t.co/Tt64Qouz6C"
+            },
+            {
+              "display_url": "pic.x.com/Tt64Qouz6C",
+              "end": 86,
+              "expanded_url": "https://x.com/gimanother/status/2061765242645028872/photo/1",
+              "media_key": "3_2061765231618220032",
+              "start": 63,
+              "url": "https://t.co/Tt64Qouz6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061765242645028872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "骄傲月快乐！（来迟了一天因为工作）\n#pridemonth #jjk #jujutsukaisen #kirarahoshi https://t.co/Tt64Qouz6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 576,
+          "like_count": 3739,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1136
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 273,
+          "like_count": 25094,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2901
+        },
+        "username": "gimanother",
+        "verified": false
+      }
+    ]
+  }
+}

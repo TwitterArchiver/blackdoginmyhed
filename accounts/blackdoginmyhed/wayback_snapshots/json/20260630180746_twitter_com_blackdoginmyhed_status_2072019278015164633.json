@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2072019278015164633",
+    "created_at": "2026-06-30T18:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072019278015164633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grumiaux_vn/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/grumiaux_vn/status/2071795743476908490",
+          "start": 2,
+          "url": "https://t.co/cIbH6wlsg5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072019278015164633",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071795743476908490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😢 https://t.co/cIbH6wlsg5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071795735461498882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB_PptaEAIUlGh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2072019278015164633",
+        "created_at": "2026-06-30T18:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072019278015164633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grumiaux_vn/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/grumiaux_vn/status/2071795743476908490",
+              "start": 2,
+              "url": "https://t.co/cIbH6wlsg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072019278015164633",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071795743476908490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/cIbH6wlsg5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071795735461498882"
+          ]
+        },
+        "author_id": "1948663204013637633",
+        "conversation_id": "2071795743476908490",
+        "created_at": "2026-06-30T03:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071795743476908490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKhdGtG6xJ",
+              "end": 167,
+              "expanded_url": "https://x.com/grumiaux_vn/status/2071795743476908490/photo/1",
+              "media_key": "3_2071795735461498882",
+              "start": 144,
+              "url": "https://t.co/tKhdGtG6xJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071795743476908490",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 38662,
+          "like_count": 3261,
+          "quote_count": 24,
+          "reply_count": 56,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "여러분, 우리 금강이는 더이상 탐라에서 뛰어놀지 못해요. 제가 잘 못 키워서 죄송합니다. 우리 금강이 병원에서 정리해주셔서 나온 모습이에요. 마지막까지 너무 예쁘죠, 잘 보내주고 오겠습니다....너무 짧게 살다 갔다.\n2026.6.24.-2026.6.30. https://t.co/tKhdGtG6xJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 649,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T08:35:05.000Z",
+        "description": "ArthurGrumiaux(@arthurgrumiaux)계정이 일시정지되어 다시 만든 계정입니다. \n집 나간 트친 찾습니다. \n미케(2013.08.05-2021.06.16), 엄마는 너를 영원히 사랑해.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "arthurgrumiaux"
+              }
+            ]
+          }
+        },
+        "id": "1948663204013637633",
+        "location": "대한민국",
+        "name": "ArthurGrumiaux",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953543306681757697/SwrMUq8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 232,
+          "like_count": 20698,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "grumiaux_vn",
+        "verified": false
+      }
+    ]
+  }
+}

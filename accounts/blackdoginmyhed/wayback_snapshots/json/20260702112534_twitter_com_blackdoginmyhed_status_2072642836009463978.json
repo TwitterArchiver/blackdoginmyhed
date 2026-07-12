@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2072642836009463978",
+    "created_at": "2026-07-02T11:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072642836009463978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KK_Paqu/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/KK_Paqu/status/2072625168267317655",
+          "start": 5,
+          "url": "https://t.co/irAZVnMEC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072642836009463978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072625168267317655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剧烈好吃 https://t.co/irAZVnMEC1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072625144699478016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNxln5a4AAIcH9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2072642836009463978",
+        "created_at": "2026-07-02T11:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072642836009463978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KK_Paqu/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/KK_Paqu/status/2072625168267317655",
+              "start": 5,
+              "url": "https://t.co/irAZVnMEC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072642836009463978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072625168267317655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈好吃 https://t.co/irAZVnMEC1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072625144699478016"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072625168267317655",
+        "created_at": "2026-07-02T10:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072625168267317655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d18Zieiytm",
+              "end": 35,
+              "expanded_url": "https://x.com/KK_Paqu/status/2072625168267317655/photo/1",
+              "media_key": "3_2072625144699478016",
+              "start": 12,
+              "url": "https://t.co/d18Zieiytm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072625168267317655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个傻逼玩意真的很好吃 https://t.co/d18Zieiytm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 648,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1302
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 209,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 692
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

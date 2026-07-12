@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067987029774958592"
+      ],
+      "media_source_tweet_id": [
+        "2067987037454823600"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068220945106665788",
+    "created_at": "2026-06-20T06:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068220945106665788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1063048238884777984",
+          "start": 3,
+          "username": "46_neko3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2tZNPewCJL",
+          "end": 45,
+          "expanded_url": "https://x.com/46_neko3/status/2067987037454823600/photo/1",
+          "media_key": "3_2067987029774958592",
+          "start": 22,
+          "url": "https://t.co/2tZNPewCJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068220945106665788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067987037454823600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @46_neko3: おめでとうねこ https://t.co/2tZNPewCJL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067987029774958592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL3PzXaAAAT9xA.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067987029774958592"
+          ],
+          "media_source_tweet_id": [
+            "2067987037454823600"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068220945106665788",
+        "created_at": "2026-06-20T06:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068220945106665788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1063048238884777984",
+              "start": 3,
+              "username": "46_neko3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tZNPewCJL",
+              "end": 45,
+              "expanded_url": "https://x.com/46_neko3/status/2067987037454823600/photo/1",
+              "media_key": "3_2067987029774958592",
+              "start": 22,
+              "url": "https://t.co/2tZNPewCJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068220945106665788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067987037454823600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @46_neko3: おめでとうねこ https://t.co/2tZNPewCJL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067987029774958592"
+          ]
+        },
+        "author_id": "1063048238884777984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067987037454823600",
+        "created_at": "2026-06-19T15:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067987037454823600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tZNPewCJL",
+              "end": 31,
+              "expanded_url": "https://x.com/46_neko3/status/2067987037454823600/photo/1",
+              "media_key": "3_2067987029774958592",
+              "start": 8,
+              "url": "https://t.co/2tZNPewCJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067987037454823600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 531,
+          "impression_count": 59296,
+          "like_count": 6117,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 512
+        },
+        "reply_settings": "everyone",
+        "text": "おめでとうねこ https://t.co/2tZNPewCJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 650,
+          "like_count": 4406,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1270
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-15T12:37:05.000Z",
+        "description": "どうも、白猫です。イラストとか不定期に投稿しますFA▹ #白猫の帽子の中身 すけぶ▶︎▶︎▶︎▶︎ https://t.co/ohYNvDNCKx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 28,
+                "tag": "白猫の帽子の中身"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@46_neko3",
+                "end": 73,
+                "expanded_url": "https://skeb.jp/@46_neko3",
+                "start": 50,
+                "url": "https://t.co/ohYNvDNCKx"
+              }
+            ]
+          }
+        },
+        "id": "1063048238884777984",
+        "location": "（♡）╯⩌  ̫ ⩌╰（♡）",
+        "name": "白猫@和み",
+        "pinned_tweet_id": "1767490238887428591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774676739622572032/ziLnkVIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5119,
+          "following_count": 708,
+          "like_count": 14140,
+          "listed_count": 27,
+          "media_count": 5160,
+          "tweet_count": 17700
+        },
+        "url": "",
+        "username": "46_neko3",
+        "verified": false
+      }
+    ]
+  }
+}

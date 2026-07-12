@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2058691765130133846",
+    "created_at": "2026-05-25T09:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058843197842059600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058843197842059600",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058842820027568274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 哦哦这样 我也在景区见过这种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2058842722539380736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ6jEVboAAH67p.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2058691765130133846",
+        "created_at": "2026-05-25T09:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058843197842059600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058843197842059600",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058842820027568274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 哦哦这样 我也在景区见过这种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058842722539380736"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "2058691765130133846",
+        "created_at": "2026-05-25T09:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058842820027568274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSsh90DCGM",
+              "end": 92,
+              "expanded_url": "https://x.com/bai57248/status/2058842820027568274/photo/1",
+              "media_key": "3_2058842722539380736",
+              "start": 69,
+              "url": "https://t.co/iSsh90DCGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058842820027568274",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058826655729434786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 茶烟，不含尼古丁，茶叶做的，抽着稍微有点香气，我在解放碑这边看到感觉挺有意思就买了，其他地方没看到有卖 https://t.co/iSsh90DCGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没有回fo直接私聊喊我）\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 473,
+          "like_count": 3079,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 882
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记//！！包含无意义喊话！！//",
+        "id": "1677530479782768641",
+        "name": "小水儿",
+        "pinned_tweet_id": "2025813693687308701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033832964237496323/B-NIeNXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5551,
+          "following_count": 795,
+          "like_count": 48513,
+          "listed_count": 10,
+          "media_count": 1943,
+          "tweet_count": 12214
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

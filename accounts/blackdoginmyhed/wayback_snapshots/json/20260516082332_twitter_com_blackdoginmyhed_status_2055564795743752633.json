@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2054739488723943491",
+    "created_at": "2026-05-16T08:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055564795743752633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793305845444612096",
+          "start": 0,
+          "username": "NrsimhaScratch"
+        },
+        {
+          "end": 27,
+          "id": "1804218510278823939",
+          "start": 16,
+          "username": "lystodyne2"
+        },
+        {
+          "end": 44,
+          "id": "1701484460250890240",
+          "start": 28,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055564795743752633",
+    "in_reply_to_user_id": "1793305845444612096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055558971113799760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NrsimhaScratch @lystodyne2 @SonogamiRinneTS 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2054739488723943491",
+        "created_at": "2026-05-16T08:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055564795743752633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1793305845444612096",
+              "start": 0,
+              "username": "NrsimhaScratch"
+            },
+            {
+              "end": 27,
+              "id": "1804218510278823939",
+              "start": 16,
+              "username": "lystodyne2"
+            },
+            {
+              "end": 44,
+              "id": "1701484460250890240",
+              "start": 28,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055564795743752633",
+        "in_reply_to_user_id": "1793305845444612096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055558971113799760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NrsimhaScratch @lystodyne2 @SonogamiRinneTS 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793305845444612096",
+        "conversation_id": "2054739488723943491",
+        "created_at": "2026-05-16T08:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055558971113799760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804218510278823939",
+              "start": 0,
+              "username": "lystodyne2"
+            },
+            {
+              "end": 28,
+              "id": "1951181920022437889",
+              "start": 12,
+              "username": "blackdoginmyhed"
+            },
+            {
+              "end": 45,
+              "id": "1701484460250890240",
+              "start": 29,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055558971113799760",
+        "in_reply_to_user_id": "1804218510278823939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055557289315315908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lystodyne2 @blackdoginmyhed @SonogamiRinneTS 脉轮极性不同导致思维方式不同。男性跟谁深深不一定是喜欢谁，而是为向自己证明自己不是性无能来满足自我。女性跟谁深深也不一定是因为喜欢谁，而是为向自己证明自己有魅力来满足自我。一个主动一个被动，世俗男女之间裤裆子里就这点事。南京阿红事件那么多男的都是来都来了不意思一下怕显得他性无能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 403,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 722
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:40:32.000Z",
+        "description": "Anything that hinders the progress of times is Adharm. Adharm will be crushed by Sudarśana cakra.",
+        "id": "1793305845444612096",
+        "name": "नैवेद्यः",
+        "pinned_tweet_id": "2012550384372621679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022691133969829892/FHNGoNhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 208,
+          "like_count": 2038,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1939
+        },
+        "username": "NrsimhaScratch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T18:23:18.000Z",
+        "description": "",
+        "id": "1804218510278823939",
+        "name": "lystodyne2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894602543474294785/DSqegLNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 11869,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 896
+        },
+        "username": "lystodyne2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 3405,
+          "like_count": 1311,
+          "listed_count": 16,
+          "media_count": 245,
+          "tweet_count": 1682
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

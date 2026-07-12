@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2053315625301205285",
+    "created_at": "2026-05-11T14:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053838158522138947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974380290031132672",
+          "start": 0,
+          "username": "kawail_Yachiyo"
+        },
+        {
+          "end": 27,
+          "id": "2045513838850641921",
+          "start": 16,
+          "username": "inline_int"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053838158522138947",
+    "in_reply_to_user_id": "1974380290031132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053396689084469607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawail_Yachiyo @inline_int 太赞了!是举报式自杀干预!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2053315625301205285",
+        "created_at": "2026-05-11T14:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053838158522138947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "kawail_Yachiyo"
+            },
+            {
+              "end": 27,
+              "id": "2045513838850641921",
+              "start": 16,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053838158522138947",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053396689084469607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawail_Yachiyo @inline_int 太赞了!是举报式自杀干预!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2053315625301205285",
+        "created_at": "2026-05-10T08:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053396689084469607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053396689084469607",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 799,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053315625301205285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 我们已将该帖子向X官方提交举报"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些烟!vape电子烟常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个 纸烟有俄产万宝路 查普曼系列 寿百年系列包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 365,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 657
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "一只🐱 | 八年級初中生｜中度抑鬱症｜活躍度不佳，不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9bCGN"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "PPY@推八千代🍥",
+        "pinned_tweet_id": "2051885069829083158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 467,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/uMYDt9bCGN",
+        "username": "kawail_Yachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /HRT2026.3.9🍥/小证2026.4.12/INTP/已炸柜/家长党/天残党/中抑中焦/精卫住院中/ODer/高中生/OIer/彩笔音游人rks15.47/计算机狂热爱好者/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 625,
+          "like_count": 500,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

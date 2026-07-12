@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2063224214493245440"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2063225290424549555",
+    "created_at": "2026-06-06T11:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063225290424549555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fqoOI9ffnz",
+          "end": 32,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2063225290424549555/photo/1",
+          "media_key": "16_2063224214493245440",
+          "start": 9,
+          "url": "https://t.co/fqoOI9ffnz"
+        },
+        {
+          "display_url": "x.com/jiajiajia0104/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/jiajiajia0104/status/2063223118458417647",
+          "start": 33,
+          "url": "https://t.co/rpxlFiW5il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063225290424549555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063223118458417647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶感谢复购!） https://t.co/fqoOI9ffnz https://t.co/rpxlFiW5il"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2063224214493245440",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKILfdzasAAVDJ3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKILfdzasAAVDJ3.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2063223105305112576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIKe5wW8AAuVxN.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2063223105292517377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIKe5tWwAEUwp4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063224214493245440"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2063225290424549555",
+        "created_at": "2026-06-06T11:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063225290424549555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqoOI9ffnz",
+              "end": 32,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2063225290424549555/photo/1",
+              "media_key": "16_2063224214493245440",
+              "start": 9,
+              "url": "https://t.co/fqoOI9ffnz"
+            },
+            {
+              "display_url": "x.com/jiajiajia0104/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/jiajiajia0104/status/2063223118458417647",
+              "start": 33,
+              "url": "https://t.co/rpxlFiW5il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063225290424549555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063223118458417647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶感谢复购!） https://t.co/fqoOI9ffnz https://t.co/rpxlFiW5il"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063223105305112576",
+            "3_2063223105292517377"
+          ]
+        },
+        "author_id": "1368194606555262978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063223118458417647",
+        "created_at": "2026-06-06T11:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063223118458417647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1951181920022437889",
+              "start": 3,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2zTRysfKx",
+              "end": 43,
+              "expanded_url": "https://x.com/jiajiajia0104/status/2063223118458417647/photo/1",
+              "media_key": "3_2063223105305112576",
+              "start": 20,
+              "url": "https://t.co/I2zTRysfKx"
+            },
+            {
+              "display_url": "pic.x.com/I2zTRysfKx",
+              "end": 43,
+              "expanded_url": "https://x.com/jiajiajia0104/status/2063223118458417647/photo/1",
+              "media_key": "3_2063223105292517377",
+              "start": 20,
+              "url": "https://t.co/I2zTRysfKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063223118458417647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱来自@blackdoginmyhed https://t.co/I2zTRysfKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2062660608240349272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 619,
+          "like_count": 3984,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1202
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T13:39:54.000Z",
+        "description": "碎碎念",
+        "id": "1368194606555262978",
+        "location": "地球",
+        "name": "Y:omi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027015555694424064/Iee6Zrfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 160,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1090
+        },
+        "username": "jiajiajia0104",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2060309821652660513",
+    "created_at": "2026-05-29T10:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060309821652660513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiajiajia0104/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jiajiajia0104/status/2060308283328512151",
+          "start": 14,
+          "url": "https://t.co/DB12TCr3jG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060309821652660513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060308283328512151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天好多返图（）还是感谢! https://t.co/DB12TCr3jG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060308265297129472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJevc4jWMAA7Fbz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2060309821652660513",
+        "created_at": "2026-05-29T10:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060309821652660513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiajiajia0104/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jiajiajia0104/status/2060308283328512151",
+              "start": 14,
+              "url": "https://t.co/DB12TCr3jG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060309821652660513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060308283328512151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天好多返图（）还是感谢! https://t.co/DB12TCr3jG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060308265297129472"
+          ]
+        },
+        "author_id": "1368194606555262978",
+        "conversation_id": "2060308283328512151",
+        "created_at": "2026-05-29T10:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060308283328512151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1951181920022437889",
+              "start": 1,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylNwzXxlX5",
+              "end": 50,
+              "expanded_url": "https://x.com/jiajiajia0104/status/2060308283328512151/photo/1",
+              "media_key": "3_2060308265297129472",
+              "start": 27,
+              "url": "https://t.co/ylNwzXxlX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060308283328512151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在@blackdoginmyhed 那里买的 香香喵 https://t.co/ylNwzXxlX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 546,
+          "like_count": 3518,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1040
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T13:39:54.000Z",
+        "description": "碎碎念",
+        "id": "1368194606555262978",
+        "location": "地球",
+        "name": "Y:omi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027015555694424064/Iee6Zrfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 160,
+          "like_count": 3351,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1043
+        },
+        "username": "jiajiajia0104",
+        "verified": false
+      }
+    ]
+  }
+}

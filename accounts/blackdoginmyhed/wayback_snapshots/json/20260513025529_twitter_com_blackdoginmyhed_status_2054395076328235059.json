@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053690737083158528"
+      ],
+      "media_source_tweet_id": [
+        "2053690749892563249"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      }
+    ],
+    "conversation_id": "2054395076328235059",
+    "created_at": "2026-05-13T02:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054395076328235059"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "少女終末旅行"
+        },
+        {
+          "end": 40,
+          "start": 26,
+          "tag": "GirlsLastTour"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566490760698286080",
+          "start": 3,
+          "username": "Dededede2512"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XA5hkBjfGa",
+          "end": 64,
+          "expanded_url": "https://x.com/Dededede2512/status/2053690749892563249/photo/1",
+          "media_key": "3_2053690737083158528",
+          "start": 41,
+          "url": "https://t.co/XA5hkBjfGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054395076328235059",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053690749892563249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dededede2512: #少女終末旅行 #GirlsLastTour https://t.co/XA5hkBjfGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2053690737083158528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAs2C5aEAAXdog.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053690737083158528"
+          ],
+          "media_source_tweet_id": [
+            "2053690749892563249"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2054395076328235059",
+        "created_at": "2026-05-13T02:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054395076328235059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "少女終末旅行"
+            },
+            {
+              "end": 40,
+              "start": 26,
+              "tag": "GirlsLastTour"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566490760698286080",
+              "start": 3,
+              "username": "Dededede2512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XA5hkBjfGa",
+              "end": 64,
+              "expanded_url": "https://x.com/Dededede2512/status/2053690749892563249/photo/1",
+              "media_key": "3_2053690737083158528",
+              "start": 41,
+              "url": "https://t.co/XA5hkBjfGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054395076328235059",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053690749892563249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dededede2512: #少女終末旅行 #GirlsLastTour https://t.co/XA5hkBjfGa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053690737083158528"
+          ]
+        },
+        "author_id": "1566490760698286080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2053690749892563249",
+        "created_at": "2026-05-11T04:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053690749892563249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "少女終末旅行"
+            },
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "GirlsLastTour"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XA5hkBjfGa",
+              "end": 46,
+              "expanded_url": "https://x.com/Dededede2512/status/2053690749892563249/photo/1",
+              "media_key": "3_2053690737083158528",
+              "start": 23,
+              "url": "https://t.co/XA5hkBjfGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053690749892563249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 3440,
+          "like_count": 648,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "#少女終末旅行 #GirlsLastTour https://t.co/XA5hkBjfGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 374,
+          "like_count": 2402,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 694
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T18:18:15.000Z",
+        "description": "hello",
+        "id": "1566490760698286080",
+        "name": "64646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040445545832148993/n3qoPQqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 215
+        },
+        "username": "Dededede2512",
+        "verified": false
+      }
+    ]
+  }
+}

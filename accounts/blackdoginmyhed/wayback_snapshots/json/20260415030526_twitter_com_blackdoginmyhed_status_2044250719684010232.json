@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044248557625147392",
+        "3_2044248545428156417"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2044250719684010232",
+    "created_at": "2026-04-15T03:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T04:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044250719684010232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vrH7ySSPDm",
+          "end": 139,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2044250719684010232/photo/1",
+          "media_key": "3_2044248557625147392",
+          "start": 116,
+          "url": "https://t.co/vrH7ySSPDm"
+        },
+        {
+          "display_url": "pic.x.com/vrH7ySSPDm",
+          "end": 139,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2044250719684010232/photo/1",
+          "media_key": "3_2044248545428156417",
+          "start": 116,
+          "url": "https://t.co/vrH7ySSPDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044250719684010232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烟盒,填充!!\n来自小盐的馈赠 蓝星冰苏打\n不捏爆珠入口是很正但是不多的烟草味加淡淡的薄荷味和凉感\n捏爆珠之后 凉感明显加重加酸奶的酸甜感觉\n很柔和基本没有击喉感而且抽完之后嘴内几乎只有酸奶的味道! 很少粗烟能做的这么舒服 好抽! https://t.co/vrH7ySSPDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_2044248557625147392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6hO3XaAAABQ8R.jpg",
+        "width": 1661
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2044248545428156417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6hOJ7asAEbE_G.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044248557625147392",
+            "3_2044248545428156417"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2044250719684010232",
+        "created_at": "2026-04-15T03:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044250719684010232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vrH7ySSPDm",
+              "end": 139,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2044250719684010232/photo/1",
+              "media_key": "3_2044248557625147392",
+              "start": 116,
+              "url": "https://t.co/vrH7ySSPDm"
+            },
+            {
+              "display_url": "pic.x.com/vrH7ySSPDm",
+              "end": 139,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2044250719684010232/photo/1",
+              "media_key": "3_2044248545428156417",
+              "start": 116,
+              "url": "https://t.co/vrH7ySSPDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044250719684010232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟盒,填充!!\n来自小盐的馈赠 蓝星冰苏打\n不捏爆珠入口是很正但是不多的烟草味加淡淡的薄荷味和凉感\n捏爆珠之后 凉感明显加重加酸奶的酸甜感觉\n很柔和基本没有击喉感而且抽完之后嘴内几乎只有酸奶的味道! 很少粗烟能做的这么舒服 好抽! https://t.co/vrH7ySSPDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 218,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 414
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

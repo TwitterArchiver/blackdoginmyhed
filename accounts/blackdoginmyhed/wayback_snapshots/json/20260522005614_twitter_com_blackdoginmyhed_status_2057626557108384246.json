@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2057447395462623579",
+    "created_at": "2026-05-22T00:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057626557108384246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1977768201414197248",
+          "start": 0,
+          "username": "hi682383713928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057626557108384246",
+    "in_reply_to_user_id": "1977768201414197248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057447395462623579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi682383713928 气笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057447378190553088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2FfVkbUAAFMpd.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2057447395462623579",
+        "created_at": "2026-05-22T00:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057626557108384246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1977768201414197248",
+              "start": 0,
+              "username": "hi682383713928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057626557108384246",
+        "in_reply_to_user_id": "1977768201414197248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057447395462623579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi682383713928 气笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057447378190553088"
+          ]
+        },
+        "author_id": "1977768201414197248",
+        "conversation_id": "2057447395462623579",
+        "created_at": "2026-05-21T13:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057447395462623579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ti9l7GLzn2",
+              "end": 29,
+              "expanded_url": "https://x.com/hi682383713928/status/2057447395462623579/photo/1",
+              "media_key": "3_2057447378190553088",
+              "start": 6,
+              "url": "https://t.co/Ti9l7GLzn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057447395462623579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4084,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个可信吗 https://t.co/Ti9l7GLzn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 450,
+          "like_count": 2860,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 830
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T16:07:54.000Z",
+        "description": "为何痛苦伴我如影随形\n➕🛰️Prunus-padus-L\n➕企鹅2918543818\n我是海 你想怎么叫我都可以 od/自残/精神病/精分双向/mha/胜出相关/杂食可能会转发cp相关雷到你了真是对不起 但是你又能怎么样呢👌\n感谢关注 认识你们会让我很开心",
+        "id": "1977768201414197248",
+        "name": "海",
+        "pinned_tweet_id": "2055627277178900693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045638773766262784/IRwYrsp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 93,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 142
+        },
+        "username": "hi682383713928",
+        "verified": false
+      }
+    ]
+  }
+}

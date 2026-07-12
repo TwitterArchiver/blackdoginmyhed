@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029878627463221248"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2029878669293011390",
+    "created_at": "2026-03-06T11:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029878669293011390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mr38ffO0aV",
+          "end": 26,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2029878669293011390/photo/1",
+          "media_key": "3_2029878627463221248",
+          "start": 3,
+          "url": "https://t.co/mr38ffO0aV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029878669293011390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好赤 https://t.co/mr38ffO0aV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2029878627463221248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuT218aUAAAeYW.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029878627463221248"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029878669293011390",
+        "created_at": "2026-03-06T11:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029878669293011390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mr38ffO0aV",
+              "end": 26,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2029878669293011390/photo/1",
+              "media_key": "3_2029878627463221248",
+              "start": 3,
+              "url": "https://t.co/mr38ffO0aV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029878669293011390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好赤 https://t.co/mr38ffO0aV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/也许是enby/非三无都会回fo虽然也没人fo（",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026312026201505792/w8nfM-7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 67,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 82
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

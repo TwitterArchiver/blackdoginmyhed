@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040074501002530816"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2040071458664370617",
+    "created_at": "2026-04-03T14:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040074619424514415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFNg1MxxTh",
+          "end": 46,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2040074619424514415/photo/1",
+          "media_key": "3_2040074501002530816",
+          "start": 23,
+          "url": "https://t.co/CFNg1MxxTh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040074619424514415",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040071458664370617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 已严肃吸入 https://t.co/CFNg1MxxTh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2040074501002530816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_M8yuWkAAu5Ys.jpg",
+        "width": 2992
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040071449776676864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_KLMBa4AA4ER_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040074501002530816"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2040071458664370617",
+        "created_at": "2026-04-03T14:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040074619424514415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFNg1MxxTh",
+              "end": 46,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2040074619424514415/photo/1",
+              "media_key": "3_2040074501002530816",
+              "start": 23,
+              "url": "https://t.co/CFNg1MxxTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040074619424514415",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040071458664370617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 已严肃吸入 https://t.co/CFNg1MxxTh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040071449776676864"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2040071458664370617",
+        "created_at": "2026-04-03T14:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040071458664370617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsiuBn1fUA",
+              "end": 34,
+              "expanded_url": "https://x.com/hg3551019177402/status/2040071458664370617/photo/1",
+              "media_key": "3_2040071449776676864",
+              "start": 11,
+              "url": "https://t.co/NsiuBn1fUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040071458664370617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人不要睡觉来抽烟 https://t.co/NsiuBn1fUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 140,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 272
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神中（每天吃很多就是了），每天直播一下精神病日常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12大王",
+        "pinned_tweet_id": "2038962394987454574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 435,
+          "like_count": 18422,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 7656
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

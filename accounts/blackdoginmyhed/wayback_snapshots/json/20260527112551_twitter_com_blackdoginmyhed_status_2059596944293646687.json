@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2059582465090687095",
+    "created_at": "2026-05-27T11:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059596944293646687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059326143640276992",
+          "start": 0,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059596944293646687",
+    "in_reply_to_user_id": "2059326143640276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059582465090687095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhiosc3x 安非他酮是戒烟药啊啊啊啊）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2059582465090687095",
+        "created_at": "2026-05-27T11:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059596944293646687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059326143640276992",
+              "start": 0,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059596944293646687",
+        "in_reply_to_user_id": "2059326143640276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059582465090687095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhiosc3x 安非他酮是戒烟药啊啊啊啊）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059326143640276992",
+        "conversation_id": "2059582465090687095",
+        "created_at": "2026-05-27T10:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059582465090687095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059582465090687095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了安非他酮感觉抽烟都不爽了，但是不抽有感觉心里不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼传统革新都抽/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 526,
+          "like_count": 3366,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 981
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜可以互fo哦｜我有点笨笨的会直关，如果冒犯了可以移fo……｜非必要不回私信啦｜内容比较阴暗负面……｜生理女心理女，友跨",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 30,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

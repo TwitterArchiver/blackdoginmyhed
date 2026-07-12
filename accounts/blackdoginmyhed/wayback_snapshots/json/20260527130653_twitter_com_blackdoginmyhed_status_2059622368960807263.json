@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059622282742628352"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2059622368960807263",
+    "created_at": "2026-05-27T13:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059622368960807263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S9IMalFsDy",
+          "end": 34,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2059622368960807263/photo/1",
+          "media_key": "3_2059622282742628352",
+          "start": 11,
+          "url": "https://t.co/S9IMalFsDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059622368960807263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已逐一发射鸭嘴兽快递 https://t.co/S9IMalFsDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2059622282742628352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU_jcZagAANzG0.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059622282742628352"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2059622368960807263",
+        "created_at": "2026-05-27T13:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059622368960807263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9IMalFsDy",
+              "end": 34,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2059622368960807263/photo/1",
+              "media_key": "3_2059622282742628352",
+              "start": 11,
+              "url": "https://t.co/S9IMalFsDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059622368960807263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已逐一发射鸭嘴兽快递 https://t.co/S9IMalFsDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼传统革新都抽/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 528,
+          "like_count": 3384,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 984
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

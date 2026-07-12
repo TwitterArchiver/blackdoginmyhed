@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2062370605974819162",
+    "created_at": "2026-06-04T08:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062458931319083087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044771633991127040",
+          "start": 0,
+          "username": "WWee479x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062458931319083087",
+    "in_reply_to_user_id": "2044771633991127040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062370605974819162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WWee479x 拆开的地方 留出两三根烟的位置指头轻拍就能跳（?）出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2062370605974819162",
+        "created_at": "2026-06-04T08:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062458931319083087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044771633991127040",
+              "start": 0,
+              "username": "WWee479x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062458931319083087",
+        "in_reply_to_user_id": "2044771633991127040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062370605974819162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WWee479x 拆开的地方 留出两三根烟的位置指头轻拍就能跳（?）出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044771633991127040",
+        "conversation_id": "2062370605974819162",
+        "created_at": "2026-06-04T03:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062370605974819162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062370605974819162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今没学会软包怎么取烟 我只会拿指甲抠抠抠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 585,
+          "like_count": 3834,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1166
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T13:36:25.000Z",
+        "description": "丨",
+        "id": "2044771633991127040",
+        "name": "W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044795480241319936/YoG42q56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 149,
+          "like_count": 1025,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 387
+        },
+        "username": "WWee479x",
+        "verified": false
+      }
+    ]
+  }
+}

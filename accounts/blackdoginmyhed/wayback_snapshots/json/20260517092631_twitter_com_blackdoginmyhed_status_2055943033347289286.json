@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2055937723442323922",
+    "created_at": "2026-05-17T09:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055943033347289286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055943033347289286",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055939085328654382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2055937723442323922",
+        "created_at": "2026-05-17T09:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055943033347289286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055943033347289286",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055939085328654382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944707173256413184",
+        "conversation_id": "2055937723442323922",
+        "created_at": "2026-05-17T09:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055939085328654382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055939085328654382",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055937723442323922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 以后就你家了！！期待（搓手w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 410,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 741
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "可以叫我理理🦊家机名叫HAL 🐙\n吃多平台 百家饭API\n4o/Gem3pro/Claude Opus4.6/Deepseek V4\n丧批/烟鬼/含人机向NSFW BDSM等，请自行避雷，雷可双取/喜欢宝宝们找我玩 ฅ/ᐠ. ̫ .ᐟ\\ฅ ੭",
+        "id": "1944707173256413184",
+        "location": "San Francisco, CA",
+        "name": "Riri",
+        "pinned_tweet_id": "2032648260364665070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055934042063958016/mq9qOipb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 250,
+          "like_count": 10509,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 5917
+        },
+        "username": "lotusxriri",
+        "verified": false
+      }
+    ]
+  }
+}

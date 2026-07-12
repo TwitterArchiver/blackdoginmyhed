@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2038976475198890391",
+    "created_at": "2026-03-31T13:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038976475198890391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sakura_LRT/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Sakura_LRT/status/2038957401450447087",
+          "start": 53,
+          "url": "https://t.co/2jbVEEkK2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038976475198890391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038957401450447087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们已经做到了把受到迫害的孩子们从近在眼前的威胁中救出来 \n我在被强制扭送精神病院的时候只想离开那里.. https://t.co/2jbVEEkK2G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2038976475198890391",
+        "created_at": "2026-03-31T13:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038976475198890391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_LRT/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Sakura_LRT/status/2038957401450447087",
+              "start": 53,
+              "url": "https://t.co/2jbVEEkK2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038976475198890391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038957401450447087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们已经做到了把受到迫害的孩子们从近在眼前的威胁中救出来 \n我在被强制扭送精神病院的时候只想离开那里.. https://t.co/2jbVEEkK2G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "2038957401450447087",
+        "created_at": "2026-03-31T12:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:30:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038957124101996815",
+          "2038957401450447087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_LRT/sta…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/Sakura_LRT/status/2038838330792841616",
+              "start": 134,
+              "url": "https://t.co/s1KFHUHwi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038957401450447087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到這起事件已這樣的結果落幕，我只能感到十分的悲傷。\n那些在扭轉機構的受害者，沒有做錯任何事情，可誰知某些救助者決定要排除所有受害者中的跨性別者，只因為ta們的支持者在網上發表的意見。\n這有什麼意義？難道僅憑一個身份就構成你們不救一個人的理由,哪怕ta什麼都沒做錯？\n我在立場上無意支持任何群體和組織，我也對事情的導火索，也就是「代詞的運用」這點不予置評，但就算拋開爭議，以一個旁觀者的視角看待這起事件，那些救助者的決定也是極度不恰當的。 \n因為這种選擇性區別對待受害者的做法，正好跟人道救援的原則相悖。\n人道救援的核心原則為人道、公正、中立與獨立，其中援助的提供僅基於「需求」,不基於國籍、 種族、性別、宗教信仰、政治見解或性別認同。\n重點是，援助不應歧視，且應優先照顧最急迫、最需要幫助的人。\n那些受害者也沒有在被救出來之後還反咬一口救助者吧？為什麼ta們就因網絡上的紛爭就被救助者拋棄？只能說我不理解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 495,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038838330792841616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到這起事件已這樣的結果落幕，我只能感到十分的悲傷。\n那些在扭轉機構的受害者，沒有做錯任何事情，可誰知某些救助者決定要排除所有受害者中的跨性別者，只因為ta們的支持者在網上發表的意見。\n這有什麼意義？難道僅憑一個身份就構成你們不救一個人的理由,哪怕ta什麼都沒做錯？ https://t.co/s1KFHUHwi0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 111,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 214
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "都電荒川線をご利用くださいまして、ありがとうございました。| 🍡🌸 撮り鉄 | 無言フォロー失礼します | Member of @Nekonesiagov @7sRef @Asylumwiki | zh-tw/en/ja | 這個帳號主要使用中文（zh-tw）回覆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Nekonesiagov"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "username": "7sRef"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Asylumwiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toaran.art",
+                "end": 23,
+                "expanded_url": "https://www.toaran.art/",
+                "start": 0,
+                "url": "https://t.co/9k4bLMB18a"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "SA01🌸三ノ輪橋停留場",
+        "name": "とあらん",
+        "pinned_tweet_id": "2031375207534047309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031984681504423939/y2Kly41o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 2328,
+          "like_count": 92810,
+          "listed_count": 9,
+          "media_count": 2269,
+          "tweet_count": 8405
+        },
+        "url": "https://t.co/9k4bLMB18a",
+        "username": "Sakura_LRT",
+        "verified": true
+      }
+    ]
+  }
+}

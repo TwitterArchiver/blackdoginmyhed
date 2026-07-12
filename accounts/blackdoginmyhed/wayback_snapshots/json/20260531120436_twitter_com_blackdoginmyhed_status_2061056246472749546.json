@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2061046765063921877",
+    "created_at": "2026-05-31T12:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061056246472749546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049292877814173696",
+          "start": 0,
+          "username": "Shuliaosui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061056246472749546",
+    "in_reply_to_user_id": "2049292877814173696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061055616890847284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuliaosui 已经有了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2061046765063921877",
+        "created_at": "2026-05-31T12:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061056246472749546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049292877814173696",
+              "start": 0,
+              "username": "Shuliaosui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061056246472749546",
+        "in_reply_to_user_id": "2049292877814173696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061055616890847284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuliaosui 已经有了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049292877814173696",
+        "conversation_id": "2061046765063921877",
+        "created_at": "2026-05-31T12:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061055616890847284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061055616890847284",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061046765063921877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 能做咖啡因电子烟吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 555,
+          "like_count": 3639,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1090
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T01:01:19.000Z",
+        "description": "神户盐｜自杀干预｜16岁｜护理专业｜已扭转一年半｜家长不管党｜Q:3755457720｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/fEZQOe0PzK"
+              }
+            ]
+          }
+        },
+        "id": "2049292877814173696",
+        "name": "盐🍬🍚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050083452826066944/WL1ORgHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 809,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/fEZQOe0PzK",
+        "username": "Shuliaosui",
+        "verified": false
+      }
+    ]
+  }
+}

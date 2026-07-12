@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2057333168735445501",
+    "created_at": "2026-05-21T06:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057343645548982652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032797563850768384",
+          "start": 0,
+          "username": "CaffFrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057343645548982652",
+    "in_reply_to_user_id": "2032797563850768384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057333168735445501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaffFrog 😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2057333159168233472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0dm6ja0AANKpe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2057333168735445501",
+        "created_at": "2026-05-21T06:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057343645548982652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032797563850768384",
+              "start": 0,
+              "username": "CaffFrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057343645548982652",
+        "in_reply_to_user_id": "2032797563850768384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057333168735445501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaffFrog 😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057333159168233472"
+          ]
+        },
+        "author_id": "2032797563850768384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057333168735445501",
+        "created_at": "2026-05-21T05:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057333168735445501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0X4YM6h6RP",
+              "end": 29,
+              "expanded_url": "https://x.com/CaffFrog/status/2057333168735445501/photo/1",
+              "media_key": "3_2057333159168233472",
+              "start": 6,
+              "url": "https://t.co/0X4YM6h6RP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057333168735445501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛙特别想树 https://t.co/0X4YM6h6RP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 448,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 820
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:34:54.000Z",
+        "description": "🐸蛙/咖啡/she/they🏳️‍⚧️mtx/酷儿/激素服用中🍥04年/17年hrt🧠BPD👁️od💛NSFW/暴露狂/裸图/血图💀旧号@CoFfffEeeeE1💍@shudesu00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "2032797563850768384",
+        "name": "蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055852062165151744/Ap4jh3aB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 47,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 157
+        },
+        "username": "CaffFrog",
+        "verified": false
+      }
+    ]
+  }
+}

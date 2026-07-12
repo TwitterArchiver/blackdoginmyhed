@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2036782977221538217",
+    "created_at": "2026-03-25T12:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036782977221538217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sigkkkk/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/sigkkkk/status/2036717609320939588",
+          "start": 19,
+          "url": "https://t.co/CjfZ5ZTYnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036782977221538217",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036717609320939588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "*Electrochemistry* https://t.co/CjfZ5ZTYnW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_2036717470757851136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPfv6hakAALwz5.jpg",
+        "width": 1922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2036782977221538217",
+        "created_at": "2026-03-25T12:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036782977221538217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sigkkkk/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/sigkkkk/status/2036717609320939588",
+              "start": 19,
+              "url": "https://t.co/CjfZ5ZTYnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036782977221538217",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036717609320939588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "*Electrochemistry* https://t.co/CjfZ5ZTYnW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036717470757851136"
+          ]
+        },
+        "author_id": "1474748010336698368",
+        "conversation_id": "2036717609320939588",
+        "created_at": "2026-03-25T08:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036717609320939588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6iONP7AdHW",
+              "end": 48,
+              "expanded_url": "https://x.com/sigkkkk/status/2036717609320939588/photo/1",
+              "media_key": "3_2036717470757851136",
+              "start": 25,
+              "url": "https://t.co/6iONP7AdHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036717609320939588",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 455,
+          "impression_count": 50360,
+          "like_count": 5503,
+          "quote_count": 16,
+          "reply_count": 14,
+          "retweet_count": 898
+        },
+        "reply_settings": "everyone",
+        "text": "Breaking bad in revachol https://t.co/6iONP7AdHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/也许是enby/非三无都会回fo虽然也没人fo（",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026312026201505792/w8nfM-7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 83,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 123
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T14:25:22.000Z",
+        "description": "🎶\n🚫AI",
+        "id": "1474748010336698368",
+        "location": "LA",
+        "name": "SIG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949864821647917056/zgeGfgra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 323,
+          "like_count": 2427,
+          "listed_count": 6,
+          "media_count": 52,
+          "tweet_count": 175
+        },
+        "username": "sigkkkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2065683414678999060",
+    "created_at": "2026-06-13T07:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065692611441279450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1368194606555262978",
+          "start": 0,
+          "username": "jiajiajia0104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065692611441279450",
+    "in_reply_to_user_id": "1368194606555262978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065685234071244832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajiajia0104 这是临期超市买的自热米饭 两块五一盒（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2065683414678999060",
+        "created_at": "2026-06-13T07:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065692611441279450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368194606555262978",
+              "start": 0,
+              "username": "jiajiajia0104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065692611441279450",
+        "in_reply_to_user_id": "1368194606555262978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065685234071244832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajiajia0104 这是临期超市买的自热米饭 两块五一盒（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368194606555262978",
+        "conversation_id": "2065683414678999060",
+        "created_at": "2026-06-13T06:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065685234071244832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065685234071244832",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065683414678999060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 这是什么看着好好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以与我交流 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 631,
+          "like_count": 4213,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1242
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T13:39:54.000Z",
+        "description": "碎碎念",
+        "id": "1368194606555262978",
+        "location": "地球",
+        "name": "Y:omi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027015555694424064/Iee6Zrfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 162,
+          "like_count": 3419,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1122
+        },
+        "username": "jiajiajia0104",
+        "verified": false
+      }
+    ]
+  }
+}

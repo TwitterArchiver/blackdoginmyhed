@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2039746701578109172",
+    "created_at": "2026-04-02T16:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039746701578109172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blackdoginmyhe…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/blackdoginmyhed/status/2038614379386884266",
+          "start": 14,
+          "url": "https://t.co/AByJvQPxj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039746701578109172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038614379386884266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等我睡醒了抽奖开奖太困了( https://t.co/AByJvQPxj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2038613709346770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqcXhvbEAAWkh7.jpg",
+        "width": 1720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2039746701578109172",
+        "created_at": "2026-04-02T16:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039746701578109172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blackdoginmyhe…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/blackdoginmyhed/status/2038614379386884266",
+              "start": 14,
+              "url": "https://t.co/AByJvQPxj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039746701578109172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038614379386884266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等我睡醒了抽奖开奖太困了( https://t.co/AByJvQPxj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038613709346770944"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2038614379386884266",
+        "created_at": "2026-03-30T13:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038614379386884266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "vape"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "电子烟"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "悦刻"
+            },
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "一次性电子烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYgySxBGEs",
+              "end": 169,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2038614379386884266/photo/1",
+              "media_key": "3_2038613709346770944",
+              "start": 146,
+              "url": "https://t.co/nYgySxBGEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038614379386884266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 242,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "转发这条然后和我互fo 这周五抽三位自选一只70r电子烟 可折现电子烟!\n我要卖点电子烟赚点烟钱!\n主营一次性和换弹 一手自发实惠价!\n下图是26号的品类口味表可供参考\n#vape #电子烟 #悦刻 #一次性电子烟 \n(重发的原因是因为之前那条里没写转发()所以重新发一遍 之前那条转了也算 https://t.co/nYgySxBGEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 132,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 253
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2062537900328366080"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2062535555339215211",
+    "created_at": "2026-06-04T14:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062537914643546316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1368194606555262978",
+          "start": 0,
+          "username": "jiajiajia0104"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EDvj0br5Mn",
+          "end": 61,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2062537914643546316/photo/1",
+          "media_key": "16_2062537900328366080",
+          "start": 38,
+          "url": "https://t.co/EDvj0br5Mn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062537914643546316",
+    "in_reply_to_user_id": "1368194606555262978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062537428817100859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajiajia0104 感谢第一个捧场呜呜呜发出去我疯狂的刷新感谢! https://t.co/EDvj0br5Mn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2062537900328366080",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJ-bSuTaMAAytxL.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJ-bSuTaMAAytxL.mp4"
+          }
+        ],
+        "width": 202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2062537900328366080"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2062535555339215211",
+        "created_at": "2026-06-04T14:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062537914643546316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368194606555262978",
+              "start": 0,
+              "username": "jiajiajia0104"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDvj0br5Mn",
+              "end": 61,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2062537914643546316/photo/1",
+              "media_key": "16_2062537900328366080",
+              "start": 38,
+              "url": "https://t.co/EDvj0br5Mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062537914643546316",
+        "in_reply_to_user_id": "1368194606555262978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062537428817100859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajiajia0104 感谢第一个捧场呜呜呜发出去我疯狂的刷新感谢! https://t.co/EDvj0br5Mn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368194606555262978",
+        "conversation_id": "2062535555339215211",
+        "created_at": "2026-06-04T14:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062537428817100859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062537428817100859",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535555339215211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 来支持了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 589,
+          "like_count": 3849,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1173
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T13:39:54.000Z",
+        "description": "碎碎念",
+        "id": "1368194606555262978",
+        "location": "地球",
+        "name": "Y:omi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027015555694424064/Iee6Zrfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 158,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1089
+        },
+        "username": "jiajiajia0104",
+        "verified": false
+      }
+    ]
+  }
+}

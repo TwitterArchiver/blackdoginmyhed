@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2039008229943099443",
+    "created_at": "2026-04-01T10:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039287069990633715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986291014370545665",
+          "start": 0,
+          "username": "pleasehelp070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039287069990633715",
+    "in_reply_to_user_id": "1986291014370545665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039008229943099443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleasehelp070 滥用价值:0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2039008229943099443",
+        "created_at": "2026-04-01T10:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039287069990633715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039287069990633715",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039008229943099443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 滥用价值:0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039008229943099443",
+        "created_at": "2026-03-31T15:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039008229943099443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039008229943099443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚垃圾🗑️\n到底谁想到o这个鬼东西的！？！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 112,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 230
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊直fo🙇ASD&ADHD交流障碍 精神病@想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 94,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 144
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

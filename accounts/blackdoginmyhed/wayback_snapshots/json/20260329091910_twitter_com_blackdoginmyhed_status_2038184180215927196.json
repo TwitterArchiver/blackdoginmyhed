@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2038166876988330050",
+    "created_at": "2026-03-29T09:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038184180215927196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2028925492351647745",
+          "start": 0,
+          "username": "Xue03g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038184180215927196",
+    "in_reply_to_user_id": "2028925492351647745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038166876988330050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xue03g 大部分药都会增加暴毙几率 建议多查阅有关资料()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2038166876988330050",
+        "created_at": "2026-03-29T09:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038184180215927196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2028925492351647745",
+              "start": 0,
+              "username": "Xue03g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038184180215927196",
+        "in_reply_to_user_id": "2028925492351647745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038166876988330050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xue03g 大部分药都会增加暴毙几率 建议多查阅有关资料()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028925492351647745",
+        "conversation_id": "2038166876988330050",
+        "created_at": "2026-03-29T08:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038166876988330050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038166876988330050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想磕药突然想起我喝酒了……酒和药联用会怎么样呀 有没有人试过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 95,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 163
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T20:08:51.000Z",
+        "description": "总而言之你特别可爱",
+        "id": "2028925492351647745",
+        "location": "Taiwan",
+        "name": "Clementine03g",
+        "pinned_tweet_id": "2033219724889206977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035943845591130112/AmfCT4hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 130,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 229
+        },
+        "username": "Xue03g",
+        "verified": false
+      }
+    ]
+  }
+}

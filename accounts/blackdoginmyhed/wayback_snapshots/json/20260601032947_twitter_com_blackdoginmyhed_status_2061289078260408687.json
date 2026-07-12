@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2060611439555961289",
+    "created_at": "2026-06-01T03:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061289078260408687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974863731357335552",
+          "start": 0,
+          "username": "XUNYE_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061289078260408687",
+    "in_reply_to_user_id": "1974863731357335552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061287245060153456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUNYE_0 完全不是）烟瘾是尼古丁依赖 很多抽了烟的也不一定会有烟瘾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2060611439555961289",
+        "created_at": "2026-06-01T03:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061289078260408687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974863731357335552",
+              "start": 0,
+              "username": "XUNYE_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061289078260408687",
+        "in_reply_to_user_id": "1974863731357335552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061287245060153456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUNYE_0 完全不是）烟瘾是尼古丁依赖 很多抽了烟的也不一定会有烟瘾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974863731357335552",
+        "conversation_id": "2060611439555961289",
+        "created_at": "2026-06-01T03:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061287245060153456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061287245060153456",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060611439555961289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 没有烟瘾但是就是想要个电子烟算是烟瘾吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 564,
+          "like_count": 3670,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1106
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:46:41.000Z",
+        "description": "2度转世，XUNYE\n双性恋，🚪52\n小红书被封，抖音私密，b站依旧活跃\n尸体 @xunyexunye111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "xunyexunye111"
+              }
+            ]
+          }
+        },
+        "id": "1974863731357335552",
+        "name": "寻野.",
+        "pinned_tweet_id": "2046379431850291363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974864151504891905/05ZM5_Mh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 6,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 106
+        },
+        "username": "XUNYE_0",
+        "verified": false
+      }
+    ]
+  }
+}

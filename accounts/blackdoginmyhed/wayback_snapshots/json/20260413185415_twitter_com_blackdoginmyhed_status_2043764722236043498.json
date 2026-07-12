@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2043764722236043498",
+    "created_at": "2026-04-13T18:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T19:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043764722236043498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Replicante97/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Replicante97/status/2043437382519631993",
+          "start": 22,
+          "url": "https://t.co/3SJ7Ju3Qym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043764722236043498",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043437382519631993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i need one more shoot https://t.co/3SJ7Ju3Qym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_2043437377603948544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFu_d-TW0AAT8EX.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2043764722236043498",
+        "created_at": "2026-04-13T18:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043764722236043498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Replicante97/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Replicante97/status/2043437382519631993",
+              "start": 22,
+              "url": "https://t.co/3SJ7Ju3Qym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043764722236043498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043437382519631993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i need one more shoot https://t.co/3SJ7Ju3Qym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043437377603948544"
+          ]
+        },
+        "author_id": "874307517517619200",
+        "conversation_id": "2043437382519631993",
+        "created_at": "2026-04-12T21:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043437382519631993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UyN2Kw6dX",
+              "end": 23,
+              "expanded_url": "https://x.com/Replicante97/status/2043437382519631993/photo/1",
+              "media_key": "3_2043437377603948544",
+              "start": 0,
+              "url": "https://t.co/6UyN2Kw6dX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043437382519631993",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 18184,
+          "like_count": 1242,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6UyN2Kw6dX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 196,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 379
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-12T16:48:50.000Z",
+        "description": "Mientras lees esto seguramente esté viendo una película. Comparto hilos y análisis sobre cine. Únete a la conversación.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "letterboxd.com/Alchemy97/",
+                "end": 23,
+                "expanded_url": "https://letterboxd.com/Alchemy97/",
+                "start": 0,
+                "url": "https://t.co/nfLPhWc6Rs"
+              }
+            ]
+          }
+        },
+        "id": "874307517517619200",
+        "location": "Tatooine ",
+        "name": "Alquimia",
+        "pinned_tweet_id": "1891970831577751671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623802784507101189/u4aLNVn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11942,
+          "following_count": 996,
+          "like_count": 143574,
+          "listed_count": 81,
+          "media_count": 26513,
+          "tweet_count": 93931
+        },
+        "url": "https://t.co/nfLPhWc6Rs",
+        "username": "Replicante97",
+        "verified": false
+      }
+    ]
+  }
+}

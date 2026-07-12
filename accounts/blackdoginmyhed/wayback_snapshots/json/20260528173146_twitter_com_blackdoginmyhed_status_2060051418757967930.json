@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2060051418757967930",
+    "created_at": "2026-05-28T17:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060051418757967930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708376540788961280",
+          "start": 3,
+          "username": "thvsvoir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060051418757967930",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 665
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059811864842740015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thvsvoir: não confio em gente q nao ama gato"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2060051418757967930",
+        "created_at": "2026-05-28T17:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060051418757967930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708376540788961280",
+              "start": 3,
+              "username": "thvsvoir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060051418757967930",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059811864842740015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thvsvoir: não confio em gente q nao ama gato"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708376540788961280",
+        "conversation_id": "2059811864842740015",
+        "created_at": "2026-05-28T01:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059811864842740015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059811864842740015",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17423,
+          "like_count": 1948,
+          "quote_count": 13,
+          "reply_count": 18,
+          "retweet_count": 665
+        },
+        "reply_settings": "everyone",
+        "text": "não confio em gente q nao ama gato"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 541,
+          "like_count": 3476,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1016
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T07:01:37.000Z",
+        "description": "͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏  ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taekook.⠀",
+                "end": 23,
+                "expanded_url": "http://taekook.xn--6ii",
+                "start": 0,
+                "url": "https://t.co/DfsIeoMeiD"
+              }
+            ]
+          }
+        },
+        "id": "1708376540788961280",
+        "location": "           a    day    with      사랑’     \n      ✿   (𝒕𝒉𝒗.) museums,   cafes   \n              𖬺͟     photographs. \n     \n   ",
+        "name": "ؘ",
+        "pinned_tweet_id": "2059802241716871396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035500356210413569/pOpYENDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 918,
+          "like_count": 9656,
+          "listed_count": 49,
+          "media_count": 625,
+          "tweet_count": 15082
+        },
+        "url": "https://t.co/DfsIeoMeiD",
+        "username": "thvsvoir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2058781148566978926",
+    "created_at": "2026-05-25T06:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058791402558103849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1541658951204208640",
+          "start": 0,
+          "username": "zzanxietygOaWay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058791402558103849",
+    "in_reply_to_user_id": "1541658951204208640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058781148566978926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzanxietygOaWay 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 553,
+        "media_key": "3_2058781146377568256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJCi3QbQAAm9zr.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2058781148566978926",
+        "created_at": "2026-05-25T06:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058791402558103849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1541658951204208640",
+              "start": 0,
+              "username": "zzanxietygOaWay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058791402558103849",
+        "in_reply_to_user_id": "1541658951204208640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058781148566978926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzanxietygOaWay 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058781146377568256"
+          ]
+        },
+        "author_id": "1541658951204208640",
+        "conversation_id": "2058781148566978926",
+        "created_at": "2026-05-25T05:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058781148566978926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r74amMEZZW",
+              "end": 34,
+              "expanded_url": "https://x.com/zzanxietygOaWay/status/2058781148566978926/photo/1",
+              "media_key": "3_2058781146377568256",
+              "start": 11,
+              "url": "https://t.co/r74amMEZZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058781148566978926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噢你很讨厌吃番茄是吗 https://t.co/r74amMEZZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没有回fo直接私聊喊我）\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 470,
+          "like_count": 3068,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 876
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T05:45:22.000Z",
+        "description": "逃避生活根据地/全是负能量喵/都说了全是负能量了",
+        "id": "1541658951204208640",
+        "name": "zzzzz(zzzzz",
+        "pinned_tweet_id": "1986589049394700659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652695034276331520/c4yYiESp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 98,
+          "like_count": 7682,
+          "listed_count": 0,
+          "media_count": 574,
+          "tweet_count": 3833
+        },
+        "username": "zzanxietygOaWay",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074771853231677440"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2074201934647480336",
+    "created_at": "2026-07-08T08:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074771855752441884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1964277264889352192",
+          "start": 0,
+          "username": "WGO9_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIVxvJBc6g",
+          "end": 30,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2074771855752441884/photo/1",
+          "media_key": "3_2074771853231677440",
+          "start": 7,
+          "url": "https://t.co/LIVxvJBc6g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074771855752441884",
+    "in_reply_to_user_id": "1964277264889352192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074201934647480336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WGO9_ https://t.co/LIVxvJBc6g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 391,
+        "media_key": "3_2074771853231677440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsSAgXaYAA7q7h.jpg",
+        "width": 626
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074196723203764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkG7iDW8AA7wYW.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074771853231677440"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2074201934647480336",
+        "created_at": "2026-07-08T08:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074771855752441884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1964277264889352192",
+              "start": 0,
+              "username": "WGO9_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIVxvJBc6g",
+              "end": 30,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2074771855752441884/photo/1",
+              "media_key": "3_2074771853231677440",
+              "start": 7,
+              "url": "https://t.co/LIVxvJBc6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074771855752441884",
+        "in_reply_to_user_id": "1964277264889352192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074201934647480336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WGO9_ https://t.co/LIVxvJBc6g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074196723203764224"
+          ]
+        },
+        "author_id": "1964277264889352192",
+        "conversation_id": "2074201934647480336",
+        "created_at": "2026-07-06T18:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074201934647480336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4w7TuLWej",
+              "end": 301,
+              "expanded_url": "https://x.com/WGO9_/status/2074201934647480336/photo/1",
+              "media_key": "3_2074196723203764224",
+              "start": 278,
+              "url": "https://t.co/D4w7TuLWej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074201934647480336",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {},
+          "text": "العار المسمى Jaadugar مؤلفه ما يفقه فالإسلام بالمرة ودس بعض السموم في عمله أبرزها :\n\n- وضع الموسيقى في عمله \n- رسم ذوات الأرواح فيه بدون طمس لملامحها\n- ترويج لقذارات كثيرة مثل علم اللاهوت والحجاب الغير كامل\n- ذكره لنص \"لن تستجيب السماء لصلواتنا بالرحمة بل النار\" الذي يخالف نسب إستجابة الدعوات لله وحده فقط\n\nلو إن المؤلف يهتم بنقل الدين الإسلامي بصورة جيدة لما وضع هذه السموم في عمله وإلى حد هذه اللحظة فهو لا يستحق ذرة تقدير أو إحترام مني ومن بقية المسلمين لهذا العار الذي كتبه"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 1768305,
+          "like_count": 259,
+          "quote_count": 321,
+          "reply_count": 289,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "العار المسمى Jaadugar مؤلفه ما يفقه فالإسلام بالمرة ودس بعض السموم في عمله أبرزها :\n\n- وضع الموسيقى في عمله \n- رسم ذوات الأرواح فيه بدون طمس لملامحها\n- ترويج لقذارات كثيرة مثل علم اللاهوت والحجاب الغير كامل\n- ذكره لنص \"لن تستجيب السماء لصلواتنا بالرحمة بل النار\" الذي يخالف نسب https://t.co/D4w7TuLWej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我（ 推文能看到很多记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 652,
+          "like_count": 4601,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T10:39:44.000Z",
+        "description": "«إحذر المتفرج» ✦ #LoM ✦ #薫る花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 17,
+                "tag": "LoM"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "薫る花"
+              }
+            ]
+          }
+        },
+        "id": "1964277264889352192",
+        "location": "@Naif___24 💛",
+        "name": "A7-𝖦𝗋𝖾𝗒𝗋𝖺𝗍🇸🇦",
+        "pinned_tweet_id": "2066963616021217599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069426560210288640/8AV0OIt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 194,
+          "like_count": 56049,
+          "listed_count": 8,
+          "media_count": 3448,
+          "tweet_count": 21941
+        },
+        "url": "",
+        "username": "WGO9_",
+        "verified": true
+      }
+    ]
+  }
+}

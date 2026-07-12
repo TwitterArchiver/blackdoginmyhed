@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2063534566003130834",
+    "created_at": "2026-06-07T08:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063534566003130834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667377941234307074",
+          "start": 3,
+          "username": "dissoziatedd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063534566003130834",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063362663581683811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dissoziatedd: fake tuitero: roba tuits ajenos para pegarla\n\ntrue tuitero: tuitea sus pensamientos más honestos, impulsivos, intrusivos,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2063534566003130834",
+        "created_at": "2026-06-07T08:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063534566003130834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667377941234307074",
+              "start": 3,
+              "username": "dissoziatedd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063534566003130834",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063362663581683811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dissoziatedd: fake tuitero: roba tuits ajenos para pegarla\n\ntrue tuitero: tuitea sus pensamientos más honestos, impulsivos, intrusivos,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667377941234307074",
+        "conversation_id": "2063362663581683811",
+        "created_at": "2026-06-06T20:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T21:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063362663581683811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063362663581683811",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 8807,
+          "like_count": 1177,
+          "quote_count": 11,
+          "reply_count": 14,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "fake tuitero: roba tuits ajenos para pegarla\n\ntrue tuitero: tuitea sus pensamientos más honestos, impulsivos, intrusivos, obsesivos, raros, delirantes, psicóticos, crudos, deprimentes, fracasados y degenerados"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 624,
+          "like_count": 4021,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1213
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T03:47:51.000Z",
+        "description": "si me conoces andate o me suicido en tu cara #subtwt #fracasadotwt || @https_sarcasm 🤍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "subtwt"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "tag": "fracasadotwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "https_sarcasm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dissoziatedd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dissoziatedd",
+                "start": 0,
+                "url": "https://t.co/TSwGTd03Xc"
+              }
+            ]
+          }
+        },
+        "id": "1667377941234307074",
+        "location": "he/him",
+        "name": "рэй",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009273332760576/1CyREsZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3276,
+          "following_count": 2009,
+          "like_count": 39072,
+          "listed_count": 22,
+          "media_count": 852,
+          "tweet_count": 11032
+        },
+        "url": "https://t.co/TSwGTd03Xc",
+        "username": "dissoziatedd",
+        "verified": false
+      }
+    ]
+  }
+}

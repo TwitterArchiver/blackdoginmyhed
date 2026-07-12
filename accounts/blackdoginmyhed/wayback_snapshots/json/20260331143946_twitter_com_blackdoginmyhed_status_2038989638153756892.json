@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2038989638153756892",
+    "created_at": "2026-03-31T14:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038989638153756892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 29,
+          "id": "1986828541930119168",
+          "start": 16,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038989638153756892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038876856376828158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: @shigure07288 两边都在越来越激化矛盾，正在被扭转的跨女怎么办？none care。\n总之我很伤心，两边都骂爽了，一段时间之内扭转大省内未成年家暴党跨女可遭殃了，虽然我不是但我不能假装这些人不存在（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2038989638153756892",
+        "created_at": "2026-03-31T14:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038989638153756892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 29,
+              "id": "1986828541930119168",
+              "start": 16,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038989638153756892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038876856376828158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: @shigure07288 两边都在越来越激化矛盾，正在被扭转的跨女怎么办？none care。\n总之我很伤心，两边都骂爽了，一段时间之内扭转大省内未成年家暴党跨女可遭殃了，虽然我不是但我不能假装这些人不存在（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2038857938383880324",
+        "created_at": "2026-03-31T07:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038876856376828158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038876856376828158",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038857938383880324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 两边都在越来越激化矛盾，正在被扭转的跨女怎么办？none care。\n总之我很伤心，两边都骂爽了，一段时间之内扭转大省内未成年家暴党跨女可遭殃了，虽然我不是但我不能假装这些人不存在（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 111,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 219
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5047,
+          "following_count": 2010,
+          "like_count": 120409,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 17356
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2027014737033326935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 560,
+          "like_count": 3513,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 4834
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

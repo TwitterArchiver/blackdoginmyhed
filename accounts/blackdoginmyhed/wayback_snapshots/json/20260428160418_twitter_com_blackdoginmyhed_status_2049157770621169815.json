@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2049157770621169815",
+    "created_at": "2026-04-28T16:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049157770621169815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sunset__3000/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Sunset__3000/status/2049139063459021173",
+          "start": 13,
+          "url": "https://t.co/eUFCtvF9S1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049157770621169815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049139063459021173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绝症患者版：吗啡 芬太尼 https://t.co/eUFCtvF9S1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1862,
+        "media_key": "3_2049139061152268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHABHotbwAA2ERG.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2049157770621169815",
+        "created_at": "2026-04-28T16:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049157770621169815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sunset__3000/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Sunset__3000/status/2049139063459021173",
+              "start": 13,
+              "url": "https://t.co/eUFCtvF9S1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049157770621169815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049139063459021173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绝症患者版：吗啡 芬太尼 https://t.co/eUFCtvF9S1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049139061152268288"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "conversation_id": "2049139063459021173",
+        "created_at": "2026-04-28T14:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049139063459021173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kjrql2wTsc",
+              "end": 32,
+              "expanded_url": "https://x.com/Sunset__3000/status/2049139063459021173/photo/1",
+              "media_key": "3_2049139061152268288",
+              "start": 9,
+              "url": "https://t.co/Kjrql2wTsc"
+            },
+            {
+              "display_url": "x.com/mhtqwq/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mhtqwq/status/2049035896494993629",
+              "start": 33,
+              "url": "https://t.co/1hPUeD6e9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049139063459021173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049035896494993629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加个■■■■版🤓 https://t.co/Kjrql2wTsc https://t.co/1hPUeD6e9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 262,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 518
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/swMyC2Mdbe"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "location": "ODP",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 577,
+          "like_count": 3641,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/swMyC2Mdbe",
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

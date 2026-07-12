@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2052669486428545496",
+    "created_at": "2026-05-08T08:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052669486428545496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hg355101917740…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/hg3551019177402/status/2052669223940579395",
+          "start": 32,
+          "url": "https://t.co/itDgkemmsO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052669486428545496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052669223940579395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢12支持!!）我这里有一些不太好买的俄产烟 想试试可以找我 https://t.co/itDgkemmsO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052669210510364672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyLxX3aEAA_cyv.jpg",
+        "width": 1037
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052669211512799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyLxbmaAAAmJnC.jpg",
+        "width": 1064
+      },
+      {
+        "height": 1193,
+        "media_key": "3_2052669211630292992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyLxcCa0AAYVQW.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2052669486428545496",
+        "created_at": "2026-05-08T08:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052669486428545496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hg355101917740…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/hg3551019177402/status/2052669223940579395",
+              "start": 32,
+              "url": "https://t.co/itDgkemmsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052669486428545496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052669223940579395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢12支持!!）我这里有一些不太好买的俄产烟 想试试可以找我 https://t.co/itDgkemmsO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052669210510364672",
+            "3_2052669211512799232",
+            "3_2052669211630292992"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2052669223940579395",
+        "created_at": "2026-05-08T08:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052669223940579395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1951181920022437889",
+              "start": 79,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocBPdEqy64",
+              "end": 152,
+              "expanded_url": "https://x.com/hg3551019177402/status/2052669223940579395/photo/1",
+              "media_key": "3_2052669210510364672",
+              "start": 129,
+              "url": "https://t.co/ocBPdEqy64"
+            },
+            {
+              "display_url": "pic.x.com/ocBPdEqy64",
+              "end": 152,
+              "expanded_url": "https://x.com/hg3551019177402/status/2052669223940579395/photo/1",
+              "media_key": "3_2052669211512799232",
+              "start": 129,
+              "url": "https://t.co/ocBPdEqy64"
+            },
+            {
+              "display_url": "pic.x.com/ocBPdEqy64",
+              "end": 152,
+              "expanded_url": "https://x.com/hg3551019177402/status/2052669223940579395/photo/1",
+              "media_key": "3_2052669211630292992",
+              "start": 129,
+              "url": "https://t.co/ocBPdEqy64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052669223940579395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊，接下来应该休息几天，等新表单来吧！毕竟流水有点大了，老客户可以来，新客户也可以来咨询一下主要出售日韩烟，表单什么的也可以给你们，哦对了你们可以支持一下@blackdoginmyhed ！！！他最近好像也在搞烟代生意，表单我还是放这了，纸的好玩嘿嘿， https://t.co/ocBPdEqy64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些烟!vape电子烟常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个 纸烟有俄产万宝路 查普曼系列 寿百年系列包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 313,
+          "like_count": 2197,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 618
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代，等新表格ing！其实你们还是可以咨询但是我不会主动推销了…",
+        "id": "1684269091849404416",
+        "name": "12（男子日常）",
+        "pinned_tweet_id": "2052574958237450438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 830,
+          "like_count": 18210,
+          "listed_count": 1,
+          "media_count": 688,
+          "tweet_count": 9447
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

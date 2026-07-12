@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062851891525246976"
+      ],
+      "media_source_tweet_id": [
+        "2062851897342689437"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2063046775796322330",
+    "created_at": "2026-06-05T23:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063046775796322330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1709455779940712448",
+          "start": 3,
+          "username": "Rdal37663U"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tt8uQ3C3L2",
+          "end": 60,
+          "expanded_url": "https://x.com/Rdal37663U/status/2062851897342689437/photo/1",
+          "media_key": "3_2062851891525246976",
+          "start": 37,
+          "url": "https://t.co/tt8uQ3C3L2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063046775796322330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3604
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062851897342689437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rdal37663U: あの頃のオタクたちを苦しませに来ました😊 https://t.co/tt8uQ3C3L2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062851891525246976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC43aqa4AA1CIO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062851891525246976"
+          ],
+          "media_source_tweet_id": [
+            "2062851897342689437"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2063046775796322330",
+        "created_at": "2026-06-05T23:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063046775796322330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1709455779940712448",
+              "start": 3,
+              "username": "Rdal37663U"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tt8uQ3C3L2",
+              "end": 60,
+              "expanded_url": "https://x.com/Rdal37663U/status/2062851897342689437/photo/1",
+              "media_key": "3_2062851891525246976",
+              "start": 37,
+              "url": "https://t.co/tt8uQ3C3L2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063046775796322330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3604
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062851897342689437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rdal37663U: あの頃のオタクたちを苦しませに来ました😊 https://t.co/tt8uQ3C3L2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062851891525246976"
+          ]
+        },
+        "author_id": "1709455779940712448",
+        "conversation_id": "2062851897342689437",
+        "created_at": "2026-06-05T10:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062851897342689437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tt8uQ3C3L2",
+              "end": 44,
+              "expanded_url": "https://x.com/Rdal37663U/status/2062851897342689437/photo/1",
+              "media_key": "3_2062851891525246976",
+              "start": 21,
+              "url": "https://t.co/tt8uQ3C3L2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062851897342689437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1627,
+          "impression_count": 516945,
+          "like_count": 25399,
+          "quote_count": 1680,
+          "reply_count": 42,
+          "retweet_count": 3604
+        },
+        "reply_settings": "everyone",
+        "text": "あの頃のオタクたちを苦しませに来ました😊 https://t.co/tt8uQ3C3L2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2062660608240349272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 613,
+          "like_count": 3947,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1193
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T06:30:09.000Z",
+        "description": "18↑雑多、多ジャンルに手を出す、ルサ兄&アレックスデラージの夢女、奇面組🔥terrible mouseの日本語翻訳動画作ったり、ホラー映画ガチ勢、ベネたろの虫、海外作品に目がない↓感想、リク良かったら、すぐツイ消しする",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y3wbtk3iytnl6kd",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/y3wbtk3iytnl6kd",
+                "start": 0,
+                "url": "https://t.co/Oh6fHMgnIk"
+              }
+            ]
+          }
+        },
+        "id": "1709455779940712448",
+        "location": "海外作品の沼、",
+        "name": "自称絵師野郎",
+        "pinned_tweet_id": "2052350028006760891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019700662125428736/as7VDfYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 186,
+          "like_count": 28539,
+          "listed_count": 10,
+          "media_count": 475,
+          "tweet_count": 5319
+        },
+        "url": "https://t.co/Oh6fHMgnIk",
+        "username": "Rdal37663U",
+        "verified": false
+      }
+    ]
+  }
+}

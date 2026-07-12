@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1983489549318934528"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "1983416403257618914",
+    "created_at": "2025-10-29T11:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T12:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983489737588621403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ovZ8UwrGhe",
+          "end": 41,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/1983489737588621403/video/1",
+          "media_key": "13_1983489549318934528",
+          "start": 18,
+          "url": "https://t.co/ovZ8UwrGhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983489737588621403",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983489183575572589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 看我的文官 https://t.co/ovZ8UwrGhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9075,
+        "height": 3840,
+        "media_key": "13_1983489549318934528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983489549318934528/img/vA04nARwiXFMSctI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983489549318934528/vid/avc1/320x568/ULMA5whKpBI9qWF4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983489549318934528/vid/avc1/480x852/Wwcma0biF6I6xhao.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983489549318934528/vid/avc1/720x1280/OsJE7VKY7X62p1sw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983489549318934528/pl/n9jTGIGjxL-ut8cB.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983489549318934528"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "1983416403257618914",
+        "created_at": "2025-10-29T11:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983489737588621403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovZ8UwrGhe",
+              "end": 41,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/1983489737588621403/video/1",
+              "media_key": "13_1983489549318934528",
+              "start": 18,
+              "url": "https://t.co/ovZ8UwrGhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983489737588621403",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983489183575572589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 看我的文官 https://t.co/ovZ8UwrGhe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "1983416403257618914",
+        "created_at": "2025-10-29T11:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983489183575572589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983489183575572589",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983416403257618914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 哇是蜘蛛的刀布"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "nag2sa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961854510021890048/OR2QZ81E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 16
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979639839457681409/RCw29OfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 380,
+          "like_count": 53735,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 2143
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

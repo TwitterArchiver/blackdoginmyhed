@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037924034747486208"
+      ],
+      "media_source_tweet_id": [
+        "2037924247583220160"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2038058123940733389",
+    "created_at": "2026-03-29T00:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T01:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038058123940733389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1955316573952151557",
+          "start": 3,
+          "username": "ujiiemiruka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TseDT2mMGk",
+          "end": 49,
+          "expanded_url": "https://x.com/ujiiemiruka/status/2037924247583220160/photo/1",
+          "media_key": "3_2037924034747486208",
+          "start": 26,
+          "url": "https://t.co/TseDT2mMGk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038058123940733389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037924247583220160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ujiiemiruka: アキ天\n天使と銃 https://t.co/TseDT2mMGk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_2037924034747486208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgpHLpa0AAjawu.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037924034747486208"
+          ],
+          "media_source_tweet_id": [
+            "2037924247583220160"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2038058123940733389",
+        "created_at": "2026-03-29T00:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038058123940733389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1955316573952151557",
+              "start": 3,
+              "username": "ujiiemiruka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TseDT2mMGk",
+              "end": 49,
+              "expanded_url": "https://x.com/ujiiemiruka/status/2037924247583220160/photo/1",
+              "media_key": "3_2037924034747486208",
+              "start": 26,
+              "url": "https://t.co/TseDT2mMGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038058123940733389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037924247583220160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ujiiemiruka: アキ天\n天使と銃 https://t.co/TseDT2mMGk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037924034747486208"
+          ]
+        },
+        "author_id": "1955316573952151557",
+        "conversation_id": "2037924247583220160",
+        "created_at": "2026-03-28T16:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037924247583220160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TseDT2mMGk",
+              "end": 32,
+              "expanded_url": "https://x.com/ujiiemiruka/status/2037924247583220160/photo/1",
+              "media_key": "3_2037924034747486208",
+              "start": 9,
+              "url": "https://t.co/TseDT2mMGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037924247583220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1275,
+          "impression_count": 116869,
+          "like_count": 16040,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 2319
+        },
+        "reply_settings": "everyone",
+        "text": "アキ天\n天使と銃 https://t.co/TseDT2mMGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/🟨⬜️🟪⬛️/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 95,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 161
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T17:13:16.000Z",
+        "description": "男の娘しゅき♡skeb♡https://t.co/t8NrbjKqKW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ujiiemiruka",
+                "end": 35,
+                "expanded_url": "https://skeb.jp/@ujiiemiruka",
+                "start": 12,
+                "url": "https://t.co/t8NrbjKqKW"
+              }
+            ]
+          }
+        },
+        "id": "1955316573952151557",
+        "location": "日本",
+        "name": "氏家",
+        "pinned_tweet_id": "1992953292633366547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982017723942027264/jm3NYp-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 26,
+          "like_count": 590,
+          "listed_count": 32,
+          "media_count": 126,
+          "tweet_count": 923
+        },
+        "username": "ujiiemiruka",
+        "verified": false
+      }
+    ]
+  }
+}

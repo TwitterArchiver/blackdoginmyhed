@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048232940421976065"
+      ],
+      "media_source_tweet_id": [
+        "2048232946294030544"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2048353872448790935",
+    "created_at": "2026-04-26T10:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048353872448790935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431813350086701060",
+          "start": 3,
+          "username": "_YHARNAMITE_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vnY9GsmDsU",
+          "end": 132,
+          "expanded_url": "https://x.com/_YHARNAMITE_/status/2048232946294030544/photo/1",
+          "media_key": "3_2048232940421976065",
+          "start": 109,
+          "url": "https://t.co/vnY9GsmDsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048353872448790935",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 871
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048232946294030544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_YHARNAMITE_: NTRエロ漫画の登場人物\n\nさとしくん：可愛いショタ。のちに伝説として語り継がれる。\n近所のお姉さん：さとしくんの事が好き。\nたかしくん：いじめっ子。近所のお姉さんを狙っている。… https://t.co/vnY9GsmDsU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2048232940421976065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzJAd8bEAE-liM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048232940421976065"
+          ],
+          "media_source_tweet_id": [
+            "2048232946294030544"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2048353872448790935",
+        "created_at": "2026-04-26T10:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048353872448790935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431813350086701060",
+              "start": 3,
+              "username": "_YHARNAMITE_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnY9GsmDsU",
+              "end": 132,
+              "expanded_url": "https://x.com/_YHARNAMITE_/status/2048232946294030544/photo/1",
+              "media_key": "3_2048232940421976065",
+              "start": 109,
+              "url": "https://t.co/vnY9GsmDsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048353872448790935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 871
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048232946294030544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_YHARNAMITE_: NTRエロ漫画の登場人物\n\nさとしくん：可愛いショタ。のちに伝説として語り継がれる。\n近所のお姉さん：さとしくんの事が好き。\nたかしくん：いじめっ子。近所のお姉さんを狙っている。… https://t.co/vnY9GsmDsU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048232940421976065"
+          ]
+        },
+        "author_id": "1431813350086701060",
+        "conversation_id": "2048232946294030544",
+        "created_at": "2026-04-26T02:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048232946294030544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnY9GsmDsU",
+              "end": 113,
+              "expanded_url": "https://x.com/_YHARNAMITE_/status/2048232946294030544/photo/1",
+              "media_key": "3_2048232940421976065",
+              "start": 90,
+              "url": "https://t.co/vnY9GsmDsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048232946294030544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "NTRエロ漫画の登場人物\n\nさとしくん：可愛いショタ。のちに伝説として語り継がれる。\n近所のお姉さん：さとしくんの事が好き。\nたかしくん：いじめっ子。近所のお姉さんを狙っている。\n\nジョニー・シルヴァーハンド：伝説的ロッカーボーイ、「SAMURAI」のギターボーカルを務めていた。2023年、アラサカタワーに攻撃を仕掛け死亡。しかしさとしくんが紺碧プラザで偶然手にしたジョニーの記憶痕跡が埋め込まれたバイオチップ\"Relic\"により復活。さとしくんの人格を乗っ取ろうとするも、気が変わり彼と共にたかしくんへの復讐を果たす。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 561,
+          "impression_count": 496043,
+          "like_count": 4173,
+          "quote_count": 52,
+          "reply_count": 33,
+          "retweet_count": 871
+        },
+        "reply_settings": "everyone",
+        "text": "NTRエロ漫画の登場人物\n\nさとしくん：可愛いショタ。のちに伝説として語り継がれる。\n近所のお姉さん：さとしくんの事が好き。\nたかしくん：いじめっ子。近所のお姉さんを狙っている。 https://t.co/vnY9GsmDsU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 253,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 502
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T02:58:15.000Z",
+        "description": "ただのカリフラワーです。フロムゲー・バイオハザード・エアソフトサバゲー（アンブレラ特殊事案処理チーム（青傘装備）/U.B.C.S.装備）など。Pixivアカウント開設しました（不定期更新）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/73996625",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/73996625",
+                "start": 0,
+                "url": "https://t.co/gjkH3KVt2g"
+              }
+            ]
+          }
+        },
+        "id": "1431813350086701060",
+        "name": "ヰ介",
+        "pinned_tweet_id": "2038448171408568448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783743276144889856/rLjCLCwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3181,
+          "following_count": 558,
+          "like_count": 80413,
+          "listed_count": 13,
+          "media_count": 6062,
+          "tweet_count": 14821
+        },
+        "url": "https://t.co/gjkH3KVt2g",
+        "username": "_YHARNAMITE_",
+        "verified": true
+      }
+    ]
+  }
+}

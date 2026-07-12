@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2043848058392445290",
+    "created_at": "2026-04-14T06:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043938875127803989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2038122309190307840",
+          "start": 0,
+          "username": "R3CA11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043938875127803989",
+    "in_reply_to_user_id": "2038122309190307840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043906032737411380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R3CA11 看着不爽的我已经b掉不管了)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2043848058392445290",
+        "created_at": "2026-04-14T06:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043938875127803989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2038122309190307840",
+              "start": 0,
+              "username": "R3CA11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043938875127803989",
+        "in_reply_to_user_id": "2038122309190307840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043906032737411380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R3CA11 看着不爽的我已经b掉不管了)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038122309190307840",
+        "conversation_id": "2043848058392445290",
+        "created_at": "2026-04-14T04:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043906032737411380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043906032737411380",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043848058392445290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 可以先把发不想看的内容的用户给block，等timeline养好了再解除block，这样timeline会变得好看很多（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 208,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 403
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T05:13:30.000Z",
+        "description": "Karmaです｜音ゲーマー｜🏳️‍⚧️｜中文/Eng/日本語｜高二｜INFP｜兴趣爱好是睡觉💤｜爱｜患有重度抑郁/焦虑症可能会引起你不适｜很喜欢聊天欢迎大家和咱互fo(´-ω-`)",
+        "id": "2038122309190307840",
+        "location": "参宿四",
+        "name": "カルマKarma🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040715119458729984/HSHYmZGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 122,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "R3CA11",
+        "verified": false
+      }
+    ]
+  }
+}

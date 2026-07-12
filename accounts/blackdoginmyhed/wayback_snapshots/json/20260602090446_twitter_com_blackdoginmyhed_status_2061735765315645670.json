@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2061735530510053625",
+    "created_at": "2026-06-02T09:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061735765315645670"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061735765315645670",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061735530510053625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是就是头戴夏天好热（\n我这个神秘妹妹就更热了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2061735261848170496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzBTA9bcAA1gmE.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2061735530510053625",
+        "created_at": "2026-06-02T09:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061735765315645670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061735765315645670",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061735530510053625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是就是头戴夏天好热（\n我这个神秘妹妹就更热了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061735261848170496"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2061735530510053625",
+        "created_at": "2026-06-02T09:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061735530510053625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YBUfmbYXC",
+              "end": 45,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2061735530510053625/photo/1",
+              "media_key": "3_2061735261848170496",
+              "start": 22,
+              "url": "https://t.co/2YBUfmbYXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061735530510053625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水月雨的便宜头戴 低频很棒啊很爽而且不轰头 https://t.co/2YBUfmbYXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 575,
+          "like_count": 3734,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1133
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

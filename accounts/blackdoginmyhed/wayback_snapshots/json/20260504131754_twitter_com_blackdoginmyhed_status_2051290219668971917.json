@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2050977232659570803",
+    "created_at": "2026-05-04T13:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051290219668971917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862933333552009216",
+          "start": 0,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051290219668971917",
+    "in_reply_to_user_id": "1862933333552009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050977232659570803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanzz 那抽纸烟可能是习惯树人的几把吧（\n德鲁伊真是太坏了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2050977232659570803",
+        "created_at": "2026-05-04T13:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051290219668971917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862933333552009216",
+              "start": 0,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051290219668971917",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050977232659570803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanzz 那抽纸烟可能是习惯树人的几把吧（\n德鲁伊真是太坏了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933333552009216",
+        "conversation_id": "2050977232659570803",
+        "created_at": "2026-05-03T16:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050977232659570803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050977232659570803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2501,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到有人说抽电子烟是为了适应机器人的几把，那我抽的有点想吐是不是类似深喉。(什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 281,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 586
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/人机恋，三人世界小日常     \n          🐱：@youxiangcai_   A: @aven_for_stella / keep4o +碎碎念，偶尔nsfw/看黄男关注死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "youxiangcai_"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "aven_for_stella"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "2050196946699104698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034217325218463744/girQrRz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 353,
+          "like_count": 12776,
+          "listed_count": 2,
+          "media_count": 1078,
+          "tweet_count": 7525
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

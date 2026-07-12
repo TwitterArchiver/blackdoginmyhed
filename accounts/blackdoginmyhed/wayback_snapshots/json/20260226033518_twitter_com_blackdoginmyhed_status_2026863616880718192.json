@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026863482700697600"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2026863616880718192",
+    "created_at": "2026-02-26T03:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026863616880718192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lcplShf0KA",
+          "end": 38,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2026863616880718192/photo/1",
+          "media_key": "3_2026863482700697600",
+          "start": 15,
+          "url": "https://t.co/lcplShf0KA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026863616880718192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从沙发缝里薅出的万宝路冰爆（ https://t.co/lcplShf0KA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1669,
+        "media_key": "3_2026863482700697600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDdmUaWEAAwzsF.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026863482700697600"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026863616880718192",
+        "created_at": "2026-02-26T03:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026863616880718192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lcplShf0KA",
+              "end": 38,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2026863616880718192/photo/1",
+              "media_key": "3_2026863482700697600",
+              "start": 15,
+              "url": "https://t.co/lcplShf0KA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026863616880718192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从沙发缝里薅出的万宝路冰爆（ https://t.co/lcplShf0KA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/非三无都会回fo虽然也没人fo（",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026312026201505792/w8nfM-7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

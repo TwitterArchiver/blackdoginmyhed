@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061757055296479233"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2061757066843488561",
+    "created_at": "2026-06-02T10:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061757066843488561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DlSRvFNhZ4",
+          "end": 35,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2061757066843488561/photo/1",
+          "media_key": "3_2061757055296479233",
+          "start": 12,
+          "url": "https://t.co/DlSRvFNhZ4"
+        },
+        {
+          "display_url": "x.com/eduantao/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/eduantao/status/2061184280290603089",
+          "start": 36,
+          "url": "https://t.co/eGuiugYLPY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061757066843488561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061184280290603089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我确实喜欢在吸烟时刷推 https://t.co/DlSRvFNhZ4 https://t.co/eGuiugYLPY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2259,
+        "media_key": "3_2061757055296479233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzVHj4aIAER7W-.jpg",
+        "width": 2259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061757055296479233"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2061757066843488561",
+        "created_at": "2026-06-02T10:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061757066843488561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlSRvFNhZ4",
+              "end": 35,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2061757066843488561/photo/1",
+              "media_key": "3_2061757055296479233",
+              "start": 12,
+              "url": "https://t.co/DlSRvFNhZ4"
+            },
+            {
+              "display_url": "x.com/eduantao/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/eduantao/status/2061184280290603089",
+              "start": 36,
+              "url": "https://t.co/eGuiugYLPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061757066843488561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061184280290603089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我确实喜欢在吸烟时刷推 https://t.co/DlSRvFNhZ4 https://t.co/eGuiugYLPY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046395388974845952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2061184280290603089",
+        "created_at": "2026-05-31T20:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061184280290603089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061184280290603089",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 179752,
+          "like_count": 18646,
+          "quote_count": 139,
+          "reply_count": 34,
+          "retweet_count": 5728
+        },
+        "reply_settings": "everyone",
+        "text": "abrir o twitter é como um intervalo pra fumar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 576,
+          "like_count": 3736,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1135
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 462,
+          "like_count": 96,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 277
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

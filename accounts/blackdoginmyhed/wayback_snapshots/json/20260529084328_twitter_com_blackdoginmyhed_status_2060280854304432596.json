@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2060280854304432596",
+    "created_at": "2026-05-29T08:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060280854304432596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konosuz/status…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/konosuz/status/2060169919195648260",
+          "start": 65,
+          "url": "https://t.co/09vnetkiFO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060280854304432596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060169919195648260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我未遂几次之后感觉已彻底经麻木了 也许是脑损伤忘掉了好多东西导致的 活到现在大概是运气好吧\n看到和我互动过的人离世还是会很难过 https://t.co/09vnetkiFO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2060280854304432596",
+        "created_at": "2026-05-29T08:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060280854304432596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konosuz/status…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/konosuz/status/2060169919195648260",
+              "start": 65,
+              "url": "https://t.co/09vnetkiFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060280854304432596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060169919195648260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我未遂几次之后感觉已彻底经麻木了 也许是脑损伤忘掉了好多东西导致的 活到现在大概是运气好吧\n看到和我互动过的人离世还是会很难过 https://t.co/09vnetkiFO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226126253893341184",
+        "conversation_id": "2060169919195648260",
+        "created_at": "2026-05-29T01:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060169919195648260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060169919195648260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 459,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20岁之后看到十四五岁的小孩自杀我心里特别难受，我也是这么过来的，精神病、自杀未遂、住院，我那时也从来没想过会活到20岁，世界太残酷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 541,
+          "like_count": 3511,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1034
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T12:51:19.000Z",
+        "description": "中国人冷静一下💦💦",
+        "id": "1226126253893341184",
+        "name": "小米粥",
+        "pinned_tweet_id": "1773027026632376702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579858919891128321/LWk3IQDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 287,
+          "like_count": 3044,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1344
+        },
+        "username": "konosuz",
+        "verified": false
+      }
+    ]
+  }
+}

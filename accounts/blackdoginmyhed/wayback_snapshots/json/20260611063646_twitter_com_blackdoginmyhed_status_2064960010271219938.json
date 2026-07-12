@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2064960010271219938",
+    "created_at": "2026-06-11T06:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064960010271219938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LutheCat_Moon/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/LutheCat_Moon/status/2064730909186682992",
+          "start": 15,
+          "url": "https://t.co/u7VqoXoDEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064960010271219938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064730909186682992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果要参加记得移除应用授权哦 https://t.co/u7VqoXoDEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2064728219425648640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdjYEyXMAA9can.jpg",
+        "width": 1000
+      },
+      {
+        "height": 39,
+        "media_key": "3_2064730906720395264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdl0fvW4AAwWIN.jpg",
+        "width": 249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2064960010271219938",
+        "created_at": "2026-06-11T06:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064960010271219938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LutheCat_Moon/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/LutheCat_Moon/status/2064730909186682992",
+              "start": 15,
+              "url": "https://t.co/u7VqoXoDEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064960010271219938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064730909186682992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果要参加记得移除应用授权哦 https://t.co/u7VqoXoDEF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064728219425648640",
+            "3_2064730906720395264"
+          ]
+        },
+        "author_id": "1206953438740959238",
+        "conversation_id": "2064730909186682992",
+        "created_at": "2026-06-10T15:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064730909186682992"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 232,
+              "start": 226,
+              "tag": "dctwt"
+            },
+            {
+              "end": 248,
+              "start": 233,
+              "tag": "disventurecamp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1hUd12rDu",
+              "end": 272,
+              "expanded_url": "https://x.com/LutheCat_Moon/status/2064730909186682992/photo/1",
+              "media_key": "3_2064728219425648640",
+              "start": 249,
+              "url": "https://t.co/H1hUd12rDu"
+            },
+            {
+              "display_url": "pic.x.com/H1hUd12rDu",
+              "end": 272,
+              "expanded_url": "https://x.com/LutheCat_Moon/status/2064730909186682992/photo/1",
+              "media_key": "3_2064730906720395264",
+              "start": 249,
+              "url": "https://t.co/H1hUd12rDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064730909186682992",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1013,
+          "impression_count": 218498,
+          "like_count": 4428,
+          "quote_count": 168,
+          "reply_count": 48,
+          "retweet_count": 1674
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️GENTE NO INTERACTUEN PORFAVOR CON ESTO⚠️\n\nNo suelo hacer esto, pero creo q es necesario informar esto para quienes no lo saben. Todos los links q empiecen como \"infinitetweet\" como este circulo de interacción SON PELIGROSOS\n#dctwt #disventurecamp https://t.co/H1hUd12rDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我 电子烟正品/精工都有纸烟均俄产正品 推文有很多返图 更多种类请私信我",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 631,
+          "like_count": 4148,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1247
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T15:05:21.000Z",
+        "description": "Holi, soy Lu :3// 19 // She/her //🇨🇴//",
+        "id": "1206953438740959238",
+        "name": "🍩•Lu the Cat•🍉",
+        "pinned_tweet_id": "1878917779157622955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940090536464941056/0KDJhYVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 290,
+          "like_count": 353971,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 132872
+        },
+        "username": "LutheCat_Moon",
+        "verified": false
+      }
+    ]
+  }
+}

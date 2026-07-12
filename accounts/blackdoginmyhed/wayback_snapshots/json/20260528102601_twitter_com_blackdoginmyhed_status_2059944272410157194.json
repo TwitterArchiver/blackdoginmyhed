@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2059944272410157194",
+    "created_at": "2026-05-28T10:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059944272410157194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kuku71394Kuku/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Kuku71394Kuku/status/2059780024023273532",
+          "start": 3,
+          "url": "https://t.co/Xiw9w2p7Qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059944272410157194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059780024023273532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱 https://t.co/Xiw9w2p7Qq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8640,
+        "height": 846,
+        "media_key": "7_2059779996185681920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059779996185681920/pu/img/9vkgAuDC1-m4Pjq-.jpg",
+        "public_metrics": {
+          "view_count": 7678
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059779996185681920/pu/vid/avc1/320x376/3IY8z2WUyU2Uysz1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059779996185681920/pu/vid/avc1/480x564/JcFN6gvciNH1Mc6Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059779996185681920/pu/vid/avc1/720x846/sVY79qVL4_hd76wJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059779996185681920/pu/pl/tm4JVWgkT8PuDc6Y.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2059944272410157194",
+        "created_at": "2026-05-28T10:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059944272410157194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kuku71394Kuku/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Kuku71394Kuku/status/2059780024023273532",
+              "start": 3,
+              "url": "https://t.co/Xiw9w2p7Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059944272410157194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059780024023273532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱 https://t.co/Xiw9w2p7Qq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059779996185681920"
+          ]
+        },
+        "author_id": "1942290752241033218",
+        "conversation_id": "2059780024023273532",
+        "created_at": "2026-05-27T23:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059780024023273532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ca0bLDB1mK",
+              "end": 23,
+              "expanded_url": "https://x.com/Kuku71394Kuku/status/2059780024023273532/video/1",
+              "media_key": "7_2059779996185681920",
+              "start": 0,
+              "url": "https://t.co/Ca0bLDB1mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059780024023273532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 18166,
+          "like_count": 1842,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ca0bLDB1mK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级黑肺佬烟鬼传统革新都抽/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 535,
+          "like_count": 3436,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1000
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T18:33:11.000Z",
+        "description": "只是单纯的想画同人，不太方便回评论抱歉\n所有行为只是自娱自乐，偶尔发一下画，低浮上",
+        "id": "1942290752241033218",
+        "name": "嘿嘿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059849140906188800/g30SmeUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 34,
+          "like_count": 4033,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 118
+        },
+        "username": "Kuku71394Kuku",
+        "verified": false
+      }
+    ]
+  }
+}

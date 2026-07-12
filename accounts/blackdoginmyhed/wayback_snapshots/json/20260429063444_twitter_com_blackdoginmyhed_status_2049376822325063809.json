@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049376739110117376"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2049376822325063809",
+    "created_at": "2026-04-29T06:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049376822325063809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UXEeFRtsIl",
+          "end": 32,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2049376822325063809/video/1",
+          "media_key": "13_2049376739110117376",
+          "start": 9,
+          "url": "https://t.co/UXEeFRtsIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049376822325063809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇还有炫彩煊赫门 https://t.co/UXEeFRtsIl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4573,
+        "height": 1440,
+        "media_key": "13_2049376739110117376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049376739110117376/img/ReSZ4MjHHELuGox2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049376739110117376/vid/avc1/320x320/BOKDKdnEFEhA2Y66.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049376739110117376/vid/avc1/540x540/q8a2dqPoykswTEFi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049376739110117376/vid/avc1/720x720/gRiGKF2TFfhYNBxm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049376739110117376/pl/aC1IITw6yjaHZmUX.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049376739110117376"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2049376822325063809",
+        "created_at": "2026-04-29T06:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049376822325063809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXEeFRtsIl",
+              "end": 32,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2049376822325063809/video/1",
+              "media_key": "13_2049376739110117376",
+              "start": 9,
+              "url": "https://t.co/UXEeFRtsIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049376822325063809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇还有炫彩煊赫门 https://t.co/UXEeFRtsIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 262,
+          "like_count": 1787,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 520
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

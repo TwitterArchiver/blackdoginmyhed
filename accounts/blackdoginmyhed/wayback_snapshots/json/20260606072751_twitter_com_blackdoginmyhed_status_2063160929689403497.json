@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063160791432671232"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2063160929689403497",
+    "created_at": "2026-06-06T07:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063160929689403497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmVFbHMRd4",
+          "end": 65,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2063160929689403497/photo/1",
+          "media_key": "3_2063160791432671232",
+          "start": 42,
+          "url": "https://t.co/nmVFbHMRd4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063160929689403497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "涨fo全靠抽奖互动全是转推 以及还有发送大量无意义文本（ \n我的推我我本人一样烂（ https://t.co/nmVFbHMRd4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2063160791432671232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHRzwfbsAAlnYH.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063160791432671232"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2063160929689403497",
+        "created_at": "2026-06-06T07:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063160929689403497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmVFbHMRd4",
+              "end": 65,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2063160929689403497/photo/1",
+              "media_key": "3_2063160791432671232",
+              "start": 42,
+              "url": "https://t.co/nmVFbHMRd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063160929689403497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "涨fo全靠抽奖互动全是转推 以及还有发送大量无意义文本（ \n我的推我我本人一样烂（ https://t.co/nmVFbHMRd4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2062660608240349272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 619,
+          "like_count": 3976,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1201
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

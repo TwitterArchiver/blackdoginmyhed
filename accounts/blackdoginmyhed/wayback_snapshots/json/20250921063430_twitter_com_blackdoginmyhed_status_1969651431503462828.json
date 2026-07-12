@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969650943424937984"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "1969651431503462828",
+    "created_at": "2025-09-21T06:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969651431503462828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNwL00ofqv",
+          "end": 25,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/1969651431503462828/video/1",
+          "media_key": "13_1969650943424937984",
+          "start": 2,
+          "url": "https://t.co/JNwL00ofqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969651431503462828",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "云 https://t.co/JNwL00ofqv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6060,
+        "height": 3840,
+        "media_key": "13_1969650943424937984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969650943424937984/img/BrVtlLFZBv2HROvK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969650943424937984/vid/avc1/320x568/G4Q1AwwPDtBfbnvT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969650943424937984/vid/avc1/480x852/ao-Hh3A3bKqfTlB4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969650943424937984/vid/avc1/720x1280/lu11fLHy07J1TsAt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969650943424937984/pl/vwVWr_Rtt1rodIu5.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969650943424937984"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "1969651431503462828",
+        "created_at": "2025-09-21T06:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969651431503462828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNwL00ofqv",
+              "end": 25,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/1969651431503462828/video/1",
+              "media_key": "13_1969650943424937984",
+              "start": 2,
+              "url": "https://t.co/JNwL00ofqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969651431503462828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "云 https://t.co/JNwL00ofqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "nag2sa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961854510021890048/OR2QZ81E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2062535555339215211",
+    "created_at": "2026-06-04T14:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062536066037653729"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062536066037653729",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062535555339215211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊是24日开奖手滑抱歉（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2062535474607226880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ZFhybAAAs8Nw.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2062535555339215211",
+        "created_at": "2026-06-04T14:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062536066037653729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062536066037653729",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535555339215211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊是24日开奖手滑抱歉（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062535474607226880"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2062535555339215211",
+        "created_at": "2026-06-04T14:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062535555339215211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/el8SPmDuAt",
+              "end": 141,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2062535555339215211/photo/1",
+              "media_key": "3_2062535474607226880",
+              "start": 118,
+              "url": "https://t.co/el8SPmDuAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062535555339215211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在是500fo抽奖时间!\n40r纸🚬或70r电子🚬自选 依旧一共抽3位因为生意惨淡) 可折现45r!\n总之感谢各位看我碎碎念和惠顾!让我吃上好点的拼好饭了!\n参加抽奖请 关注我我会回fo 随便留一条评论以及 转发!\n六月二十一开奖! https://t.co/el8SPmDuAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/\n没钱抽烟了赚点钱买烟!电子🚬一次性冰爆鸭嘴兽小黑条冰神雪加阿尔法大雾还有悦子杆蛋啥乱七八糟的都有! 有精工也有正!🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!\ntg是red_rum0推没回这里找！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 588,
+          "like_count": 3848,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1170
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

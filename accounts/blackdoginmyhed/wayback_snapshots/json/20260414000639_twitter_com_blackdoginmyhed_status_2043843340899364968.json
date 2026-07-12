@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2043606369950159270",
+    "created_at": "2026-04-14T00:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043843340899364968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043081440552701952",
+          "start": 0,
+          "username": "_Why4mILikeThis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043843340899364968",
+    "in_reply_to_user_id": "2043081440552701952",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043840528505049325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Why4mILikeThis no solved,just give up and run away"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2043606369950159270",
+        "created_at": "2026-04-14T00:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043843340899364968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043081440552701952",
+              "start": 0,
+              "username": "_Why4mILikeThis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043843340899364968",
+        "in_reply_to_user_id": "2043081440552701952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043840528505049325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Why4mILikeThis no solved,just give up and run away"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043081440552701952",
+        "conversation_id": "2043606369950159270",
+        "created_at": "2026-04-13T23:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043840528505049325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043840528505049325",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043606369950159270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed A lifetime of fucking things up solved in one determined flash"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 202,
+          "like_count": 1274,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 387
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T21:39:11.000Z",
+        "description": "",
+        "id": "2043081440552701952",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043379781459116032/W8IJJnr1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "username": "_Why4mILikeThis",
+        "verified": false
+      }
+    ]
+  }
+}

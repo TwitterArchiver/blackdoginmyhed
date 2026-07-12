@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2062148083232981120",
+    "created_at": "2026-06-03T12:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062149883520553314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "McFlurry_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062149883520553314",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062148083232981120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McFlurry_2001 werwerwerwerwer"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2062148083232981120",
+        "created_at": "2026-06-03T12:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062149883520553314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062149883520553314",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062148083232981120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_2001 werwerwerwerwer"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "conversation_id": "2062148083232981120",
+        "created_at": "2026-06-03T12:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062148083232981120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/McFlurry_2001/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/McFlurry_2001/status/2062147945890558281",
+              "start": 31,
+              "url": "https://t.co/23JaApjMHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062148083232981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062147945890558281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经把动画刷了十几遍了，有这个毅力我一定可以去养比格犬了！ https://t.co/23JaApjMHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 581,
+          "like_count": 3789,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1153
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "速水奏担当",
+        "id": "1378376814389694468",
+        "name": "萨莉亚焗蜗牛配红酒",
+        "pinned_tweet_id": "2050730304349024739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060397944516558848/E11yQBYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 7291,
+          "like_count": 162397,
+          "listed_count": 3,
+          "media_count": 937,
+          "tweet_count": 27507
+        },
+        "username": "McFlurry_2001",
+        "verified": false
+      }
+    ]
+  }
+}

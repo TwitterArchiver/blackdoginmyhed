@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061180353495052292"
+      ],
+      "media_source_tweet_id": [
+        "2061180640549060636"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2061353733142020578",
+    "created_at": "2026-06-01T07:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061353733142020578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "734938399241580544",
+          "start": 3,
+          "username": "BichinhosFB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxjof5r6d1",
+          "end": 62,
+          "expanded_url": "https://x.com/BichinhosFB/status/2061180640549060636/photo/1",
+          "media_key": "3_2061180353495052292",
+          "start": 39,
+          "url": "https://t.co/nxjof5r6d1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061353733142020578",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061180640549060636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BichinhosFB: Vo cometer maluquices https://t.co/nxjof5r6d1"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Foto bem de perto do rostinho com cara de bravo de um gatinho laranja e branco olhando direto pra foto",
+        "height": 1281,
+        "media_key": "3_2061180353495052292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrInGQWMAQO4bd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061180353495052292"
+          ],
+          "media_source_tweet_id": [
+            "2061180640549060636"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2061353733142020578",
+        "created_at": "2026-06-01T07:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061353733142020578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "734938399241580544",
+              "start": 3,
+              "username": "BichinhosFB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxjof5r6d1",
+              "end": 62,
+              "expanded_url": "https://x.com/BichinhosFB/status/2061180640549060636/photo/1",
+              "media_key": "3_2061180353495052292",
+              "start": 39,
+              "url": "https://t.co/nxjof5r6d1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061353733142020578",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061180640549060636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BichinhosFB: Vo cometer maluquices https://t.co/nxjof5r6d1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061180353495052292"
+          ]
+        },
+        "author_id": "734938399241580544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "2061180640549060636",
+        "created_at": "2026-05-31T20:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061180640549060636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxjof5r6d1",
+              "end": 45,
+              "expanded_url": "https://x.com/BichinhosFB/status/2061180640549060636/photo/1",
+              "media_key": "3_2061180353495052292",
+              "start": 22,
+              "url": "https://t.co/nxjof5r6d1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061180640549060636",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3632,
+          "like_count": 307,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Vo cometer maluquices https://t.co/nxjof5r6d1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 569,
+          "like_count": 3688,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1111
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-24T02:45:43.000Z",
+        "description": "Relaxe sua mente em um ambiente completamente livre de desgraçamento mental. Vamos lotar sua timeline com bichinhos fofos. \n\n📧 bichinhosfb@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bichin…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bichinhos.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3orahHFs1A"
+              }
+            ]
+          }
+        },
+        "id": "734938399241580544",
+        "location": "Assis Chateaubriand, Paraná",
+        "name": "Bichinhos fofinhos pra quem ta cansado",
+        "pinned_tweet_id": "2020926868237832674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011560506448846848/NnKjnhbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747839,
+          "following_count": 78,
+          "like_count": 123357,
+          "listed_count": 849,
+          "media_count": 18459,
+          "tweet_count": 120961
+        },
+        "url": "https://t.co/3orahHFs1A",
+        "username": "BichinhosFB",
+        "verified": true
+      }
+    ]
+  }
+}

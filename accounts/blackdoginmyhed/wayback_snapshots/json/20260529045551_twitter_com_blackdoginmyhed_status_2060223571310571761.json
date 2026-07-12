@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060025152864231429"
+      ],
+      "media_source_tweet_id": [
+        "2060025157742105079"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2060223571310571761",
+    "created_at": "2026-05-29T04:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060223571310571761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522639794098126850",
+          "start": 3,
+          "username": "Meliiiks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/53TrAZUAUL",
+          "end": 71,
+          "expanded_url": "https://x.com/Meliiiks/status/2060025157742105079/photo/1",
+          "media_key": "3_2060025152864231429",
+          "start": 48,
+          "url": "https://t.co/53TrAZUAUL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060223571310571761",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3673
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060025157742105079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meliiiks: Muero encontré una versión triple https://t.co/53TrAZUAUL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 346,
+        "media_key": "3_2060025152864231429",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJat9kjXoAUdFK1.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060025152864231429"
+          ],
+          "media_source_tweet_id": [
+            "2060025157742105079"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2060223571310571761",
+        "created_at": "2026-05-29T04:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060223571310571761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522639794098126850",
+              "start": 3,
+              "username": "Meliiiks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53TrAZUAUL",
+              "end": 71,
+              "expanded_url": "https://x.com/Meliiiks/status/2060025157742105079/photo/1",
+              "media_key": "3_2060025152864231429",
+              "start": 48,
+              "url": "https://t.co/53TrAZUAUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060223571310571761",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3673
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060025157742105079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meliiiks: Muero encontré una versión triple https://t.co/53TrAZUAUL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060025152864231429"
+          ]
+        },
+        "author_id": "1522639794098126850",
+        "conversation_id": "2060025157742105079",
+        "created_at": "2026-05-28T15:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060025157742105079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/53TrAZUAUL",
+              "end": 57,
+              "expanded_url": "https://x.com/Meliiiks/status/2060025157742105079/photo/1",
+              "media_key": "3_2060025152864231429",
+              "start": 34,
+              "url": "https://t.co/53TrAZUAUL"
+            },
+            {
+              "display_url": "x.com/meliiiks/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/meliiiks/status/2059132940299256208",
+              "start": 58,
+              "url": "https://t.co/4Nnjz9cKOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060025157742105079",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3580,
+          "impression_count": 283031,
+          "like_count": 38632,
+          "quote_count": 97,
+          "reply_count": 29,
+          "retweet_count": 3673
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059132940299256208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Muero encontré una versión triple https://t.co/53TrAZUAUL https://t.co/4Nnjz9cKOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 541,
+          "like_count": 3502,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1028
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T18:09:58.000Z",
+        "description": "Hola:3",
+        "id": "1522639794098126850",
+        "location": "She/her ⭒",
+        "name": "𝙼𝚎𝚕𝚒𝚒",
+        "pinned_tweet_id": "2060025157742105079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016873340682850310/ho878XU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 1952,
+          "like_count": 218345,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 37723
+        },
+        "username": "Meliiiks",
+        "verified": false
+      }
+    ]
+  }
+}

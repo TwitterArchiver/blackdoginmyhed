@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2052629287086481533",
+    "created_at": "2026-05-14T05:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054796539193872637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913933368229797888",
+          "start": 0,
+          "username": "sngl832134"
+        },
+        {
+          "end": 22,
+          "id": "2000566105245646849",
+          "start": 12,
+          "username": "Dreamxohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054796539193872637",
+    "in_reply_to_user_id": "1913933368229797888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054796275602936237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngl832134 @Dreamxohy 你也没开私聊啊亲爱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2052629287086481533",
+        "created_at": "2026-05-14T05:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054796539193872637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913933368229797888",
+              "start": 0,
+              "username": "sngl832134"
+            },
+            {
+              "end": 22,
+              "id": "2000566105245646849",
+              "start": 12,
+              "username": "Dreamxohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054796539193872637",
+        "in_reply_to_user_id": "1913933368229797888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054796275602936237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngl832134 @Dreamxohy 你也没开私聊啊亲爱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913933368229797888",
+        "conversation_id": "2052629287086481533",
+        "created_at": "2026-05-14T05:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054796275602936237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            },
+            {
+              "end": 27,
+              "id": "2000566105245646849",
+              "start": 17,
+              "username": "Dreamxohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054796275602936237",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053785864787136980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed @Dreamxohy 私聊我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 381,
+          "like_count": 2431,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 706
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T12:32:19.000Z",
+        "description": "",
+        "id": "1913933368229797888",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "YanG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934643044206407680/9y8fzXxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 147,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "sngl832134",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T14:00:04.000Z",
+        "description": "",
+        "id": "2000566105245646849",
+        "name": "Edward",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037342765844221952/b6YvOZkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 22,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "Dreamxohy",
+        "verified": false
+      }
+    ]
+  }
+}

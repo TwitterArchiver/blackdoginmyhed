@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026730576007577600"
+      ],
+      "media_source_tweet_id": [
+        "2026730589890531698"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2027269201782604097",
+    "created_at": "2026-02-27T06:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027269201782604097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1492808050461196288",
+          "start": 3,
+          "username": "Breaking_Lead_G"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qXioWu4fEs",
+          "end": 44,
+          "expanded_url": "https://x.com/Breaking_Lead_G/status/2026730589890531698/photo/1",
+          "media_key": "3_2026730576007577600",
+          "start": 21,
+          "url": "https://t.co/qXioWu4fEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027269201782604097",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026730589890531698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Breaking_Lead_G: https://t.co/qXioWu4fEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1123,
+        "media_key": "3_2026730576007577600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBkuIZawAA-PnF.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026730576007577600"
+          ],
+          "media_source_tweet_id": [
+            "2026730589890531698"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2027269201782604097",
+        "created_at": "2026-02-27T06:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027269201782604097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1492808050461196288",
+              "start": 3,
+              "username": "Breaking_Lead_G"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXioWu4fEs",
+              "end": 44,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/2026730589890531698/photo/1",
+              "media_key": "3_2026730576007577600",
+              "start": 21,
+              "url": "https://t.co/qXioWu4fEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027269201782604097",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026730589890531698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Breaking_Lead_G: https://t.co/qXioWu4fEs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026730576007577600"
+          ]
+        },
+        "author_id": "1492808050461196288",
+        "conversation_id": "2026730589890531698",
+        "created_at": "2026-02-25T18:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026730589890531698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXioWu4fEs",
+              "end": 23,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/2026730589890531698/photo/1",
+              "media_key": "3_2026730576007577600",
+              "start": 0,
+              "url": "https://t.co/qXioWu4fEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026730589890531698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 26411,
+          "like_count": 699,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qXioWu4fEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/也许是enby/非三无都会回fo虽然也没人fo（",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026312026201505792/w8nfM-7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 52
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "喜欢函数式编程，古典音乐和神秘感。\n\n想被骂 - 930988083 - QQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "0x0.st",
+                "end": 23,
+                "expanded_url": "http://0x0.st",
+                "start": 0,
+                "url": "https://t.co/GGoZDg5x7N"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千秋",
+        "pinned_tweet_id": "2026080794314432578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009908068763742211/nMj1rGML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 685,
+          "like_count": 1685,
+          "listed_count": 8,
+          "media_count": 714,
+          "tweet_count": 7494
+        },
+        "url": "https://t.co/GGoZDg5x7N",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2075717625955659896",
+    "created_at": "2026-07-10T23:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T00:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075717625955659896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fridaypacific/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fridaypacific/status/2075584290054619540",
+          "start": 7,
+          "url": "https://t.co/XMupRpHxf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075717625955659896",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075584290054619540",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "shoot! https://t.co/XMupRpHxf1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9086,
+        "height": 480,
+        "media_key": "13_2075584263957663744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075584263957663744/img/DWyeA51ef4Q8fLkn.jpg",
+        "public_metrics": {
+          "view_count": 51779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075584263957663744/vid/avc1/320x320/wOqg3mO4EA_CK2n6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075584263957663744/vid/avc1/480x480/E165Pa0f-3L2Hh1_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075584263957663744/pl/V3UYHHOcs6nJg4Eb.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2075717625955659896",
+        "created_at": "2026-07-10T23:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T00:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075717625955659896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fridaypacific/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fridaypacific/status/2075584290054619540",
+              "start": 7,
+              "url": "https://t.co/XMupRpHxf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075717625955659896",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075584290054619540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "shoot! https://t.co/XMupRpHxf1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075584263957663744"
+          ]
+        },
+        "author_id": "1442289929808084992",
+        "conversation_id": "2075584290054619540",
+        "created_at": "2026-07-10T14:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075584290054619540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0CLfirFUA",
+              "end": 23,
+              "expanded_url": "https://x.com/fridaypacific/status/2075584290054619540/video/1",
+              "media_key": "13_2075584263957663744",
+              "start": 0,
+              "url": "https://t.co/W0CLfirFUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075584290054619540",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 696,
+          "impression_count": 184073,
+          "like_count": 8047,
+          "quote_count": 50,
+          "reply_count": 38,
+          "retweet_count": 2616
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W0CLfirFUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我（ 推文能看到很多记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 650,
+          "like_count": 4631,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T00:48:22.000Z",
+        "description": "SHOOT!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tubitv.com/tv-shows/36003…",
+                "end": 23,
+                "expanded_url": "https://tubitv.com/tv-shows/360035/s01-e46-the-new-year-s-manga-hell",
+                "start": 0,
+                "url": "https://t.co/c49xCEaGeG"
+              }
+            ]
+          }
+        },
+        "id": "1442289929808084992",
+        "location": "Show: Ninja Sentai Kakuranger ",
+        "name": "Today is Friday in California",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873920773431209984/fqaf7uBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195268,
+          "following_count": 0,
+          "like_count": 105,
+          "listed_count": 291,
+          "media_count": 257,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/c49xCEaGeG",
+        "username": "fridaypacific",
+        "verified": false
+      }
+    ]
+  }
+}

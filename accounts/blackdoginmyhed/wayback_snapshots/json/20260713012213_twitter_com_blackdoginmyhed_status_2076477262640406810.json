@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2076477262640406810",
+    "created_at": "2026-07-13T01:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076477262640406810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076477262640406810",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Anyway the wind blows, doesn't really matter to me"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2076477262640406810",
+        "created_at": "2026-07-13T01:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076477262640406810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076477262640406810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Anyway the wind blows, doesn't really matter to me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我（ 推文能看到很多记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 651,
+          "like_count": 4641,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

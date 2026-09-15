@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080933412433801217"
+      ],
+      "media_source_tweet_id": [
+        "2081046823867957411"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2081265810144985156",
+    "created_at": "2026-07-26T06:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081265810144985156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1789042612055293952",
+          "start": 3,
+          "username": "generatornaya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qIioazQFD",
+          "end": 42,
+          "expanded_url": "https://x.com/generatornaya/status/2081046823867957411/photo/1",
+          "media_key": "3_2080933412433801217",
+          "start": 19,
+          "url": "https://t.co/5qIioazQFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081265810144985156",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1572
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081046823867957411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @generatornaya: https://t.co/5qIioazQFD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2080933412433801217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD16dFbsAEnLsC.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080933412433801217"
+          ]
+        },
+        "author_id": "1789042612055293952",
+        "conversation_id": "2081046823867957411",
+        "created_at": "2026-07-25T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081046823867957411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qIioazQFD",
+              "end": 23,
+              "expanded_url": "https://x.com/generatornaya/status/2081046823867957411/photo/1",
+              "media_key": "3_2080933412433801217",
+              "start": 0,
+              "url": "https://t.co/5qIioazQFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081046823867957411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1221,
+          "impression_count": 94105,
+          "like_count": 13997,
+          "quote_count": 19,
+          "reply_count": 26,
+          "retweet_count": 1572
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5qIioazQFD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080933412433801217"
+          ],
+          "media_source_tweet_id": [
+            "2081046823867957411"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2081265810144985156",
+        "created_at": "2026-07-26T06:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081265810144985156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1789042612055293952",
+              "start": 3,
+              "username": "generatornaya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qIioazQFD",
+              "end": 42,
+              "expanded_url": "https://x.com/generatornaya/status/2081046823867957411/photo/1",
+              "media_key": "3_2080933412433801217",
+              "start": 19,
+              "url": "https://t.co/5qIioazQFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081265810144985156",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1572
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081046823867957411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @generatornaya: https://t.co/5qIioazQFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟 与烟草爱好者 | 咨询请私和tg联系信非个人商贩仅提供建议 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 651,
+          "like_count": 4734,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T21:19:44.000Z",
+        "description": "Official Generatornaya Community Account\n\nOur tools: https://t.co/Z6YzQVaToX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/generatornayab…",
+                "end": 76,
+                "expanded_url": "https://t.me/generatornayabot",
+                "start": 53,
+                "url": "https://t.co/Z6YzQVaToX"
+              }
+            ]
+          }
+        },
+        "id": "1789042612055293952",
+        "name": "Generatornaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058273933015515136/k301BEZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50024,
+          "following_count": 23,
+          "like_count": 494,
+          "listed_count": 132,
+          "media_count": 135,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "generatornaya",
+        "verified": true
+      }
+    ]
+  }
+}

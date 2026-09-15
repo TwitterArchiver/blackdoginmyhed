@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2092151731111297095",
+    "created_at": "2026-08-25T07:26:57.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092151731111297095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SoulSloop99/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/SoulSloop99/status/2091870550545363013",
+          "start": 11,
+          "url": "https://t.co/CUkflRZnz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092151731111297095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091870550545363013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上网就是来看这些的 https://t.co/CUkflRZnz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2091870346492383232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfQ_zbaEAA9OIy.jpg",
+        "width": 932
+      },
+      {
+        "height": 880,
+        "media_key": "3_2091870346479882241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfQ_zYbUAEEsRv.jpg",
+        "width": 932
+      },
+      {
+        "height": 1002,
+        "media_key": "3_2091870346467323905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfQ_zVbsAEpLoT.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2092151731111297095",
+        "created_at": "2026-08-25T07:26:57.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092151731111297095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SoulSloop99/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/SoulSloop99/status/2091870550545363013",
+              "start": 11,
+              "url": "https://t.co/CUkflRZnz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092151731111297095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091870550545363013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上网就是来看这些的 https://t.co/CUkflRZnz6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091870346492383232",
+            "3_2091870346479882241",
+            "3_2091870346467323905"
+          ]
+        },
+        "author_id": "1891330878393167872",
+        "conversation_id": "2091870550545363013",
+        "created_at": "2026-08-24T12:49:38.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091870550545363013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOR5BF6Lnq",
+              "end": 82,
+              "expanded_url": "https://x.com/SoulSloop99/status/2091870550545363013/photo/1",
+              "media_key": "3_2091870346492383232",
+              "start": 59,
+              "url": "https://t.co/YOR5BF6Lnq"
+            },
+            {
+              "display_url": "pic.x.com/YOR5BF6Lnq",
+              "end": 82,
+              "expanded_url": "https://x.com/SoulSloop99/status/2091870550545363013/photo/1",
+              "media_key": "3_2091870346479882241",
+              "start": 59,
+              "url": "https://t.co/YOR5BF6Lnq"
+            },
+            {
+              "display_url": "pic.x.com/YOR5BF6Lnq",
+              "end": 82,
+              "expanded_url": "https://x.com/SoulSloop99/status/2091870550545363013/photo/1",
+              "media_key": "3_2091870346467323905",
+              "start": 59,
+              "url": "https://t.co/YOR5BF6Lnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091870550545363013",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091870346492383232"
+          },
+          {
+            "media_key": "3_2091870346479882241"
+          },
+          {
+            "media_key": "3_2091870346467323905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "一个美国老头坐了30多个小时的飞机，专门飞到内蒙古见一个种树的农村女人。两人机场一碰面就抱着哭，周围人也跟着抹眼泪。\n\n赛考斯今年70多岁了。27年前他在河南洛阳当老师，偶然看到中央四台报道殷玉珍在毛乌素沙地治沙。那个年代电视画质也不清楚，满屏黄沙子，一个女人拿着铁锹跪在地上栽树，风一吹人都是歪的。\n\n赛考斯看得心里头难受，开始联系美国几家机构筹钱，前前后后凑了5000美元，全寄给了这个素不相识的中国女人。\n\n​殷玉珍当时穷得叮当响。为了买树苗，家里唯一一只羊卖了，换了600株。5000美元对她来说跟天上掉下来的没啥两样。\n\n她拿这笔钱买了五万多棵树苗。2000年赛考斯来毛乌素看过一次，满地沙子啥也没有，殷玉珍给他做了顿面条，两人照了张相。\n\n那时候赛考斯想抱她一下，殷玉珍吓得往后躲，农村妇女哪儿见过这阵仗。\n\n​后来通讯地址变了，两人彻底断了联系。20多年殷玉珍一直在种树，七万多亩沙地让她种绿了。\n\n她把那五千美元买的树苗长成的那片林子叫赛考斯林，每年都跟人说这片林子的来处，但名字音译得不太准，叫赛考斯叫了好多年。\n\n​今年五月份她拍了条视频替树寻人，念那个音译名念得磕磕巴巴。全网帮着找，一天多点就找到了。\n\n视频接通的时候殷玉珍憋了半天英语，说You are my brother。赛考斯在那头哭得说不出话。\n\n​8月23号飞机落地，殷玉珍头天夜里翻来覆去没睡着。为了迎接这个美国老头她提前几个月就开始折腾，修了快一个月的路，嫌道不平怕人老头走着费劲。\n\n蒸了馒头，摘了园子里的黄瓜西红柿。还专门练了几句英语，发音不准但她练了得有一百多遍。穿了一件绿衣裳，说是沙地绿的颜色。\n\n​赛考斯这回主动伸胳膊，殷玉珍没躲，扑上去就抱住不撒手。赛考斯跟周围的人说，自己寄那点钱不是为了被特殊对待，是为了感谢殷玉珍，也感谢中国。他说这话的时候嗓子一直哑着。\n\n​晚上殷玉珍领他去看了康巴什夜景。赛考斯站那儿看了半天，说这城市看着像二十二世纪的。周围人笑了，而他自己眼眶倒红了。\n\n​5000美元搁现在不算啥大钱，但27年前五万棵树苗活了，长成七万亩林子了。一个美国老师在电视上偶然看见一个中国女人在种树，随手帮了一把。那个女的拿这一把力，把整片沙地翻过来了。\n\n赛考斯在飞机上跟旁边人说，我就想回去看看那些树。他其实是想回去看看那个种树的人。\n\n大家觉得呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 444035,
+          "like_count": 1943,
+          "quote_count": 39,
+          "reply_count": 128,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "一个美国老头坐了30多个小时的飞机，专门飞到内蒙古见一个种树的农村女人。两人机场一碰面就抱着哭，周围人也跟着抹眼泪。 https://t.co/YOR5BF6Lnq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2092151731111297095",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 655,
+          "like_count": 5477,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1475
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T03:36:44.000Z",
+        "description": "身心疗愈 · 复利人生 · 读书见世界🌍\n用觉知与智慧，重构内在力量💪\nAI与商业深度洞察 → @Richwong95 & @DeerLucid 🦌\nDecode Emotions, Build Inner Strength🚀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "Richwong95"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "DeerLucid"
+              }
+            ]
+          }
+        },
+        "id": "1891330878393167872",
+        "is_identity_verified": true,
+        "location": "你当像鸟飞往你的山 & 推文不构成医疗建议",
+        "most_recent_tweet_id": "2092145226014191656",
+        "name": "心灵书舫 | SoulSloop",
+        "pinned_tweet_id": "2091751715112628646",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891330878393167872/1787406706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032365154621333505/G956NLkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26660,
+          "following_count": 328,
+          "like_count": 8333,
+          "listed_count": 91,
+          "media_count": 3943,
+          "tweet_count": 6077
+        },
+        "url": "",
+        "username": "SoulSloop99",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

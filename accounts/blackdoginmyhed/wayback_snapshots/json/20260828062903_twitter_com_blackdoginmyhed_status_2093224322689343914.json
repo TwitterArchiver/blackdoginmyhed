@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093182510528376832"
+      ],
+      "media_source_tweet_id": [
+        "2093182521781768626"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2093224322689343914",
+    "created_at": "2026-08-28T06:29:03.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T07:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093224322689343914"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "ヤニねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1951357510721609730",
+          "start": 3,
+          "username": "24dosukoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgtYRFs7eI",
+          "end": 49,
+          "expanded_url": "https://x.com/24dosukoi/status/2093182521781768626/photo/1",
+          "media_key": "3_2093182510528376832",
+          "start": 26,
+          "url": "https://t.co/fgtYRFs7eI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093224322689343914",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093182510528376832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 588
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093182521781768626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @24dosukoi: #ヤニねこ\nにゃおん https://t.co/fgtYRFs7eI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093182510528376832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQx6ZzYasAAVvGx.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093182510528376832"
+          ],
+          "media_source_tweet_id": [
+            "2093182521781768626"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2093224322689343914",
+        "created_at": "2026-08-28T06:29:03.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093224322689343914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1951357510721609730",
+              "start": 3,
+              "username": "24dosukoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgtYRFs7eI",
+              "end": 49,
+              "expanded_url": "https://x.com/24dosukoi/status/2093182521781768626/photo/1",
+              "media_key": "3_2093182510528376832",
+              "start": 26,
+              "url": "https://t.co/fgtYRFs7eI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093224322689343914",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093182510528376832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 588
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093182521781768626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @24dosukoi: #ヤニねこ\nにゃおん https://t.co/fgtYRFs7eI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093182510528376832"
+          ]
+        },
+        "author_id": "1951357510721609730",
+        "conversation_id": "2093182521781768626",
+        "created_at": "2026-08-28T03:42:57.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093182521781768626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgtYRFs7eI",
+              "end": 34,
+              "expanded_url": "https://x.com/24dosukoi/status/2093182521781768626/photo/1",
+              "media_key": "3_2093182510528376832",
+              "start": 11,
+              "url": "https://t.co/fgtYRFs7eI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093182521781768626",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093182510528376832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 440,
+          "impression_count": 58336,
+          "like_count": 5137,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 588
+        },
+        "reply_settings": "everyone",
+        "text": "#ヤニねこ\nにゃおん https://t.co/fgtYRFs7eI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2093224322689343914",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 658,
+          "like_count": 5543,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1488
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T19:01:16.000Z",
+        "description": "絵/illustration/🌈🕒ハマり中/ご依頼ございましたらDMへお願いいたします。",
+        "id": "1951357510721609730",
+        "is_identity_verified": false,
+        "location": "❌無断転載、AI学習、AI画像編集禁止",
+        "most_recent_tweet_id": "2093182521781768626",
+        "name": "はむ次郎どん",
+        "pinned_tweet_id": "2060707553177403898",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951357510721609730/1772529432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998274575558377472/ud587yAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 68,
+          "like_count": 4097,
+          "listed_count": 23,
+          "media_count": 126,
+          "tweet_count": 1118
+        },
+        "url": "",
+        "username": "24dosukoi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

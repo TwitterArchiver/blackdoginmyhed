@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2088499336116396242",
+    "created_at": "2026-08-15T05:33:38.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088499336116396242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jingzhny11/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/jingzhny11/status/2088337613304586298",
+          "start": 53,
+          "url": "https://t.co/8DmbgQYRct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088499336116396242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088337613304586298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如你所说最后的选择才是直接的暴力 在没有确认是不是偷拍的情况下挥刀向另一个普通人等于反抗了阶级压迫吗，， https://t.co/8DmbgQYRct"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2088499336116396242",
+        "created_at": "2026-08-15T05:33:38.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088499336116396242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingzhny11/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/jingzhny11/status/2088337613304586298",
+              "start": 53,
+              "url": "https://t.co/8DmbgQYRct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088499336116396242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088337613304586298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如你所说最后的选择才是直接的暴力 在没有确认是不是偷拍的情况下挥刀向另一个普通人等于反抗了阶级压迫吗，， https://t.co/8DmbgQYRct"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2088337613304586298",
+        "created_at": "2026-08-14T18:51:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088337613304586298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088337613304586298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4868,
+          "like_count": 28,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我支持三角枫。\n因为你必须记住，普通人的冲突中使用暴力是弱势的表现，因为不能通过常规社会资源维护利益时，最后的选择才是直接的暴力，正如欠薪老板不需要拿刀指着讨薪民工才能逼迫对方就范\n以及，精神病是被社会强奸染上的性病，精神病院和监狱一样是为统治阶级服务的暴政\n还有，按时间她不在药效"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2088499336116396242",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 664,
+          "like_count": 5201,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1439
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023 srs2025 一米九超大只术娘老阿姨\n自由左翼的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视/如果我放弃我的自由屈从于国家机器的规训我就已经死了",
+        "id": "1597468568290873344",
+        "is_identity_verified": false,
+        "location": "谁人的繁星之梦",
+        "most_recent_tweet_id": "2088499197989580837",
+        "name": "愿望天使DesireAngel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597468568290873344/1771935753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 2000,
+          "like_count": 128493,
+          "listed_count": 22,
+          "media_count": 268,
+          "tweet_count": 19475
+        },
+        "url": "",
+        "username": "jingzhny11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

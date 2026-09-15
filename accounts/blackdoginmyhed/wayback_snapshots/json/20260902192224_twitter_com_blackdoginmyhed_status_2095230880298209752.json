@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2095230880298209752",
+    "created_at": "2026-09-02T19:22:24.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095230880298209752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sanpatostia/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/sanpatostia/status/2095087714047607084",
+          "start": 2,
+          "url": "https://t.co/rgrMjZJfha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095230880298209752",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095087714047607084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😢 https://t.co/rgrMjZJfha"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3209,
+        "media_key": "3_2095087458744438784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM-8YfWkAAvmkP.jpg",
+        "width": 2060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2095230880298209752",
+        "created_at": "2026-09-02T19:22:24.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095230880298209752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sanpatostia/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/sanpatostia/status/2095087714047607084",
+              "start": 2,
+              "url": "https://t.co/rgrMjZJfha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095230880298209752",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095087714047607084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/rgrMjZJfha"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095087458744438784"
+          ]
+        },
+        "author_id": "1854604826510082049",
+        "conversation_id": "2095087714047607084",
+        "created_at": "2026-09-02T09:53:30.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095087714047607084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hy3hlSWw8j",
+              "end": 140,
+              "expanded_url": "https://x.com/sanpatostia/status/2095087714047607084/photo/1",
+              "media_key": "3_2095087458744438784",
+              "start": 117,
+              "url": "https://t.co/hy3hlSWw8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095087714047607084",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2095087458744438784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 119051,
+          "like_count": 20826,
+          "quote_count": 14,
+          "reply_count": 446,
+          "retweet_count": 611
+        },
+        "reply_settings": "everyone",
+        "text": "Ayer por la noche murió mi gatito Michael.\nOs comparto su foto más mítica como homenaje.\nDescansa en paz, pequeñajo. https://t.co/hy3hlSWw8j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2095230880298209752",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 658,
+          "like_count": 5619,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1506
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-07T19:20:48.000Z",
+        "description": "Un pato muy sabrosón que se mete en pelis y hace vídeos chorras🦆.\nNo, Citroën no me paga. https://t.co/P5XMnPOmfN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ssanpitopato",
+                "end": 113,
+                "expanded_url": "http://instagram.com/ssanpitopato",
+                "start": 90,
+                "url": "https://t.co/P5XMnPOmfN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ssanpitopato",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ssanpitopato",
+                "start": 0,
+                "url": "https://t.co/RCmMJr4ICk"
+              }
+            ]
+          }
+        },
+        "id": "1854604826510082049",
+        "is_identity_verified": false,
+        "location": "Santander, España",
+        "most_recent_tweet_id": "2095130293103431995",
+        "name": "San Pito Pato",
+        "pinned_tweet_id": "1854933391331737913",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854604826510082049/1776110391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036839839103123456/FxE23Lvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18381,
+          "following_count": 70,
+          "like_count": 1122,
+          "listed_count": 22,
+          "media_count": 341,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/RCmMJr4ICk",
+        "username": "sanpatostia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083549889263288320"
+      ],
+      "media_source_tweet_id": [
+        "2087152047800127928"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2087401061392978022",
+    "created_at": "2026-08-12T04:49:29.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087401061392978022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1358539444362608641",
+          "start": 3,
+          "username": "mikasagrada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cI9ojsLOs1",
+          "end": 94,
+          "expanded_url": "https://x.com/mikasagrada/status/2087152047800127928/photo/1",
+          "media_key": "3_2083549889263288320",
+          "start": 71,
+          "url": "https://t.co/cI9ojsLOs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087401061392978022",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2083549889263288320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6066
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087152047800127928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikasagrada: Eu entrando no Twitter para curtir tudo o que eu vejo https://t.co/cI9ojsLOs1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2083549889263288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpBlc1XwAAaj_5.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083549889263288320"
+          ]
+        },
+        "author_id": "1358539444362608641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2087152047800127928",
+        "created_at": "2026-08-11T12:20:00.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087152047800127928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cI9ojsLOs1",
+              "end": 77,
+              "expanded_url": "https://x.com/mikasagrada/status/2087152047800127928/photo/1",
+              "media_key": "3_2083549889263288320",
+              "start": 54,
+              "url": "https://t.co/cI9ojsLOs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087152047800127928",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2083549889263288320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 154117,
+          "like_count": 25851,
+          "quote_count": 54,
+          "reply_count": 51,
+          "retweet_count": 6066
+        },
+        "reply_settings": "everyone",
+        "text": "Eu entrando no Twitter para curtir tudo o que eu vejo https://t.co/cI9ojsLOs1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083549889263288320"
+          ],
+          "media_source_tweet_id": [
+            "2087152047800127928"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2087401061392978022",
+        "created_at": "2026-08-12T04:49:29.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087401061392978022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1358539444362608641",
+              "start": 3,
+              "username": "mikasagrada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cI9ojsLOs1",
+              "end": 94,
+              "expanded_url": "https://x.com/mikasagrada/status/2087152047800127928/photo/1",
+              "media_key": "3_2083549889263288320",
+              "start": 71,
+              "url": "https://t.co/cI9ojsLOs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087401061392978022",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2083549889263288320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6066
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087152047800127928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikasagrada: Eu entrando no Twitter para curtir tudo o que eu vejo https://t.co/cI9ojsLOs1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2087401061392978022",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 658,
+          "like_count": 5099,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1432
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-07T22:13:49.000Z",
+        "description": "Tenho uma legião de divas | segue ae divas | contato dm 📩",
+        "id": "1358539444362608641",
+        "is_identity_verified": false,
+        "location": "Beverly Hills, CA",
+        "most_recent_tweet_id": "2087373518111428921",
+        "name": "mika",
+        "pinned_tweet_id": "2067636854963233171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358539444362608641/1773801866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034098419405574144/zB7RtS9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81597,
+          "following_count": 6,
+          "like_count": 41614,
+          "listed_count": 42,
+          "media_count": 1833,
+          "tweet_count": 3947
+        },
+        "url": "",
+        "username": "mikasagrada",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

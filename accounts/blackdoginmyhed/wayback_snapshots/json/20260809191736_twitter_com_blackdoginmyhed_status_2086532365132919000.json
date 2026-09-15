@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2085835516511961088"
+      ],
+      "media_source_tweet_id": [
+        "2085835523050918363"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2086532365132919000",
+    "created_at": "2026-08-09T19:17:36.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086532365132919000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "36889519",
+          "start": 3,
+          "username": "RaminNasibov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kn1bvcIpk5",
+          "end": 57,
+          "expanded_url": "https://x.com/RaminNasibov/status/2085835523050918363/video/1",
+          "media_key": "7_2085835516511961088",
+          "start": 34,
+          "url": "https://t.co/Kn1bvcIpk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086532365132919000",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_2085835516511961088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085835523050918363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaminNasibov: scientific fact https://t.co/Kn1bvcIpk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5066,
+        "height": 720,
+        "media_key": "7_2085835516511961088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2085835516511961088/pu/img/MQ2zLdjUkoZdFdn1.jpg",
+        "public_metrics": {
+          "view_count": 3601406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085835516511961088/pu/vid/avc1/306x270/DToQG4u5YOFt9VC7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085835516511961088/pu/vid/avc1/410x360/LdJe0UDnoC69RQhF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085835516511961088/pu/vid/avc1/820x720/DdtbvhxK5ZC48j9J.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2085835516511961088/pu/pl/8YPObn2NhXce_7xK.m3u8?tag=12"
+          }
+        ],
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2085835516511961088"
+          ]
+        },
+        "author_id": "36889519",
+        "conversation_id": "2085835523050918363",
+        "created_at": "2026-08-07T21:08:36.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085835523050918363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kn1bvcIpk5",
+              "end": 39,
+              "expanded_url": "https://x.com/RaminNasibov/status/2085835523050918363/video/1",
+              "media_key": "7_2085835516511961088",
+              "start": 16,
+              "url": "https://t.co/Kn1bvcIpk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085835523050918363",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2085835516511961088"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "It’s true",
+            "suggestion_id": "2086469161748775272"
+          },
+          {
+            "suggestion": "This is a real NADA video it’s true ",
+            "suggestion_id": "2086516555983069438"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19462,
+          "impression_count": 18848935,
+          "like_count": 209930,
+          "quote_count": 2183,
+          "reply_count": 508,
+          "retweet_count": 44245
+        },
+        "reply_settings": "everyone",
+        "text": "scientific fact https://t.co/Kn1bvcIpk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2085835516511961088"
+          ],
+          "media_source_tweet_id": [
+            "2085835523050918363"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2086532365132919000",
+        "created_at": "2026-08-09T19:17:36.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086532365132919000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "36889519",
+              "start": 3,
+              "username": "RaminNasibov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kn1bvcIpk5",
+              "end": 57,
+              "expanded_url": "https://x.com/RaminNasibov/status/2085835523050918363/video/1",
+              "media_key": "7_2085835516511961088",
+              "start": 34,
+              "url": "https://t.co/Kn1bvcIpk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086532365132919000",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2085835516511961088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085835523050918363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaminNasibov: scientific fact https://t.co/Kn1bvcIpk5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2086532365132919000",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 646,
+          "like_count": 4992,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-01T05:13:30.000Z",
+        "description": "Branding & Visual Identity Designer ✦ Available for new projects: ramin@nasibov.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasibov.me",
+                "end": 23,
+                "expanded_url": "https://www.nasibov.me",
+                "start": 0,
+                "url": "https://t.co/iCqDSJzjlc"
+              }
+            ]
+          }
+        },
+        "id": "36889519",
+        "is_identity_verified": false,
+        "location": "Book a project →",
+        "most_recent_tweet_id": "2086530956324704536",
+        "name": "Ramin Nasibov",
+        "pinned_tweet_id": "2086213319455621147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36889519/1767291678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006792793650323456/WI88G3rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864590,
+          "following_count": 264420,
+          "like_count": 908999,
+          "listed_count": 4004,
+          "media_count": 78101,
+          "tweet_count": 95266
+        },
+        "url": "https://t.co/iCqDSJzjlc",
+        "username": "RaminNasibov",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2096693975902249403",
+    "created_at": "2026-09-06T20:16:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T21:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096693975902249403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1740614760612179968",
+          "start": 3,
+          "username": "Jo03293hn_ax07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096693975902249403",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096378192739148070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jo03293hn_ax07: Qual a dificuldade de falar que é viciado porque gosta? Sempre é culpa dos amigos, da família, da rotina\n\nEu sou tabagi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2096693975902249403",
+        "created_at": "2026-09-06T20:16:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096693975902249403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1740614760612179968",
+              "start": 3,
+              "username": "Jo03293hn_ax07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096693975902249403",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096378192739148070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jo03293hn_ax07: Qual a dificuldade de falar que é viciado porque gosta? Sempre é culpa dos amigos, da família, da rotina\n\nEu sou tabagi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740614760612179968",
+        "conversation_id": "2096378192739148070",
+        "created_at": "2026-09-05T23:21:24.000Z",
+        "display_text_range": [
+          0,
+          216
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096378192739148070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QGdoPOP/status…",
+              "end": 240,
+              "expanded_url": "https://twitter.com/QGdoPOP/status/2096237298341871963",
+              "start": 217,
+              "url": "https://t.co/68OmtEfhkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096378192739148070",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 240098,
+          "like_count": 5759,
+          "quote_count": 100,
+          "reply_count": 46,
+          "retweet_count": 565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096237298341871963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Qual a dificuldade de falar que é viciado porque gosta? Sempre é culpa dos amigos, da família, da rotina\n\nEu sou tabagista porque fumar é muito bom, simples. Ninguém quer assumir responsabilidade sobre suas decisões. https://t.co/68OmtEfhkP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2096693975902249403",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 658,
+          "like_count": 5715,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-29T06:04:43.000Z",
+        "description": "",
+        "id": "1740614760612179968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096685908544114795",
+        "name": ".",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740614760612179968/1763989830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082628523630497792/5pbNBb2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 601,
+          "like_count": 66326,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 9373
+        },
+        "url": "",
+        "username": "Jo03293hn_ax07",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

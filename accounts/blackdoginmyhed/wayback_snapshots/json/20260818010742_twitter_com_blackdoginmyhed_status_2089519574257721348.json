@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089358824272429056"
+      ],
+      "media_source_tweet_id": [
+        "2089358841578209354"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2089519574257721348",
+    "created_at": "2026-08-18T01:07:42.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T02:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089519574257721348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1358862422258376704",
+          "start": 3,
+          "username": "acervodoguinhos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wdHhAmnKQw",
+          "end": 44,
+          "expanded_url": "https://x.com/acervodoguinhos/status/2089358841578209354/video/1",
+          "media_key": "13_2089358824272429056",
+          "start": 21,
+          "url": "https://t.co/wdHhAmnKQw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089519574257721348",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2089358824272429056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2632
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089358841578209354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acervodoguinhos: https://t.co/wdHhAmnKQw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6993,
+        "height": 686,
+        "media_key": "13_2089358824272429056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089358824272429056/img/1P9n9wD0J05uK0JF.jpg",
+        "public_metrics": {
+          "view_count": 197525
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358824272429056/vid/avc1/282x270/rT1hYrTzMTAT1TqP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358824272429056/vid/avc1/376x360/nO8a_djn3VBvsajK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089358824272429056/vid/avc1/720x686/i0K9JBBFIGtlspMr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089358824272429056/pl/951NIsk4i2Q9L6ok.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089358824272429056"
+          ],
+          "media_source_tweet_id": [
+            "2089358841578209354"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2089519574257721348",
+        "created_at": "2026-08-18T01:07:42.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089519574257721348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1358862422258376704",
+              "start": 3,
+              "username": "acervodoguinhos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdHhAmnKQw",
+              "end": 44,
+              "expanded_url": "https://x.com/acervodoguinhos/status/2089358841578209354/video/1",
+              "media_key": "13_2089358824272429056",
+              "start": 21,
+              "url": "https://t.co/wdHhAmnKQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089519574257721348",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089358824272429056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2632
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089358841578209354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acervodoguinhos: https://t.co/wdHhAmnKQw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089358824272429056"
+          ]
+        },
+        "author_id": "1358862422258376704",
+        "conversation_id": "2089358841578209354",
+        "created_at": "2026-08-17T14:29:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089358841578209354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdHhAmnKQw",
+              "end": 23,
+              "expanded_url": "https://x.com/acervodoguinhos/status/2089358841578209354/video/1",
+              "media_key": "13_2089358824272429056",
+              "start": 0,
+              "url": "https://t.co/wdHhAmnKQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089358841578209354",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089358824272429056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3502,
+          "impression_count": 621934,
+          "like_count": 27572,
+          "quote_count": 164,
+          "reply_count": 89,
+          "retweet_count": 2632
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wdHhAmnKQw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2089519574257721348",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 662,
+          "like_count": 5301,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-08T19:37:12.000Z",
+        "description": "🐶 Vídeos de dogs, meus e músicas \n📩 DM para créditos ou remoção",
+        "id": "1358862422258376704",
+        "is_identity_verified": false,
+        "location": "Minas Gerais, Brasil",
+        "most_recent_tweet_id": "2089497842238763111",
+        "name": "acervo doguinhos",
+        "pinned_tweet_id": "1530578062026412033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358862422258376704/1784332457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078267024925499392/ZL0mvk7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69464,
+          "following_count": 2870,
+          "like_count": 130488,
+          "listed_count": 63,
+          "media_count": 3517,
+          "tweet_count": 11895
+        },
+        "url": "",
+        "username": "acervodoguinhos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

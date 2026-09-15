@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088564388135608320"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088564394804609143",
+    "created_at": "2026-08-15T09:52:10.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088564394804609143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WKHuTKpph5",
+          "end": 25,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2088564394804609143/photo/1",
+          "media_key": "3_2088564388135608320",
+          "start": 2,
+          "url": "https://t.co/WKHuTKpph5"
+        },
+        {
+          "display_url": "x.com/blackdoginmyhe…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/blackdoginmyhed/status/2088507855355965598",
+          "start": 26,
+          "url": "https://t.co/HQsARoLKa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088564394804609143",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088564388135608320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088507855355965598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "💧 https://t.co/WKHuTKpph5 https://t.co/HQsARoLKa1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2088564388135608320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwSPs1aoAAGrqx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088564388135608320"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088564394804609143",
+        "created_at": "2026-08-15T09:52:10.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088564394804609143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKHuTKpph5",
+              "end": 25,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2088564394804609143/photo/1",
+              "media_key": "3_2088564388135608320",
+              "start": 2,
+              "url": "https://t.co/WKHuTKpph5"
+            },
+            {
+              "display_url": "x.com/blackdoginmyhe…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/blackdoginmyhed/status/2088507855355965598",
+              "start": 26,
+              "url": "https://t.co/HQsARoLKa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088564394804609143",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088564388135608320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088507855355965598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💧 https://t.co/WKHuTKpph5 https://t.co/HQsARoLKa1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2088507855355965598",
+        "created_at": "2026-08-15T06:07:29.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088507855355965598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingzhny11/sta…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/jingzhny11/status/2088337613304586298",
+              "start": 129,
+              "url": "https://t.co/8DmbgQYRct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088507855355965598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088337613304586298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“普通人的冲突中使用暴力是弱势的表现，因为不能通过常规社会资源维护利益时，最后的选择才是直接的暴力”\n三角枫有尝试用所谓常规社会资源维护吗?\n“普通人冲突中暴力是弱势的表现”\n先决条件是尚未清楚偷拍是否存实的被害人不是普通人?还是谁先动手伤人谁是就是弱势? https://t.co/8DmbgQYRct"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2088564394804609143",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 662,
+          "like_count": 5214,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1441
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

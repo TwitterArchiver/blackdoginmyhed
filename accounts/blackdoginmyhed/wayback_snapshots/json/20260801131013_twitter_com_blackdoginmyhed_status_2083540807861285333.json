@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083509767088328704"
+      ],
+      "media_source_tweet_id": [
+        "2083509775284019588"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083540807861285333",
+    "created_at": "2026-08-01T13:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083540807861285333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686939573048446977",
+          "start": 3,
+          "username": "myntx__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VGqubBx2aR",
+          "end": 36,
+          "expanded_url": "https://x.com/myntx__/status/2083509775284019588/photo/1",
+          "media_key": "3_2083509767088328704",
+          "start": 13,
+          "url": "https://t.co/VGqubBx2aR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083540807861285333",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083509775284019588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myntx__: https://t.co/VGqubBx2aR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2926,
+        "media_key": "3_2083509767088328704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOodGCFbUAAlp97.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083509767088328704"
+          ]
+        },
+        "author_id": "1686939573048446977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083509775284019588",
+        "created_at": "2026-08-01T11:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083509775284019588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGqubBx2aR",
+              "end": 23,
+              "expanded_url": "https://x.com/myntx__/status/2083509775284019588/photo/1",
+              "media_key": "3_2083509767088328704",
+              "start": 0,
+              "url": "https://t.co/VGqubBx2aR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083509775284019588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 11556,
+          "like_count": 1128,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VGqubBx2aR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083509767088328704"
+          ],
+          "media_source_tweet_id": [
+            "2083509775284019588"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083540807861285333",
+        "created_at": "2026-08-01T13:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083540807861285333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686939573048446977",
+              "start": 3,
+              "username": "myntx__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGqubBx2aR",
+              "end": 36,
+              "expanded_url": "https://x.com/myntx__/status/2083509775284019588/photo/1",
+              "media_key": "3_2083509767088328704",
+              "start": 13,
+              "url": "https://t.co/VGqubBx2aR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083540807861285333",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083509775284019588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myntx__: https://t.co/VGqubBx2aR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 648,
+          "like_count": 4813,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T03:20:33.000Z",
+        "description": "myntx(みんてぃくす)です。食べものと女の子、風景などを描きます。ご連絡はメールにて✉️| 『ILLUSTRATION2026』掲載|Insta▶︎myntx__",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/myntx",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/myntx",
+                "start": 0,
+                "url": "https://t.co/Uhj3nrTdH9"
+              }
+            ]
+          }
+        },
+        "id": "1686939573048446977",
+        "location": "Japan",
+        "name": "myntx",
+        "pinned_tweet_id": "2071549132536455665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950694251508948992/a2tzW0T3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27472,
+          "following_count": 113,
+          "like_count": 1277,
+          "listed_count": 156,
+          "media_count": 116,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/Uhj3nrTdH9",
+        "username": "myntx__",
+        "verified": false
+      }
+    ]
+  }
+}

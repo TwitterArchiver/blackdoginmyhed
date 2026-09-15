@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2090902690046058911",
+    "created_at": "2026-08-21T20:43:43.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090902690046058911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shqnksfv/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shqnksfv/status/2090667675584430574",
+          "start": 7,
+          "url": "https://t.co/hBymRkodH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090902690046058911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090667675584430574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发我干嘛，， https://t.co/hBymRkodH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2090667670727503872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOLK3EbMAAqqcQ.jpg",
+        "width": 504
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2090667670727483392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOLK3Ea4AAANtZ.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2090902690046058911",
+        "created_at": "2026-08-21T20:43:43.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090902690046058911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shqnksfv/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shqnksfv/status/2090667675584430574",
+              "start": 7,
+              "url": "https://t.co/hBymRkodH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090902690046058911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090667675584430574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发我干嘛，， https://t.co/hBymRkodH4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090667670727503872",
+            "3_2090667670727483392"
+          ]
+        },
+        "author_id": "1921274547262869504",
+        "conversation_id": "2090667675584430574",
+        "created_at": "2026-08-21T05:09:51.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090667675584430574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YORnYWkm4E",
+              "end": 46,
+              "expanded_url": "https://x.com/shqnksfv/status/2090667675584430574/photo/1",
+              "media_key": "3_2090667670727503872",
+              "start": 23,
+              "url": "https://t.co/YORnYWkm4E"
+            },
+            {
+              "display_url": "pic.x.com/YORnYWkm4E",
+              "end": 46,
+              "expanded_url": "https://x.com/shqnksfv/status/2090667675584430574/photo/1",
+              "media_key": "3_2090667670727483392",
+              "start": 23,
+              "url": "https://t.co/YORnYWkm4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090667675584430574",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090667670727503872"
+          },
+          {
+            "media_key": "3_2090667670727483392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1441,
+          "impression_count": 3521826,
+          "like_count": 41088,
+          "quote_count": 260,
+          "reply_count": 220,
+          "retweet_count": 1364
+        },
+        "reply_settings": "everyone",
+        "text": "鏡で見た時の自分←→スマホの内カメで見た自分 https://t.co/YORnYWkm4E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2090902690046058911",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 656,
+          "like_count": 5386,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1459
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T18:42:12.000Z",
+        "description": "T:@Beryl_Esports\n運営 エディター",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Beryl_Esports"
+              }
+            ]
+          }
+        },
+        "id": "1921274547262869504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090887371252474038",
+        "name": "しゃんくす",
+        "pinned_tweet_id": "1921278513107054638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921274547262869504/1781848545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947585991352717312/ANvz57xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 720,
+          "like_count": 7175,
+          "listed_count": 8,
+          "media_count": 429,
+          "tweet_count": 2884
+        },
+        "url": "",
+        "username": "shqnksfv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086740344184713216"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2086740349201043461",
+    "created_at": "2026-08-10T09:04:03.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T10:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086740349201043461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dcDejo5OAq",
+          "end": 78,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2086740349201043461/photo/1",
+          "media_key": "3_2086740344184713216",
+          "start": 55,
+          "url": "https://t.co/dcDejo5OAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086740349201043461",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086740344184713216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近一轮新的严查\n上海 北京 西藏 山东 新疆 秦皇岛 安徽 重庆电子🚭暂停 真是草了正好拼好饭都快吃不起了 https://t.co/dcDejo5OAq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2086740344184713216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWXSXmbMAAlYnI.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086740344184713216"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2086740349201043461",
+        "created_at": "2026-08-10T09:04:03.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086740349201043461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dcDejo5OAq",
+              "end": 78,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2086740349201043461/photo/1",
+              "media_key": "3_2086740344184713216",
+              "start": 55,
+              "url": "https://t.co/dcDejo5OAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086740349201043461",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086740344184713216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一轮新的严查\n上海 北京 西藏 山东 新疆 秦皇岛 安徽 重庆电子🚭暂停 真是草了正好拼好饭都快吃不起了 https://t.co/dcDejo5OAq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2086740349201043461",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 646,
+          "like_count": 5040,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

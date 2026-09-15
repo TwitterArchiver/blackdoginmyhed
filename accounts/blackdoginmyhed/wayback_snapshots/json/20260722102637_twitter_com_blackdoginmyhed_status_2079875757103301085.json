@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2079875757103301085",
+    "created_at": "2026-07-22T10:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079875757103301085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiharu_orange…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/chiharu_orange/status/2079873026011591012",
+          "start": 3,
+          "url": "https://t.co/JXMQMGCWi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079875757103301085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079873026011591012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢 https://t.co/JXMQMGCWi8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2079873014817239040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0xfMIaMAApS5d.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2079875757103301085",
+        "created_at": "2026-07-22T10:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079875757103301085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiharu_orange…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/chiharu_orange/status/2079873026011591012",
+              "start": 3,
+              "url": "https://t.co/JXMQMGCWi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079875757103301085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079873026011591012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢 https://t.co/JXMQMGCWi8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079873014817239040"
+          ]
+        },
+        "author_id": "1972304204619513856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079873026011591012",
+        "created_at": "2026-07-22T10:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079873026011591012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1951181920022437889",
+              "start": 2,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NDycbQbxa",
+              "end": 61,
+              "expanded_url": "https://x.com/chiharu_orange/status/2079873026011591012/photo/1",
+              "media_key": "3_2079873014817239040",
+              "start": 38,
+              "url": "https://t.co/7NDycbQbxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079873026011591012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@blackdoginmyhed 老大咪\n青苹果香香的꒰⑅ᵕ༚ᵕ꒱˖♡ https://t.co/7NDycbQbxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 653,
+          "like_count": 4693,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T14:15:47.000Z",
+        "description": "18↑⚠内有死鸽⚠\nInformation Forager 🐭 天龙老鼠人｜oc口嗨 #橘眠记事本｜和安知 #安知我\n*在这里发的所有东西不会也不应该出现在墙内的sns\n*匿名/Q&A：https://t.co/LmAQxTPeEQ\n*如果你觉得我的存在让你不舒服，我故意的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "橘眠记事本"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "安知我"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/chiharu_orange",
+                "end": 116,
+                "expanded_url": "https://confess.ngl.link/chiharu_orange",
+                "start": 93,
+                "url": "https://t.co/LmAQxTPeEQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzhi-ehzo.com",
+                "end": 23,
+                "expanded_url": "https://anzhi-ehzo.com/",
+                "start": 0,
+                "url": "https://t.co/Z7dpIO2Fby"
+              }
+            ]
+          }
+        },
+        "id": "1972304204619513856",
+        "location": "阴暗的角落",
+        "name": "橘眠",
+        "pinned_tweet_id": "2045802022709199203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973012959770312704/NDQU4tyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 64,
+          "like_count": 25200,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 2387
+        },
+        "url": "https://t.co/Z7dpIO2Fby",
+        "username": "chiharu_orange",
+        "verified": true
+      }
+    ]
+  }
+}

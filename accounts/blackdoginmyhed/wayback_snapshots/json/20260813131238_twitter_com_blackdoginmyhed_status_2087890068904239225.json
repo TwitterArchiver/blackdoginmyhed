@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087562537835597824"
+      ],
+      "media_source_tweet_id": [
+        "2087562543397319166"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2087890068904239225",
+    "created_at": "2026-08-13T13:12:38.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T14:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087890068904239225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "812205239604416512",
+          "start": 3,
+          "username": "sea_maggie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCsePxoutv",
+          "end": 42,
+          "expanded_url": "https://x.com/sea_maggie/status/2087562543397319166/photo/1",
+          "media_key": "3_2087562537835597824",
+          "start": 19,
+          "url": "https://t.co/qCsePxoutv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087890068904239225",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2087562537835597824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087562543397319166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sea_maggie: 애옹 https://t.co/qCsePxoutv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2728,
+        "media_key": "3_2087562537835597824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiDEVoakAArKUs.jpg",
+        "width": 2231
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087562537835597824"
+          ]
+        },
+        "author_id": "812205239604416512",
+        "conversation_id": "2087562543397319166",
+        "created_at": "2026-08-12T15:31:10.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087562543397319166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCsePxoutv",
+              "end": 26,
+              "expanded_url": "https://x.com/sea_maggie/status/2087562543397319166/photo/1",
+              "media_key": "3_2087562537835597824",
+              "start": 3,
+              "url": "https://t.co/qCsePxoutv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087562543397319166",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2087562537835597824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 39880,
+          "like_count": 5336,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 452
+        },
+        "reply_settings": "everyone",
+        "text": "애옹 https://t.co/qCsePxoutv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087562537835597824"
+          ],
+          "media_source_tweet_id": [
+            "2087562543397319166"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2087890068904239225",
+        "created_at": "2026-08-13T13:12:38.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087890068904239225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "812205239604416512",
+              "start": 3,
+              "username": "sea_maggie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCsePxoutv",
+              "end": 42,
+              "expanded_url": "https://x.com/sea_maggie/status/2087562543397319166/photo/1",
+              "media_key": "3_2087562537835597824",
+              "start": 19,
+              "url": "https://t.co/qCsePxoutv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087890068904239225",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2087562537835597824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087562543397319166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sea_maggie: 애옹 https://t.co/qCsePxoutv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2087890068904239225",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 663,
+          "like_count": 5136,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1433
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-23T07:56:33.000Z",
+        "description": "The Korean seagull 국산 갈매기/03.01.20 / 2D&3D artist *자캐 위주입니다*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@seamaggie",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@seamaggie",
+                "start": 0,
+                "url": "https://t.co/dURHxSHtsT"
+              }
+            ]
+          }
+        },
+        "id": "812205239604416512",
+        "is_identity_verified": false,
+        "location": "nest",
+        "most_recent_tweet_id": "2087830982720118952",
+        "name": "SeaMaggie씨매기",
+        "pinned_tweet_id": "1777170812082298904",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020723532867735552/XePjJo5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4182,
+          "following_count": 331,
+          "like_count": 4035,
+          "listed_count": 7,
+          "media_count": 3757,
+          "tweet_count": 11095
+        },
+        "url": "https://t.co/dURHxSHtsT",
+        "username": "sea_maggie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

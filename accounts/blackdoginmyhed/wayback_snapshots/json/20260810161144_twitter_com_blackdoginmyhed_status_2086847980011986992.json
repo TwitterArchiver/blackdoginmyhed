@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086513747527651328"
+      ],
+      "media_source_tweet_id": [
+        "2086513755962437737"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086847980011986992",
+    "created_at": "2026-08-10T16:11:44.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086847980011986992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029440600907419648",
+          "start": 3,
+          "username": "Luvidk21_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XgOVtlV4aH",
+          "end": 55,
+          "expanded_url": "https://x.com/Luvidk21_/status/2086513755962437737/photo/1",
+          "media_key": "3_2086513747527651328",
+          "start": 32,
+          "url": "https://t.co/XgOVtlV4aH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086847980011986992",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086513747527651328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1859
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086513755962437737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luvidk21_: “Let’s go smoke” https://t.co/XgOVtlV4aH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2086513747527651328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTJMtRa0AA8M9j.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086513747527651328"
+          ]
+        },
+        "author_id": "2029440600907419648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086513755962437737",
+        "created_at": "2026-08-09T18:03:39.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086513755962437737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgOVtlV4aH",
+              "end": 40,
+              "expanded_url": "https://x.com/Luvidk21_/status/2086513755962437737/photo/1",
+              "media_key": "3_2086513747527651328",
+              "start": 17,
+              "url": "https://t.co/XgOVtlV4aH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086513755962437737",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086513747527651328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 134526,
+          "like_count": 11044,
+          "quote_count": 65,
+          "reply_count": 18,
+          "retweet_count": 1859
+        },
+        "reply_settings": "everyone",
+        "text": "“Let’s go smoke” https://t.co/XgOVtlV4aH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086513747527651328"
+          ],
+          "media_source_tweet_id": [
+            "2086513755962437737"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086847980011986992",
+        "created_at": "2026-08-10T16:11:44.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086847980011986992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029440600907419648",
+              "start": 3,
+              "username": "Luvidk21_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgOVtlV4aH",
+              "end": 55,
+              "expanded_url": "https://x.com/Luvidk21_/status/2086513755962437737/photo/1",
+              "media_key": "3_2086513747527651328",
+              "start": 32,
+              "url": "https://t.co/XgOVtlV4aH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086847980011986992",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086513747527651328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1859
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086513755962437737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luvidk21_: “Let’s go smoke” https://t.co/XgOVtlV4aH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2086847980011986992",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 648,
+          "like_count": 5061,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-05T06:16:54.000Z",
+        "description": "Rebel Writer",
+        "id": "2029440600907419648",
+        "is_identity_verified": false,
+        "location": "Dracarys",
+        "most_recent_tweet_id": "2086822168663372066",
+        "name": "Idk",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029440600907419648/1773136479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054064668235431936/58y0IrDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1106,
+          "like_count": 4271,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "Luvidk21_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

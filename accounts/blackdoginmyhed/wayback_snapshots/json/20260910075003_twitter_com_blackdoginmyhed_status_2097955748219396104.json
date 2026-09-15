@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2097709955906146569",
+    "created_at": "2026-09-10T07:50:03.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097955748219396104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1607949627096973312",
+          "start": 0,
+          "username": "Freudian_Itgirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097955748219396104",
+    "in_reply_to_user_id": "1607949627096973312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097709955906146569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freudian_Itgirl 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097709941280952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyQE9PbUAAQu2v.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097709941272510464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyQE9NagAA3B7T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097709941327020032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyQE9aaQAAT09p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097709941297725440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyQE9TbQAAcP7X.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2097709955906146569",
+        "created_at": "2026-09-10T07:50:03.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097955748219396104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1607949627096973312",
+              "start": 0,
+              "username": "Freudian_Itgirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097955748219396104",
+        "in_reply_to_user_id": "1607949627096973312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097709955906146569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freudian_Itgirl 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097709941280952320",
+            "3_2097709941272510464",
+            "3_2097709941327020032",
+            "3_2097709941297725440"
+          ]
+        },
+        "author_id": "1607949627096973312",
+        "conversation_id": "2097709955906146569",
+        "created_at": "2026-09-09T15:33:21.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097709955906146569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vY9MDSJJea",
+              "end": 129,
+              "expanded_url": "https://x.com/Freudian_Itgirl/status/2097709955906146569/photo/1",
+              "media_key": "3_2097709941280952320",
+              "start": 106,
+              "url": "https://t.co/vY9MDSJJea"
+            },
+            {
+              "display_url": "pic.x.com/vY9MDSJJea",
+              "end": 129,
+              "expanded_url": "https://x.com/Freudian_Itgirl/status/2097709955906146569/photo/1",
+              "media_key": "3_2097709941272510464",
+              "start": 106,
+              "url": "https://t.co/vY9MDSJJea"
+            },
+            {
+              "display_url": "pic.x.com/vY9MDSJJea",
+              "end": 129,
+              "expanded_url": "https://x.com/Freudian_Itgirl/status/2097709955906146569/photo/1",
+              "media_key": "3_2097709941327020032",
+              "start": 106,
+              "url": "https://t.co/vY9MDSJJea"
+            },
+            {
+              "display_url": "pic.x.com/vY9MDSJJea",
+              "end": 129,
+              "expanded_url": "https://x.com/Freudian_Itgirl/status/2097709955906146569/photo/1",
+              "media_key": "3_2097709941297725440",
+              "start": 106,
+              "url": "https://t.co/vY9MDSJJea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097709955906146569",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2097709941280952320"
+          },
+          {
+            "media_key": "3_2097709941272510464"
+          },
+          {
+            "media_key": "3_2097709941327020032"
+          },
+          {
+            "media_key": "3_2097709941297725440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 82326,
+          "like_count": 13563,
+          "quote_count": 87,
+          "reply_count": 552,
+          "retweet_count": 473
+        },
+        "reply_settings": "everyone",
+        "text": "Hoje aniversário do meu gato \n09/09 \nEle está fazendo 9 aninhos. Todo mundo desejando parabéns pro Minho! https://t.co/vY9MDSJJea"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2097955748219396104",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 661,
+          "like_count": 5795,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-28T04:01:09.000Z",
+        "description": "“Talvez fosse apenas falta de vida: estava vivendo menos do que podia e imaginava que sua sede pedisse inundações.” 🌊",
+        "id": "1607949627096973312",
+        "is_identity_verified": false,
+        "location": "Histeria",
+        "most_recent_tweet_id": "2097881346299310376",
+        "name": "@Jacques_lacinho🎀",
+        "pinned_tweet_id": "2050028512224891197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1607949627096973312/1777599928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042792255023640576/bYscXOM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 245,
+          "like_count": 17443,
+          "listed_count": 0,
+          "media_count": 1339,
+          "tweet_count": 20235
+        },
+        "url": "",
+        "username": "Freudian_Itgirl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

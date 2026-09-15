@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098061422764986369"
+      ],
+      "media_source_tweet_id": [
+        "2098061428632768563"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098065327276085487",
+    "created_at": "2026-09-10T15:05:28.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098065327276085487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1972304204619513856",
+          "start": 3,
+          "username": "chiharu_orange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wjBJM9ODme",
+          "end": 45,
+          "expanded_url": "https://x.com/chiharu_orange/status/2098061428632768563/photo/1",
+          "media_key": "3_2098061422764986369",
+          "start": 22,
+          "url": "https://t.co/wjBJM9ODme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098065327276085487",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2098061422764986369"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098061428632768563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiharu_orange: 🍰 https://t.co/wjBJM9ODme"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2098061422764986369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3Pv3zbkAE3huZ.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098061422764986369"
+          ],
+          "media_source_tweet_id": [
+            "2098061428632768563"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098065327276085487",
+        "created_at": "2026-09-10T15:05:28.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098065327276085487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1972304204619513856",
+              "start": 3,
+              "username": "chiharu_orange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjBJM9ODme",
+              "end": 45,
+              "expanded_url": "https://x.com/chiharu_orange/status/2098061428632768563/photo/1",
+              "media_key": "3_2098061422764986369",
+              "start": 22,
+              "url": "https://t.co/wjBJM9ODme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098065327276085487",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098061422764986369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098061428632768563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiharu_orange: 🍰 https://t.co/wjBJM9ODme"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098061422764986369"
+          ]
+        },
+        "author_id": "1972304204619513856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098061428632768563",
+        "created_at": "2026-09-10T14:49:59.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098061428632768563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjBJM9ODme",
+              "end": 25,
+              "expanded_url": "https://x.com/chiharu_orange/status/2098061428632768563/photo/1",
+              "media_key": "3_2098061422764986369",
+              "start": 2,
+              "url": "https://t.co/wjBJM9ODme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098061428632768563",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098061422764986369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🍰 https://t.co/wjBJM9ODme"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2098065327276085487",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 661,
+          "like_count": 5800,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1544
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-28T14:15:47.000Z",
+        "description": "18↑⚠内有死鸽与腐肉⚠\nInformation Forager 🐭 天龙老鼠人\n｜oc口嗨 #橘眠记事本｜和安知 #安知我\n*在这里发的所有东西不会也不应该出现在墙内的sns\n*匿名/Q&A：https://t.co/LmAQxTPeEQ\n*如果你觉得我的存在让你不舒服，我故意的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "橘眠记事本"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "安知我"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/chiharu_orange",
+                "end": 120,
+                "expanded_url": "https://confess.ngl.link/chiharu_orange",
+                "start": 97,
+                "url": "https://t.co/LmAQxTPeEQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzhi-ehzo.com",
+                "end": 23,
+                "expanded_url": "https://anzhi-ehzo.com/",
+                "start": 0,
+                "url": "https://t.co/Z7dpIO2Fby"
+              }
+            ]
+          }
+        },
+        "id": "1972304204619513856",
+        "is_identity_verified": false,
+        "location": "阴暗的角落",
+        "most_recent_tweet_id": "2098061428632768563",
+        "name": "橘眠",
+        "pinned_tweet_id": "2045802022709199203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972304204619513856/1784946856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973012959770312704/NDQU4tyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 68,
+          "like_count": 26117,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 2956
+        },
+        "url": "https://t.co/Z7dpIO2Fby",
+        "username": "chiharu_orange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

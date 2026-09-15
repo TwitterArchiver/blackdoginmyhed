@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098260251212738560"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2098260259441873109",
+    "created_at": "2026-09-11T04:00:04.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098260259441873109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GDdCV5Wwj",
+          "end": 32,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2098260259441873109/photo/1",
+          "media_key": "3_2098260251212738560",
+          "start": 9,
+          "url": "https://t.co/3GDdCV5Wwj"
+        },
+        {
+          "display_url": "x.com/julya_enero/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/julya_enero/status/2098160237245084002",
+          "start": 33,
+          "url": "https://t.co/kizVWGkbU9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098260259441873109",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098260251212738560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098160237245084002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这家伙在说什么呢 https://t.co/3GDdCV5Wwj https://t.co/kizVWGkbU9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 303,
+        "media_key": "3_2098260251212738560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6ElNfbcAAyiaP.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098260251212738560"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2098260259441873109",
+        "created_at": "2026-09-11T04:00:04.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098260259441873109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GDdCV5Wwj",
+              "end": 32,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2098260259441873109/photo/1",
+              "media_key": "3_2098260251212738560",
+              "start": 9,
+              "url": "https://t.co/3GDdCV5Wwj"
+            },
+            {
+              "display_url": "x.com/julya_enero/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/julya_enero/status/2098160237245084002",
+              "start": 33,
+              "url": "https://t.co/kizVWGkbU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098260259441873109",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098260251212738560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098160237245084002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这家伙在说什么呢 https://t.co/3GDdCV5Wwj https://t.co/kizVWGkbU9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608835692267798528",
+        "conversation_id": "2098158017061482807",
+        "created_at": "2026-09-10T21:22:37.000Z",
+        "display_text_range": [
+          8,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098160237245084002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1984814016712359937",
+              "start": 0,
+              "username": "yerw0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098160237245084002",
+        "in_reply_to_user_id": "1984814016712359937",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 20115,
+          "like_count": 451,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098158017061482807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yerw0_ No se llega a ese nivel porque lo decrete un régimen. Se llega después de 2.500 años de confucianismo, de una moral y una forma particular de entender la comunidad, y de un sentido del deber y de disciplina propia de China. Eso no lo crea un ministro firmando una ley."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2098260259441873109",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 661,
+          "like_count": 5801,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1545
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T14:41:44.000Z",
+        "description": "Lucha obrera y soberanía 🇪🇸",
+        "id": "1608835692267798528",
+        "is_identity_verified": false,
+        "location": "España, Europa",
+        "most_recent_tweet_id": "2098178471247622479",
+        "name": "Jly",
+        "pinned_tweet_id": "2097600292552372293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608835692267798528/1752524484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090369936296116224/Mqph-IWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 804,
+          "like_count": 48718,
+          "listed_count": 16,
+          "media_count": 1696,
+          "tweet_count": 39842
+        },
+        "url": "",
+        "username": "julya_enero",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-02T02:45:56.000Z",
+        "description": "I'm an artist that doesn't draw so frecuently, and idk what more to say \n-18 years old\n-ENG/ESP\n-Alternative account: @Piramide__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Piramide__"
+              }
+            ]
+          }
+        },
+        "id": "1984814016712359937",
+        "is_identity_verified": false,
+        "location": "Shithole (🇨🇺)",
+        "most_recent_tweet_id": "2098223029306130647",
+        "name": "Chud_Pyramid 🆘🇻🇪🇨🇴🤝🇨🇺",
+        "pinned_tweet_id": "2070945360093106683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984814016712359937/1762051914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028213357376110592/HOennogq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3997,
+          "following_count": 567,
+          "like_count": 106630,
+          "listed_count": 14,
+          "media_count": 1220,
+          "tweet_count": 71118
+        },
+        "url": "",
+        "username": "yerw0_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

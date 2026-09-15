@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077976583948652544"
+      ],
+      "media_source_tweet_id": [
+        "2077976725951021191"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2078117477180141579",
+    "created_at": "2026-07-17T13:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078117477180141579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1569840685184077826",
+          "start": 3,
+          "username": "birdpuzzles"
+        },
+        {
+          "end": 64,
+          "id": "1973387130912075776",
+          "start": 56,
+          "username": "puupiks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4MVsWRbtev",
+          "end": 88,
+          "expanded_url": "https://x.com/birdpuzzles/status/2077976725951021191/photo/1",
+          "media_key": "3_2077976583948652544",
+          "start": 65,
+          "url": "https://t.co/4MVsWRbtev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078117477180141579",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077976725951021191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdpuzzles: Idea that came to mind I needed to see @puupiks https://t.co/4MVsWRbtev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2930,
+        "media_key": "3_2077976583948652544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ0sYnW0AAofq6.jpg",
+        "width": 2340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077976583948652544"
+          ]
+        },
+        "author_id": "1569840685184077826",
+        "conversation_id": "2077976725951021191",
+        "created_at": "2026-07-17T04:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077976725951021191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1973387130912075776",
+              "start": 39,
+              "username": "puupiks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4MVsWRbtev",
+              "end": 71,
+              "expanded_url": "https://x.com/birdpuzzles/status/2077976725951021191/photo/1",
+              "media_key": "3_2077976583948652544",
+              "start": 48,
+              "url": "https://t.co/4MVsWRbtev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077976725951021191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 799,
+          "impression_count": 88669,
+          "like_count": 8453,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 468
+        },
+        "reply_settings": "everyone",
+        "text": "Idea that came to mind I needed to see @puupiks https://t.co/4MVsWRbtev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077976583948652544"
+          ],
+          "media_source_tweet_id": [
+            "2077976725951021191"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2078117477180141579",
+        "created_at": "2026-07-17T13:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078117477180141579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1569840685184077826",
+              "start": 3,
+              "username": "birdpuzzles"
+            },
+            {
+              "end": 64,
+              "id": "1973387130912075776",
+              "start": 56,
+              "username": "puupiks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4MVsWRbtev",
+              "end": 88,
+              "expanded_url": "https://x.com/birdpuzzles/status/2077976725951021191/photo/1",
+              "media_key": "3_2077976583948652544",
+              "start": 65,
+              "url": "https://t.co/4MVsWRbtev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078117477180141579",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077976725951021191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdpuzzles: Idea that came to mind I needed to see @puupiks https://t.co/4MVsWRbtev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我（ 推文能看到很多记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 661,
+          "like_count": 4649,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1337
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T00:09:36.000Z",
+        "description": "26 | Open to dms from mutuals, especially if you wanna drawpile\n\nAdd me on Discord @ birdpuzzles if you wanna chat Twitter's dms are unreliable \n\nNo comms rn",
+        "id": "1569840685184077826",
+        "name": "birdpuzzles",
+        "pinned_tweet_id": "1993016766482538780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691685669440249856/vviuR55T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 317,
+          "like_count": 9291,
+          "listed_count": 8,
+          "media_count": 32,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "birdpuzzles",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T13:59:02.000Z",
+        "description": "pretty~ https://t.co/WaHyKOAzt2\ninprint~ https://t.co/hxb2deaDLg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/puupiks",
+                "end": 31,
+                "expanded_url": "https://linktr.ee/puupiks",
+                "start": 8,
+                "url": "https://t.co/WaHyKOAzt2"
+              },
+              {
+                "display_url": "inprnt.com/gallery/puupik…",
+                "end": 64,
+                "expanded_url": "https://www.inprnt.com/gallery/puupiks/",
+                "start": 41,
+                "url": "https://t.co/hxb2deaDLg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/puupiks",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/puupiks",
+                "start": 0,
+                "url": "https://t.co/WaHyKOAzt2"
+              }
+            ]
+          }
+        },
+        "id": "1973387130912075776",
+        "location": " Vampire City in Japan",
+        "name": "puupiks",
+        "pinned_tweet_id": "2064368858522071266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983571769115004929/rMcR_cTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18637,
+          "following_count": 283,
+          "like_count": 2982,
+          "listed_count": 45,
+          "media_count": 265,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/WaHyKOAzt2",
+        "username": "puupiks",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092293183753596928"
+      ],
+      "media_source_tweet_id": [
+        "2092333693125738957"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092662164725391383",
+    "created_at": "2026-08-26T17:15:14.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092662164725391383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916045418246320128",
+          "start": 3,
+          "username": "dictxtor_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXAPM09ai3",
+          "end": 38,
+          "expanded_url": "https://x.com/dictxtor_/status/2092333693125738957/video/1",
+          "media_key": "13_2092293183753596928",
+          "start": 15,
+          "url": "https://t.co/TXAPM09ai3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092662164725391383",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2092293183753596928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6878
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092333693125738957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dictxtor_: https://t.co/TXAPM09ai3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16260,
+        "height": 2160,
+        "media_key": "13_2092293183753596928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092293183753596928/img/D0Iwdufz5I7rN2ik.jpg",
+        "public_metrics": {
+          "view_count": 456002
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092293183753596928/pl/JfPHcQs1otrHp57E.m3u8?v=2fd"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092293183753596928/vid/avc1/540x540/ednDamI2Mo6Zcm5L.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092293183753596928/vid/avc1/720x720/ghm3TUY6-8TLIOWm.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092293183753596928/vid/avc1/1080x1080/qkCcLAjqoRVRnJKv.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092293183753596928/vid/avc1/320x320/NIds5vl_CTpUl-Aq.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092293183753596928/vid/avc1/2160x2160/YCDS1Z4iWOQmcj5Q.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092293183753596928"
+          ],
+          "media_source_tweet_id": [
+            "2092333693125738957"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092662164725391383",
+        "created_at": "2026-08-26T17:15:14.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092662164725391383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916045418246320128",
+              "start": 3,
+              "username": "dictxtor_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXAPM09ai3",
+              "end": 38,
+              "expanded_url": "https://x.com/dictxtor_/status/2092333693125738957/video/1",
+              "media_key": "13_2092293183753596928",
+              "start": 15,
+              "url": "https://t.co/TXAPM09ai3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092662164725391383",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092293183753596928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6878
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092333693125738957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dictxtor_: https://t.co/TXAPM09ai3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092293183753596928"
+          ]
+        },
+        "author_id": "1916045418246320128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092333693125738957",
+        "created_at": "2026-08-25T19:30:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092333693125738957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXAPM09ai3",
+              "end": 23,
+              "expanded_url": "https://x.com/dictxtor_/status/2092333693125738957/video/1",
+              "media_key": "13_2092293183753596928",
+              "start": 0,
+              "url": "https://t.co/TXAPM09ai3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092333693125738957",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092293183753596928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2883,
+          "impression_count": 966969,
+          "like_count": 43561,
+          "quote_count": 100,
+          "reply_count": 55,
+          "retweet_count": 6880
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TXAPM09ai3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2092662164725391383",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 654,
+          "like_count": 5522,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1482
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T08:23:32.000Z",
+        "description": "Memes / Parody",
+        "id": "1916045418246320128",
+        "is_identity_verified": false,
+        "location": "somewhere",
+        "most_recent_tweet_id": "2092645051625275477",
+        "name": "Dictator",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916045418246320128/1760159097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999158586291953665/W_1EipYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8472,
+          "following_count": 177,
+          "like_count": 5639,
+          "listed_count": 32,
+          "media_count": 2766,
+          "tweet_count": 9276
+        },
+        "url": "",
+        "username": "dictxtor_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

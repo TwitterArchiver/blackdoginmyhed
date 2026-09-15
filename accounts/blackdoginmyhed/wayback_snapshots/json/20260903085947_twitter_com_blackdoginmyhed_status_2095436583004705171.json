@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2095436583004705171",
+    "created_at": "2026-09-03T08:59:47.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095436583004705171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1580634879213318144",
+          "start": 3,
+          "username": "DevilsTrumpetVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095436583004705171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095356516962546060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DevilsTrumpetVI: 越看越感觉像东大，搁这指桑骂槐呢是吧\n\n温州动车事故、针头复用血祸、毒奶粉毒食品......视频里所有画面都能一一对应\n\n最好笑的还属老中嘲讽日本人“躬匠精神”，银行爆雷，工人讨薪，还有江油事件身障父母等，上访跪地哀求都不得解决与道歉，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2095356464139534336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQzmjrbAAAhhk8.jpg",
+        "width": 1199
+      },
+      {
+        "height": 726,
+        "media_key": "3_2095356464139522048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQzmjra0AAQ8t-.png",
+        "width": 468
+      },
+      {
+        "height": 676,
+        "media_key": "3_2095356464147910656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQzmjta0AAkjxX.jpg",
+        "width": 1200
+      },
+      {
+        "height": 999,
+        "media_key": "3_2095356464143777792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQzmjsbwAAzoUc.jpg",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2095436583004705171",
+        "created_at": "2026-09-03T08:59:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095436583004705171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1580634879213318144",
+              "start": 3,
+              "username": "DevilsTrumpetVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095436583004705171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095356516962546060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DevilsTrumpetVI: 越看越感觉像东大，搁这指桑骂槐呢是吧\n\n温州动车事故、针头复用血祸、毒奶粉毒食品......视频里所有画面都能一一对应\n\n最好笑的还属老中嘲讽日本人“躬匠精神”，银行爆雷，工人讨薪，还有江油事件身障父母等，上访跪地哀求都不得解决与道歉，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095356464139534336",
+            "3_2095356464139522048",
+            "3_2095356464147910656",
+            "3_2095356464143777792"
+          ]
+        },
+        "author_id": "1580634879213318144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095356516962546060",
+        "created_at": "2026-09-03T03:41:38.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095356516962546060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzl3yWkFNt",
+              "end": 170,
+              "expanded_url": "https://x.com/DevilsTrumpetVI/status/2095356516962546060/photo/1",
+              "media_key": "3_2095356464139534336",
+              "start": 147,
+              "url": "https://t.co/rzl3yWkFNt"
+            },
+            {
+              "display_url": "pic.x.com/rzl3yWkFNt",
+              "end": 170,
+              "expanded_url": "https://x.com/DevilsTrumpetVI/status/2095356516962546060/photo/1",
+              "media_key": "3_2095356464139522048",
+              "start": 147,
+              "url": "https://t.co/rzl3yWkFNt"
+            },
+            {
+              "display_url": "pic.x.com/rzl3yWkFNt",
+              "end": 170,
+              "expanded_url": "https://x.com/DevilsTrumpetVI/status/2095356516962546060/photo/1",
+              "media_key": "3_2095356464147910656",
+              "start": 147,
+              "url": "https://t.co/rzl3yWkFNt"
+            },
+            {
+              "display_url": "pic.x.com/rzl3yWkFNt",
+              "end": 170,
+              "expanded_url": "https://x.com/DevilsTrumpetVI/status/2095356516962546060/photo/1",
+              "media_key": "3_2095356464143777792",
+              "start": 147,
+              "url": "https://t.co/rzl3yWkFNt"
+            },
+            {
+              "display_url": "x.com/J_Lingshan0909…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/J_Lingshan0909/status/2094516658601910675",
+              "start": 171,
+              "url": "https://t.co/DyP12eYlGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095356516962546060",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095356464139534336"
+          },
+          {
+            "media_key": "3_2095356464139522048"
+          },
+          {
+            "media_key": "3_2095356464147910656"
+          },
+          {
+            "media_key": "3_2095356464143777792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10082,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094516658601910675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "越看越感觉像东大，搁这指桑骂槐呢是吧\n\n温州动车事故、针头复用血祸、毒奶粉毒食品......视频里所有画面都能一一对应\n\n最好笑的还属老中嘲讽日本人“躬匠精神”，银行爆雷，工人讨薪，还有江油事件身障父母等，上访跪地哀求都不得解决与道歉，本国眼下的现实我视若无睹，却对他国陈年旧事如数家珍这点😅 https://t.co/rzl3yWkFNt https://t.co/DyP12eYlGt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2095436583004705171",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 657,
+          "like_count": 5624,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1509
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "And all lost beauty is borne upon the wind; in its wake, white blossoms drift like snow, mourning a world unborn｜日常碎碎念 @AngelsTrumpetIX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 119,
+                "username": "AngelsTrumpetIX"
+              }
+            ]
+          }
+        },
+        "id": "1580634879213318144",
+        "is_identity_verified": false,
+        "location": "Erewhon",
+        "most_recent_tweet_id": "2095424156561293754",
+        "name": "Phlonika🏴🚩🌹🍉🌻",
+        "pinned_tweet_id": "2093672083318595687",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580634879213318144/1783040539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094165167647154176/UZIL-beS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 490,
+          "like_count": 27923,
+          "listed_count": 15,
+          "media_count": 441,
+          "tweet_count": 8633
+        },
+        "url": "",
+        "username": "DevilsTrumpetVI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

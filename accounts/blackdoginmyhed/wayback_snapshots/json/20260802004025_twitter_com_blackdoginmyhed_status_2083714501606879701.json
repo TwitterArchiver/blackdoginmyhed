@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083714497014083584"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2083714501606879701",
+    "created_at": "2026-08-02T00:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083714501606879701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5gZjqm6YbP",
+          "end": 23,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2083714501606879701/photo/1",
+          "media_key": "3_2083714497014083584",
+          "start": 0,
+          "url": "https://t.co/5gZjqm6YbP"
+        },
+        {
+          "display_url": "x.com/nocontextscats…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/nocontextscats/status/2083421363503759867",
+          "start": 24,
+          "url": "https://t.co/UZLKXiwsZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083714501606879701",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083421363503759867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/5gZjqm6YbP https://t.co/UZLKXiwsZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 346,
+        "media_key": "3_2083714497014083584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrXS4fbMAAgIgb.jpg",
+        "width": 534
+      },
+      {
+        "duration_ms": 8078,
+        "height": 1920,
+        "media_key": "13_2083421320612921344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083421320612921344/img/QJUcjlCA3woY8oMT.jpg",
+        "public_metrics": {
+          "view_count": 212398
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083421320612921344/pl/OZ-IQrPZoacq6jfL.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083421320612921344/vid/avc1/1080x1920/thZrl3Iq2epcTBn7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083421320612921344/vid/avc1/720x1280/ZAaJjDH-Zex1JneE.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083421320612921344/vid/avc1/320x568/k_njAPDyLJpFE6PY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083421320612921344/vid/avc1/480x852/hTbf_1IQjI1gimK1.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083714497014083584"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2083714501606879701",
+        "created_at": "2026-08-02T00:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083714501606879701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gZjqm6YbP",
+              "end": 23,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2083714501606879701/photo/1",
+              "media_key": "3_2083714497014083584",
+              "start": 0,
+              "url": "https://t.co/5gZjqm6YbP"
+            },
+            {
+              "display_url": "x.com/nocontextscats…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nocontextscats/status/2083421363503759867",
+              "start": 24,
+              "url": "https://t.co/UZLKXiwsZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083714501606879701",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083421363503759867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/5gZjqm6YbP https://t.co/UZLKXiwsZr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083421320612921344"
+          ]
+        },
+        "author_id": "1154708530219192322",
+        "conversation_id": "2083421363503759867",
+        "created_at": "2026-08-01T05:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083421363503759867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c5izcO2cKO",
+              "end": 25,
+              "expanded_url": "https://x.com/nocontextscats/status/2083421363503759867/video/1",
+              "media_key": "13_2083421320612921344",
+              "start": 2,
+              "url": "https://t.co/c5izcO2cKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083421363503759867",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2441,
+          "impression_count": 838036,
+          "like_count": 25787,
+          "quote_count": 295,
+          "reply_count": 111,
+          "retweet_count": 3329
+        },
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/c5izcO2cKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 648,
+          "like_count": 4815,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1395
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-26T11:02:21.000Z",
+        "description": "In ancient times cats were worshipped as gods; they have not forgotten this - Terry Pratchett ||\nNO AI 🚫",
+        "id": "1154708530219192322",
+        "location": "DM for credit/removal",
+        "name": "No Context Cats",
+        "pinned_tweet_id": "2077307190885621954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490551424341577733/fEl8e9EI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756363,
+          "following_count": 94,
+          "like_count": 9156,
+          "listed_count": 2008,
+          "media_count": 23323,
+          "tweet_count": 24825
+        },
+        "url": "",
+        "username": "nocontextscats",
+        "verified": true
+      }
+    ]
+  }
+}

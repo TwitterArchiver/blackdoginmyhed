@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2082043834658431238",
+    "created_at": "2026-07-28T10:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082043834658431238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HanLuo14894/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/HanLuo14894/status/2081920221900849156",
+          "start": 3,
+          "url": "https://t.co/RwkQjRtEsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082043834658431238",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081920221900849156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "助力 https://t.co/RwkQjRtEsj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2082043834658431238",
+        "created_at": "2026-07-28T10:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082043834658431238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HanLuo14894/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/HanLuo14894/status/2081920221900849156",
+              "start": 3,
+              "url": "https://t.co/RwkQjRtEsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082043834658431238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081920221900849156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助力 https://t.co/RwkQjRtEsj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787079624260001792",
+        "conversation_id": "2081920221900849156",
+        "created_at": "2026-07-28T01:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081920221900849156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081920221900849156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想要100fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟 与烟草爱好者 | 咨询请私和tg联系信非个人商贩仅提供建议 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 646,
+          "like_count": 4749,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 1378
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:19:40.000Z",
+        "description": "脑子有点神经的家伙。\n漂着，等着砸在水泥地。\n什么内容都涉猎。\n不是机器人，是会抽烟咳嗽的真人～\n同类欢迎来聊，只要狂人神人。",
+        "id": "1787079624260001792",
+        "location": "无间地狱",
+        "name": "罗 XY",
+        "pinned_tweet_id": "2063878065110016353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946790191877750784/hnZJkmLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 29,
+          "like_count": 54030,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1313
+        },
+        "url": "",
+        "username": "HanLuo14894",
+        "verified": false
+      }
+    ]
+  }
+}

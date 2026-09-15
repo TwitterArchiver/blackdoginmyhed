@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2096875369131593728"
+      ],
+      "media_source_tweet_id": [
+        "2096875375855075819"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2096961888659841410",
+    "created_at": "2026-09-07T14:00:48.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096961888659841410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690251207967985664",
+          "start": 3,
+          "username": "mozersuckz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1eEcCOp6r",
+          "end": 57,
+          "expanded_url": "https://x.com/mozersuckz/status/2096875375855075819/photo/1",
+          "media_key": "16_2096875369131593728",
+          "start": 34,
+          "url": "https://t.co/Q1eEcCOp6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096961888659841410",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2096875369131593728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096875375855075819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mozersuckz: munch munch munch https://t.co/Q1eEcCOp6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 470,
+        "media_key": "16_2096875369131593728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRmZCdta0AASwCW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRmZCdta0AASwCW.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096875369131593728"
+          ],
+          "media_source_tweet_id": [
+            "2096875375855075819"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2096961888659841410",
+        "created_at": "2026-09-07T14:00:48.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096961888659841410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690251207967985664",
+              "start": 3,
+              "username": "mozersuckz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1eEcCOp6r",
+              "end": 57,
+              "expanded_url": "https://x.com/mozersuckz/status/2096875375855075819/photo/1",
+              "media_key": "16_2096875369131593728",
+              "start": 34,
+              "url": "https://t.co/Q1eEcCOp6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096961888659841410",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2096875369131593728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096875375855075819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mozersuckz: munch munch munch https://t.co/Q1eEcCOp6r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096875369131593728"
+          ]
+        },
+        "author_id": "1690251207967985664",
+        "conversation_id": "2096875375855075819",
+        "created_at": "2026-09-07T08:17:02.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096875375855075819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1eEcCOp6r",
+              "end": 41,
+              "expanded_url": "https://x.com/mozersuckz/status/2096875375855075819/photo/1",
+              "media_key": "16_2096875369131593728",
+              "start": 18,
+              "url": "https://t.co/Q1eEcCOp6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096875375855075819",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2096875369131593728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 13857,
+          "like_count": 1503,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "munch munch munch https://t.co/Q1eEcCOp6r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2096961888659841410",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 658,
+          "like_count": 5740,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1530
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-12T06:37:58.000Z",
+        "description": "i liek making music\ni follow back sometimesish\ndni if your above 18 or unfollow me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mozerr.straw.page",
+                "end": 23,
+                "expanded_url": "https://mozerr.straw.page",
+                "start": 0,
+                "url": "https://t.co/urwYue1g0Q"
+              }
+            ]
+          }
+        },
+        "id": "1690251207967985664",
+        "is_identity_verified": false,
+        "location": "in my own world",
+        "most_recent_tweet_id": "2096961253873013209",
+        "name": "rocio",
+        "pinned_tweet_id": "2042753370138829085",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690251207967985664/1787775084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092705722962518016/JU1IfLPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 680,
+          "like_count": 5929,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/urwYue1g0Q",
+        "username": "mozersuckz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

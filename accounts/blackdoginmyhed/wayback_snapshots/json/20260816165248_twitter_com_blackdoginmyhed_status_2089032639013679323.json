@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2089032639013679323",
+    "created_at": "2026-08-16T16:52:48.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089032639013679323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xTheo520/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/0xTheo520/status/2088989822035845270",
+          "start": 12,
+          "url": "https://t.co/V6YKYbw5lM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089032639013679323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088989822035845270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甚至是很温柔的用的细只 https://t.co/V6YKYbw5lM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2088989810736418816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2VKjha0AAFAU1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2089032639013679323",
+        "created_at": "2026-08-16T16:52:48.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089032639013679323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xTheo520/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/0xTheo520/status/2088989822035845270",
+              "start": 12,
+              "url": "https://t.co/V6YKYbw5lM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089032639013679323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088989822035845270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至是很温柔的用的细只 https://t.co/V6YKYbw5lM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088989810736418816"
+          ]
+        },
+        "author_id": "1870818143071059968",
+        "conversation_id": "2088989822035845270",
+        "created_at": "2026-08-16T14:02:39.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088989822035845270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/izZn5S6Xf7",
+              "end": 41,
+              "expanded_url": "https://x.com/0xTheo520/status/2088989822035845270/photo/1",
+              "media_key": "3_2088989810736418816",
+              "start": 18,
+              "url": "https://t.co/izZn5S6Xf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088989822035845270",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088989810736418816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2530,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没抽过烟所以这个25秒难度很大吗？ https://t.co/izZn5S6Xf7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2089032639013679323",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 661,
+          "like_count": 5277,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:06:24.000Z",
+        "description": "段子手｜梗图｜人间观察 | 认知提升 | 洞察人性 | 精神状态领先全网\n尊重他人命运，放下助人情结，伸手会带来厄运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Theo520",
+                "end": 23,
+                "expanded_url": "http://t.me/Theo520",
+                "start": 0,
+                "url": "https://t.co/YpPMXCyH95"
+              }
+            ]
+          }
+        },
+        "id": "1870818143071059968",
+        "is_identity_verified": false,
+        "location": "不含任何建议",
+        "most_recent_tweet_id": "2089030097638731787",
+        "name": "Theo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080976108166791169/IlxXd3m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4557,
+          "following_count": 2606,
+          "like_count": 4767,
+          "listed_count": 9,
+          "media_count": 221,
+          "tweet_count": 5859
+        },
+        "url": "https://t.co/YpPMXCyH95",
+        "username": "0xTheo520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

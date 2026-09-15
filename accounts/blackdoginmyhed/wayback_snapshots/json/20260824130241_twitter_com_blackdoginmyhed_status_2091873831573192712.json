@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2091873831573192712",
+    "created_at": "2026-08-24T13:02:41.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091873831573192712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364394717975298048",
+          "start": 3,
+          "username": "kauapache"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091873831573192712",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10012
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091579303305654362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kauapache: aquela má escolha que vc fez com 15 anos que continua impactando sua vida nos dias atuais"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2091873831573192712",
+        "created_at": "2026-08-24T13:02:41.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091873831573192712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364394717975298048",
+              "start": 3,
+              "username": "kauapache"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091873831573192712",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10012
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091579303305654362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kauapache: aquela má escolha que vc fez com 15 anos que continua impactando sua vida nos dias atuais"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364394717975298048",
+        "conversation_id": "2091579303305654362",
+        "created_at": "2026-08-23T17:32:20.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091579303305654362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091579303305654362",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1220,
+          "impression_count": 498412,
+          "like_count": 40974,
+          "quote_count": 1054,
+          "reply_count": 150,
+          "retweet_count": 10012
+        },
+        "reply_settings": "everyone",
+        "text": "aquela má escolha que vc fez com 15 anos que continua impactando sua vida nos dias atuais"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2091873831573192712",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 656,
+          "like_count": 5454,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1470
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-24T02:00:35.000Z",
+        "description": "https://t.co/gQwXAi4d5O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boxd.it/5bVcL",
+                "end": 23,
+                "expanded_url": "https://boxd.it/5bVcL",
+                "start": 0,
+                "url": "https://t.co/gQwXAi4d5O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kauahpachecoo?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kauahpachecoo?igsh=MWF1ZzVyYWxiamZyOQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/OUUC8DxH9D"
+              }
+            ]
+          }
+        },
+        "id": "1364394717975298048",
+        "is_identity_verified": false,
+        "location": "Belo Horizonte, Brasil",
+        "most_recent_tweet_id": "2091870013976158586",
+        "name": "kauã",
+        "pinned_tweet_id": "2022106117539869002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364394717975298048/1716837795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091577131893432326/z9piP71z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 2679,
+          "like_count": 56689,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 9146
+        },
+        "url": "https://t.co/OUUC8DxH9D",
+        "username": "kauapache",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

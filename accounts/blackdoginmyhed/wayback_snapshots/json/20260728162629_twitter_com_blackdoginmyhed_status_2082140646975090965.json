@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2082140646975090965",
+    "created_at": "2026-07-28T16:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082140646975090965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GiFShitpost/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/GiFShitpost/status/2081892893799674310",
+          "start": 6,
+          "url": "https://t.co/fZmwxdaday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082140646975090965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081892893799674310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哲学上的我 https://t.co/fZmwxdaday"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2081684035420794880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOOgmdnbsAAX1zw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOOgmdnbsAAX1zw.mp4"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2082140646975090965",
+        "created_at": "2026-07-28T16:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082140646975090965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GiFShitpost/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/GiFShitpost/status/2081892893799674310",
+              "start": 6,
+              "url": "https://t.co/fZmwxdaday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082140646975090965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081892893799674310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哲学上的我 https://t.co/fZmwxdaday"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081684035420794880"
+          ]
+        },
+        "author_id": "303939260",
+        "conversation_id": "2081892893799674310",
+        "created_at": "2026-07-28T00:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081892893799674310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuLDTcnI1n",
+              "end": 23,
+              "expanded_url": "https://x.com/GiFShitpost/status/2081892893799674310/photo/1",
+              "media_key": "16_2081684035420794880",
+              "start": 0,
+              "url": "https://t.co/JuLDTcnI1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081892893799674310",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1738,
+          "impression_count": 452296,
+          "like_count": 10732,
+          "quote_count": 154,
+          "reply_count": 29,
+          "retweet_count": 2104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JuLDTcnI1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟 与烟草爱好者 | 咨询请私和tg联系信非个人商贩仅提供建议 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 647,
+          "like_count": 4754,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T17:28:22.000Z",
+        "description": "Everything cursed in GIF form. Meme history & unhinged shitposting 🤠|| Sometimes videos. Nothing owned by me || Runs by @7490 ~ Sponsored by @Roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 120,
+                "username": "7490"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "Roobet"
+              }
+            ]
+          }
+        },
+        "id": "303939260",
+        "location": "click that follow button",
+        "name": "GIFs Shitpost ⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139429,
+          "following_count": 1176,
+          "like_count": 20085,
+          "listed_count": 173,
+          "media_count": 10158,
+          "tweet_count": 13232
+        },
+        "url": "",
+        "username": "GiFShitpost",
+        "verified": true
+      }
+    ]
+  }
+}

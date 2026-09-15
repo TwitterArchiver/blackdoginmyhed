@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095914214858870789"
+      ],
+      "media_source_tweet_id": [
+        "2095914220382769358"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "2096100082638537027",
+    "created_at": "2026-09-05T04:56:18.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096100082638537027"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "メイドインアビス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1160009717189472256",
+          "start": 3,
+          "username": "605_hinagon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/emZSgnhVSC",
+          "end": 57,
+          "expanded_url": "https://x.com/605_hinagon/status/2095914220382769358/photo/1",
+          "media_key": "3_2095914214858870789",
+          "start": 34,
+          "url": "https://t.co/emZSgnhVSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096100082638537027",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095914214858870789"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095914220382769358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @605_hinagon: #メイドインアビス \nんなななな https://t.co/emZSgnhVSC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2095914214858870789",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYu37Ba0AUkuCo.jpg",
+        "width": 1233
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095914214858870789"
+          ],
+          "media_source_tweet_id": [
+            "2095914220382769358"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2096100082638537027",
+        "created_at": "2026-09-05T04:56:18.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096100082638537027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "メイドインアビス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1160009717189472256",
+              "start": 3,
+              "username": "605_hinagon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emZSgnhVSC",
+              "end": 57,
+              "expanded_url": "https://x.com/605_hinagon/status/2095914220382769358/photo/1",
+              "media_key": "3_2095914214858870789",
+              "start": 34,
+              "url": "https://t.co/emZSgnhVSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096100082638537027",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095914214858870789"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095914220382769358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @605_hinagon: #メイドインアビス \nんなななな https://t.co/emZSgnhVSC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095914214858870789"
+          ]
+        },
+        "author_id": "1160009717189472256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2095914220382769358",
+        "created_at": "2026-09-04T16:37:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095914220382769358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "メイドインアビス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emZSgnhVSC",
+              "end": 40,
+              "expanded_url": "https://x.com/605_hinagon/status/2095914220382769358/photo/1",
+              "media_key": "3_2095914214858870789",
+              "start": 17,
+              "url": "https://t.co/emZSgnhVSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095914220382769358",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095914214858870789"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 5594,
+          "like_count": 818,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "#メイドインアビス \nんなななな https://t.co/emZSgnhVSC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2096100082638537027",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 659,
+          "like_count": 5673,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1519
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-10T02:07:23.000Z",
+        "description": "Hinagon(ひなゴン)はケモイラストレーターになりたい - メイアビ大好き- ケモ・ケモ化 ・人外 - #ふわケモ〜ズ - https://t.co/BjPLui2yDW ※ DMでのコミッションは受付してません",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 54,
+                "tag": "ふわケモ〜ズ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net",
+                "end": 87,
+                "expanded_url": "https://www.pixiv.net/",
+                "start": 64,
+                "url": "https://t.co/BjPLui2yDW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@605_hinagon",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@605_hinagon",
+                "start": 0,
+                "url": "https://t.co/3edIHIGHoU"
+              }
+            ]
+          }
+        },
+        "id": "1160009717189472256",
+        "is_identity_verified": false,
+        "location": "絶対夜ふかし治さないマン",
+        "most_recent_tweet_id": "2095914220382769358",
+        "name": "Hinagon(◉-◉) skeb募集中",
+        "pinned_tweet_id": "2005700384476782650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1160009717189472256/1776182688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079481487536349184/ZE3vF4B-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7403,
+          "following_count": 801,
+          "like_count": 187150,
+          "listed_count": 45,
+          "media_count": 1979,
+          "tweet_count": 10041
+        },
+        "url": "https://t.co/3edIHIGHoU",
+        "username": "605_hinagon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2096618767023505755",
+    "created_at": "2026-09-06T15:18:27.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096619042211762550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 66,
+          "id": "1951181920022437889",
+          "start": 50,
+          "username": "blackdoginmyhed"
+        }
+      ],
+      "urls": [
+        {
+          "description": "尼古丁爱好者",
+          "display_url": "t.me/blackdoginmyhed",
+          "end": 38,
+          "expanded_url": "https://t.me/blackdoginmyhed",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2096619046464880641/A2BNsxAo?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096619046464880641/A2BNsxAo?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "redrum",
+          "unwound_url": "https://t.me/blackdoginmyhed",
+          "url": "https://t.co/qGdiGKvxRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096619042211762550",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096618767023505755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "链接可能用不了但是我还是发一下https://t.co/qGdiGKvxRZ\n顺带方便复制我也发一下@blackdoginmyhed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "16_2096618683502399488",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRivlZObkAA9AU6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRivlZObkAA9AU6.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2096618767023505755",
+        "created_at": "2026-09-06T15:18:27.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096619042211762550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1951181920022437889",
+              "start": 50,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "description": "尼古丁爱好者",
+              "display_url": "t.me/blackdoginmyhed",
+              "end": 38,
+              "expanded_url": "https://t.me/blackdoginmyhed",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2096619046464880641/A2BNsxAo?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096619046464880641/A2BNsxAo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "redrum",
+              "unwound_url": "https://t.me/blackdoginmyhed",
+              "url": "https://t.co/qGdiGKvxRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096619042211762550",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096618767023505755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "链接可能用不了但是我还是发一下https://t.co/qGdiGKvxRZ\n顺带方便复制我也发一下@blackdoginmyhed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096618683502399488"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2096618767023505755",
+        "created_at": "2026-09-06T15:17:22.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096618767023505755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvG7541W13",
+              "end": 73,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2096618767023505755/photo/1",
+              "media_key": "16_2096618683502399488",
+              "start": 50,
+              "url": "https://t.co/TvG7541W13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096618767023505755",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2096618683502399488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的tg和x同名 在tg里at一下就出来了\n需要什么请尽量tg联系我 私信当然也可以不过请尽量tg https://t.co/TvG7541W13"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2096619042211762550",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 658,
+          "like_count": 5715,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

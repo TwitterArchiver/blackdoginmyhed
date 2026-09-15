@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090436296699424768"
+      ],
+      "media_source_tweet_id": [
+        "2090436473191563544"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2090736367299101142",
+    "created_at": "2026-08-21T09:42:48.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090736367299101142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1933855083634286592",
+          "start": 3,
+          "username": "kurokisama_TvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOOkYk2cJm",
+          "end": 87,
+          "expanded_url": "https://x.com/kurokisama_TvT/status/2090436473191563544/photo/1",
+          "media_key": "3_2090436296699424768",
+          "start": 64,
+          "url": "https://t.co/FOOkYk2cJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090736367299101142",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090436296699424768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090436473191563544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurokisama_TvT: 谁堂堂转生了呢！？？不要欺负黑木！\n马斯克你封我一天我割一刀\n老公们转转互关回家💖💖🥹 https://t.co/FOOkYk2cJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2090436296699424768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK4vHpaMAAc-sO.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090436296699424768"
+          ],
+          "media_source_tweet_id": [
+            "2090436473191563544"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2090736367299101142",
+        "created_at": "2026-08-21T09:42:48.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090736367299101142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1933855083634286592",
+              "start": 3,
+              "username": "kurokisama_TvT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOOkYk2cJm",
+              "end": 87,
+              "expanded_url": "https://x.com/kurokisama_TvT/status/2090436473191563544/photo/1",
+              "media_key": "3_2090436296699424768",
+              "start": 64,
+              "url": "https://t.co/FOOkYk2cJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090736367299101142",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090436296699424768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090436473191563544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurokisama_TvT: 谁堂堂转生了呢！？？不要欺负黑木！\n马斯克你封我一天我割一刀\n老公们转转互关回家💖💖🥹 https://t.co/FOOkYk2cJm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090436296699424768"
+          ]
+        },
+        "author_id": "1933855083634286592",
+        "conversation_id": "2090436473191563544",
+        "created_at": "2026-08-20T13:51:08.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090436473191563544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOOkYk2cJm",
+              "end": 67,
+              "expanded_url": "https://x.com/kurokisama_TvT/status/2090436473191563544/photo/1",
+              "media_key": "3_2090436296699424768",
+              "start": 44,
+              "url": "https://t.co/FOOkYk2cJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090436473191563544",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090436296699424768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3392,
+          "like_count": 19,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "谁堂堂转生了呢！？？不要欺负黑木！\n马斯克你封我一天我割一刀\n老公们转转互关回家💖💖🥹 https://t.co/FOOkYk2cJm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2090736367299101142",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 657,
+          "like_count": 5381,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T11:52:45.000Z",
+        "description": "前世@kuroki___tomoko\n拙い日々 でもこれで良い",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "kuroki___tomoko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/VwLQTEXkzv"
+              }
+            ]
+          }
+        },
+        "id": "1933855083634286592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090736330615742856",
+        "name": "夢見の黒木",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933855083634286592/1787231913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090427865921916928/bprn5k0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 90,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/VwLQTEXkzv",
+        "username": "kurokisama_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

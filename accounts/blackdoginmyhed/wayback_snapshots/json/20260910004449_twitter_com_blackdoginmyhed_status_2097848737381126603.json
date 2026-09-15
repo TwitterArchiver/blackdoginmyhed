@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097628626283794432",
+        "3_2097628670768926720"
+      ],
+      "media_source_tweet_id": [
+        "2097628771872395585",
+        "2097628771872395585"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2097848737381126603",
+    "created_at": "2026-09-10T00:44:49.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T01:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097848737381126603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1376776764538511362",
+          "start": 3,
+          "username": "Grinchy_Cola"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7SutVRWWBI",
+          "end": 67,
+          "expanded_url": "https://x.com/Grinchy_Cola/status/2097628771872395585/photo/1",
+          "media_key": "3_2097628626283794432",
+          "start": 44,
+          "url": "https://t.co/7SutVRWWBI"
+        },
+        {
+          "display_url": "pic.x.com/7SutVRWWBI",
+          "end": 67,
+          "expanded_url": "https://x.com/Grinchy_Cola/status/2097628771872395585/photo/1",
+          "media_key": "3_2097628670768926720",
+          "start": 44,
+          "url": "https://t.co/7SutVRWWBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097848737381126603",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097628626283794432"
+      },
+      {
+        "media_key": "3_2097628670768926720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097628771872395585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Grinchy_Cola: Nanachi's Fluffy Revenge! https://t.co/7SutVRWWBI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2097628626283794432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxGHzRWEAAsxCt.png",
+        "width": 639
+      },
+      {
+        "height": 2250,
+        "media_key": "3_2097628670768926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxGKY_bUAAJndc.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097628626283794432",
+            "3_2097628670768926720"
+          ],
+          "media_source_tweet_id": [
+            "2097628771872395585",
+            "2097628771872395585"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2097848737381126603",
+        "created_at": "2026-09-10T00:44:49.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097848737381126603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1376776764538511362",
+              "start": 3,
+              "username": "Grinchy_Cola"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SutVRWWBI",
+              "end": 67,
+              "expanded_url": "https://x.com/Grinchy_Cola/status/2097628771872395585/photo/1",
+              "media_key": "3_2097628626283794432",
+              "start": 44,
+              "url": "https://t.co/7SutVRWWBI"
+            },
+            {
+              "display_url": "pic.x.com/7SutVRWWBI",
+              "end": 67,
+              "expanded_url": "https://x.com/Grinchy_Cola/status/2097628771872395585/photo/1",
+              "media_key": "3_2097628670768926720",
+              "start": 44,
+              "url": "https://t.co/7SutVRWWBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097848737381126603",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097628626283794432"
+          },
+          {
+            "media_key": "3_2097628670768926720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097628771872395585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Grinchy_Cola: Nanachi's Fluffy Revenge! https://t.co/7SutVRWWBI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097628626283794432",
+            "3_2097628670768926720"
+          ]
+        },
+        "author_id": "1376776764538511362",
+        "conversation_id": "2097628771872395585",
+        "created_at": "2026-09-09T10:10:45.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097628771872395585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SutVRWWBI",
+              "end": 49,
+              "expanded_url": "https://x.com/Grinchy_Cola/status/2097628771872395585/photo/1",
+              "media_key": "3_2097628626283794432",
+              "start": 26,
+              "url": "https://t.co/7SutVRWWBI"
+            },
+            {
+              "display_url": "pic.x.com/7SutVRWWBI",
+              "end": 49,
+              "expanded_url": "https://x.com/Grinchy_Cola/status/2097628771872395585/photo/1",
+              "media_key": "3_2097628670768926720",
+              "start": 26,
+              "url": "https://t.co/7SutVRWWBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097628771872395585",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097628626283794432"
+          },
+          {
+            "media_key": "3_2097628670768926720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 425,
+          "impression_count": 19112,
+          "like_count": 2369,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "Nanachi's Fluffy Revenge! https://t.co/7SutVRWWBI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2097848737381126603",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 661,
+          "like_count": 5779,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1536
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-30T06:02:28.000Z",
+        "description": "Creator of Made from Fortunes \nhttps://t.co/Fn3YqvWJSG\nWilling to take commissions all the time!!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "grinchycola.carrd.co",
+                "end": 54,
+                "expanded_url": "https://grinchycola.carrd.co/",
+                "start": 31,
+                "url": "https://t.co/Fn3YqvWJSG"
+              }
+            ]
+          }
+        },
+        "id": "1376776764538511362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097628771872395585",
+        "name": "Grinchy_Cola ⭐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1376776764538511362/1788541592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970840504532455427/zYMG0_OI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 39,
+          "like_count": 21703,
+          "listed_count": 8,
+          "media_count": 285,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "Grinchy_Cola",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

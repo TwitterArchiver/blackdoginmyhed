@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081026535147110400"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081026547755172159",
+    "created_at": "2026-07-25T14:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081026547755172159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYGnOF0nkX",
+          "end": 25,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2081026547755172159/photo/1",
+          "media_key": "3_2081026535147110400",
+          "start": 2,
+          "url": "https://t.co/nYGnOF0nkX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081026547755172159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "塔 https://t.co/nYGnOF0nkX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081026535147110400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFKm6ObAAAQMrk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081026535147110400"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081026547755172159",
+        "created_at": "2026-07-25T14:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081026547755172159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYGnOF0nkX",
+              "end": 25,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2081026547755172159/photo/1",
+              "media_key": "3_2081026535147110400",
+              "start": 2,
+              "url": "https://t.co/nYGnOF0nkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081026547755172159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塔 https://t.co/nYGnOF0nkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟 与烟草爱好者 | 咨询请私和tg联系信非个人商贩仅提供建议 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 652,
+          "like_count": 4730,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1368
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2082141339815489596",
+    "created_at": "2026-07-29T22:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T23:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082599756032053680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1243809877505409025",
+          "start": 0,
+          "username": "Cencoroll0117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082599756032053680",
+    "in_reply_to_user_id": "1243809877505409025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082561570111201597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cencoroll0117 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2082141339815489596",
+        "created_at": "2026-07-29T22:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082599756032053680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1243809877505409025",
+              "start": 0,
+              "username": "Cencoroll0117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082599756032053680",
+        "in_reply_to_user_id": "1243809877505409025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082561570111201597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cencoroll0117 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243809877505409025",
+        "conversation_id": "2082141339815489596",
+        "created_at": "2026-07-29T20:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082561570111201597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082561570111201597",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082141339815489596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 直接对着月亮拍就可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟 与烟草爱好者 | 咨询请私和tg联系信非个人商贩仅提供建议 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 650,
+          "like_count": 4765,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T07:59:24.000Z",
+        "description": "中",
+        "id": "1243809877505409025",
+        "name": "森可센코",
+        "pinned_tweet_id": "1924489051350126651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050940289750323200/IPsG5fnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 195,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "Cencoroll0117",
+        "verified": false
+      }
+    ]
+  }
+}

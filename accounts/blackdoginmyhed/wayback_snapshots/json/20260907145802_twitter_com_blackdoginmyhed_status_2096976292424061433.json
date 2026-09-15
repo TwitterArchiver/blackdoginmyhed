@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096950351593431040"
+      ],
+      "media_source_tweet_id": [
+        "2096950363605885142"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2096976292424061433",
+    "created_at": "2026-09-07T14:58:02.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096976292424061433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "564663486",
+          "start": 3,
+          "username": "torako778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SPUyLTzW09",
+          "end": 38,
+          "expanded_url": "https://x.com/torako778/status/2096950363605885142/photo/1",
+          "media_key": "3_2096950351593431040",
+          "start": 15,
+          "url": "https://t.co/SPUyLTzW09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096976292424061433",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096950351593431040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 397
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096950363605885142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @torako778: https://t.co/SPUyLTzW09"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2096950351593431040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRndPBJbYAAzE3B.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096950351593431040"
+          ],
+          "media_source_tweet_id": [
+            "2096950363605885142"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2096976292424061433",
+        "created_at": "2026-09-07T14:58:02.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096976292424061433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "564663486",
+              "start": 3,
+              "username": "torako778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPUyLTzW09",
+              "end": 38,
+              "expanded_url": "https://x.com/torako778/status/2096950363605885142/photo/1",
+              "media_key": "3_2096950351593431040",
+              "start": 15,
+              "url": "https://t.co/SPUyLTzW09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096976292424061433",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096950351593431040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 397
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096950363605885142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @torako778: https://t.co/SPUyLTzW09"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096950351593431040"
+          ]
+        },
+        "author_id": "564663486",
+        "conversation_id": "2096950363605885142",
+        "created_at": "2026-09-07T13:15:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096950363605885142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPUyLTzW09",
+              "end": 23,
+              "expanded_url": "https://x.com/torako778/status/2096950363605885142/photo/1",
+              "media_key": "3_2096950351593431040",
+              "start": 0,
+              "url": "https://t.co/SPUyLTzW09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096950363605885142",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096950351593431040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 29149,
+          "like_count": 3206,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SPUyLTzW09"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2096976292424061433",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2096618767023505755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 658,
+          "like_count": 5741,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-27T12:56:56.000Z",
+        "description": "お絵描き、大好物はカントリーマアムです。\n\n#きくりボックス\n■Bluesky┊https://t.co/WYM29ksa6u  \n■mond┊https://t.co/xVAyky8WBf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "きくりボックス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/WA6cq",
+                "end": 63,
+                "expanded_url": "https://x.gd/WA6cq",
+                "start": 40,
+                "url": "https://t.co/WYM29ksa6u"
+              },
+              {
+                "display_url": "mond.how/ja/torako778",
+                "end": 95,
+                "expanded_url": "https://mond.how/ja/torako778",
+                "start": 72,
+                "url": "https://t.co/xVAyky8WBf"
+              }
+            ]
+          }
+        },
+        "id": "564663486",
+        "is_identity_verified": false,
+        "location": "4畳半の酒桝の中",
+        "most_recent_tweet_id": "2096950363605885142",
+        "name": "米利菓",
+        "pinned_tweet_id": "1705544380977946892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/564663486/1732285526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364178615198359559/B9Y-IiE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103482,
+          "following_count": 323,
+          "like_count": 54136,
+          "listed_count": 872,
+          "media_count": 3288,
+          "tweet_count": 45842
+        },
+        "url": "",
+        "username": "torako778",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

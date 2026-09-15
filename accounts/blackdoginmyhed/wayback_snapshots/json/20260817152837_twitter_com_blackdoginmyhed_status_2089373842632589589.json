@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089208872519274496"
+      ],
+      "media_source_tweet_id": [
+        "2089208876671668516"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2089373842632589589",
+    "created_at": "2026-08-17T15:28:37.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089373842632589589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852774611697713152",
+          "start": 3,
+          "username": "balljointdog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NHRWlihKsY",
+          "end": 41,
+          "expanded_url": "https://x.com/balljointdog/status/2089208876671668516/photo/1",
+          "media_key": "3_2089208872519274496",
+          "start": 18,
+          "url": "https://t.co/NHRWlihKsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089373842632589589",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089208872519274496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089208876671668516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @balljointdog: https://t.co/NHRWlihKsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2089208872519274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5cZoQbEAAYgRR.png",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089208872519274496"
+          ],
+          "media_source_tweet_id": [
+            "2089208876671668516"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2089373842632589589",
+        "created_at": "2026-08-17T15:28:37.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089373842632589589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852774611697713152",
+              "start": 3,
+              "username": "balljointdog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHRWlihKsY",
+              "end": 41,
+              "expanded_url": "https://x.com/balljointdog/status/2089208876671668516/photo/1",
+              "media_key": "3_2089208872519274496",
+              "start": 18,
+              "url": "https://t.co/NHRWlihKsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089373842632589589",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089208872519274496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089208876671668516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @balljointdog: https://t.co/NHRWlihKsY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089208872519274496"
+          ]
+        },
+        "author_id": "1852774611697713152",
+        "conversation_id": "2089208876671668516",
+        "created_at": "2026-08-17T04:33:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T05:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089208876671668516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHRWlihKsY",
+              "end": 23,
+              "expanded_url": "https://x.com/balljointdog/status/2089208876671668516/photo/1",
+              "media_key": "3_2089208872519274496",
+              "start": 0,
+              "url": "https://t.co/NHRWlihKsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089208876671668516",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089208872519274496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 19816,
+          "like_count": 2687,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NHRWlihKsY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2089373842632589589",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 663,
+          "like_count": 5295,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1447
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-02T18:07:51.000Z",
+        "description": "❤️‍🩹18 yr old crazy fallen angel doglike girlthing🐾owned 5ever💊my arts experimental dont follow for one thing✂️no discourse on my page🦷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/balljointdog",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/balljointdog",
+                "start": 0,
+                "url": "https://t.co/QToXonIDJA"
+              }
+            ]
+          }
+        },
+        "id": "1852774611697713152",
+        "is_identity_verified": false,
+        "location": "icon; kittyworms",
+        "most_recent_tweet_id": "2089373369296880027",
+        "name": "🧁TOOTHTAKER🌈",
+        "pinned_tweet_id": "2075288626301456561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852774611697713152/1780708058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087599836539281408/f9tdLYxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 290,
+          "like_count": 4098,
+          "listed_count": 5,
+          "media_count": 69,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/QToXonIDJA",
+        "username": "balljointdog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

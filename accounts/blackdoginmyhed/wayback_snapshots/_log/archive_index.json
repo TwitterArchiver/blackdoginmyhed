@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-15T18:17:12",
+  "last_updated": "2026-09-15T18:17:40",
   "html": {
     "https://web.archive.org/web/20250921062149if_/https://twitter.com/blackdoginmyhed/status/1969648239021314063": {
       "status": "done",
@@ -13369,7 +13369,7 @@
       "referenced_by": [
         "20251029110259_twitter_com_blackdoginmyhed_status_1983489737588621403.json"
       ],
-      "last_updated": "2026-08-25T15:08:10"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2027375775201046528/vid/avc1/480x480/8tBWrJ248DrHyI77.mp4?tag=14": {
       "status": "done",
@@ -13414,14 +13414,14 @@
       "last_updated": "2026-07-12T17:02:18"
     },
     "https://video.twimg.com/tweet_video/HEaqhP3b0AAYS_x.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260327121452_twitter_com_blackdoginmyhed_status_2037503620141428850.json",
         "20260327121910_twitter_com_blackdoginmyhed_status_2037504701659529362.json"
       ],
-      "last_updated": "2026-08-25T15:08:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327121452im_/https://video.twimg.com/tweet_video/HEaqhP3b0AAYS_x.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcd8e8f2f30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 11
+      "last_updated": "2026-09-15T18:17:39",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260327121910/https://video.twimg.com/tweet_video/HEaqhP3b0AAYS_x.mp4",
+      "miss_count": 13
     },
     "https://video.twimg.com/tweet_video/HEgP6hXaIAAjgK2.mp4": {
       "status": "done",
@@ -13497,13 +13497,13 @@
       "last_updated": "2026-07-12T16:12:23"
     },
     "https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/720x1280/UkMCitNXVVKDmHDY.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260510100456_twitter_com_blackdoginmyhed_status_2053415986263670824.json"
       ],
-      "last_updated": "2026-08-25T15:08:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510100456im_/https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/720x1280/UkMCitNXVVKDmHDY.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcd8e9546b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 8
+      "last_updated": "2026-09-15T18:17:39",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260510100456/https://video.twimg.com/ext_tw_video/2053392302018867200/pu/vid/avc1/720x1280/UkMCitNXVVKDmHDY.mp4?tag=12",
+      "miss_count": 9
     },
     "https://video.twimg.com/amplify_video/2054081924520611840/vid/avc1/1024x748/l9IYxTYifof3CHmF.mp4": {
       "status": "done",
@@ -13540,7 +13540,7 @@
       "referenced_by": [
         "20260522081915_twitter_com_blackdoginmyhed_status_2057738046158839811.json"
       ],
-      "last_updated": "2026-08-25T15:08:10"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/ext_tw_video/2058111950232444928/pu/vid/avc1/576x1024/pKPLxWIjgJAZOsCA.mp4?tag=12": {
       "status": "done",
@@ -13561,14 +13561,14 @@
       "referenced_by": [
         "20260525093738_twitter_com_blackdoginmyhed_status_2058844933696737625.json"
       ],
-      "last_updated": "2026-08-25T15:08:10"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/ext_tw_video/2059779996185681920/pu/vid/avc1/720x846/sVY79qVL4_hd76wJ.mp4?tag=12": {
       "status": "done",
       "referenced_by": [
         "20260528102601_twitter_com_blackdoginmyhed_status_2059944272410157194.json"
       ],
-      "last_updated": "2026-08-25T15:08:10"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/tweet_video/HJjFrJuXAAIHR84.mp4": {
       "status": "done",
@@ -13692,107 +13692,126 @@
       "last_updated": "2026-07-16T15:50:27"
     },
     "https://video.twimg.com/amplify_video/2078993992629317633/vid/avc1/460x460/FR1O3ZXFVHVfRmZl.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260720044221_twitter_com_blackdoginmyhed_status_2079064345808712168.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2080326444929224704/vid/avc1/720x720/w24zwZTTw3NUpkoF.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260723161737_twitter_com_blackdoginmyhed_status_2080326479444050011.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:39"
     },
     "https://video.twimg.com/amplify_video/2080867155617394688/vid/avc1/720x720/I4PaJRZzG39gqdSY.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260725040609_twitter_com_blackdoginmyhed_status_2080867175750058483.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/tweet_video/HOOgmdnbsAAX1zw.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260728162629_twitter_com_blackdoginmyhed_status_2082140646975090965.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2083421320612921344/vid/avc1/1080x1920/thZrl3Iq2epcTBn7.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260802004025_twitter_com_blackdoginmyhed_status_2083714501606879701.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:39"
     },
     "https://video.twimg.com/amplify_video/2086016728660955137/vid/avc1/720x720/-WvBLvOEcSXwcHTA.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260808090906_twitter_com_blackdoginmyhed_status_2086016845501604006.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2086141877578031105/vid/avc1/720x720/ymm-h_80ROjVhqWw.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260808172656_twitter_com_blackdoginmyhed_status_2086142125482377530.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/ext_tw_video/2085835516511961088/pu/vid/avc1/820x720/DdtbvhxK5ZC48j9J.mp4?tag=12": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809191736_twitter_com_blackdoginmyhed_status_2086532365132919000.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2086222942782832640/vid/avc1/720x500/t9twjRFRL61KQmcP.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809203032_twitter_com_blackdoginmyhed_status_2086550720560714081.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/tweet_video/HPcQxFZb0AAhmKl.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260811123322_twitter_com_blackdoginmyhed_status_2087155411309015341.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2089358824272429056/vid/avc1/720x686/i0K9JBBFIGtlspMr.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818010742_twitter_com_blackdoginmyhed_status_2089519574257721348.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:39"
     },
     "https://video.twimg.com/amplify_video/2092641650124431360/vid/avc1/720x720/nC3ginSJBkiwt92n.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826155438_twitter_com_blackdoginmyhed_status_2092641880622412117.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:39"
     },
     "https://video.twimg.com/amplify_video/2092293183753596928/vid/avc1/2160x2160/YCDS1Z4iWOQmcj5Q.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826171514_twitter_com_blackdoginmyhed_status_2092662164725391383.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:39"
     },
     "https://video.twimg.com/tweet_video/HRivlZObkAA9AU6.mp4": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260906151722_twitter_com_blackdoginmyhed_status_2096618767023505755.json",
         "20260906151827_twitter_com_blackdoginmyhed_status_2096619042211762550.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:40",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260906151827/https://video.twimg.com/tweet_video/HRivlZObkAA9AU6.mp4",
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HRmZCdta0AASwCW.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260907140048_twitter_com_blackdoginmyhed_status_2096961888659841410.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2097663819002556416/vid/avc1/428x640/n-IZEUlF7YAlH7yw.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260910072418_twitter_com_blackdoginmyhed_status_2097949268355248502.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     },
     "https://video.twimg.com/amplify_video/2099111237649039360/vid/avc1/480x600/cGQgXlsC-AHiC3yC.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260914003624_twitter_com_blackdoginmyhed_status_2099296167758802948.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:17:38"
     }
   },
   "avatars": {
@@ -21421,8 +21440,8 @@
           "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:39",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20250921063430_twitter_com_blackdoginmyhed_status_1969651431503462828.json": {
       "status": "done",
@@ -21476,8 +21495,8 @@
           "https://pbs.twimg.com/profile_images/1961854510021890048/OR2QZ81E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20250925063803_twitter_com_blackdoginmyhed_status_1971101876675543492.json": {
       "status": "done",
@@ -21503,8 +21522,8 @@
           "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:39",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20251026143823_twitter_com_blackdoginmyhed_status_1982456780426010708.json": {
       "status": "done",
@@ -21532,8 +21551,8 @@
           "https://pbs.twimg.com/profile_images/1979639839457681409/RCw29OfV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20251029110259_twitter_com_blackdoginmyhed_status_1983489737588621403.json": {
       "status": "failed",
@@ -21547,8 +21566,8 @@
           "https://pbs.twimg.com/profile_images/1979639839457681409/RCw29OfV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20251029135242_twitter_com_blackdoginmyhed_status_1983532447418704254.json": {
       "status": "done",
@@ -21576,8 +21595,8 @@
           "https://pbs.twimg.com/profile_images/1983533382308134912/9Z6JA9-o_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20251105162726_twitter_com_blackdoginmyhed_status_1986108102824108300.json": {
       "status": "failed",
@@ -21589,8 +21608,8 @@
           "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20251105162847_twitter_com_blackdoginmyhed_status_1986108444567547963.json": {
       "status": "failed",
@@ -21603,8 +21622,8 @@
           "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20251106002310_twitter_com_blackdoginmyhed_status_1986227825800884371.json": {
       "status": "failed",
@@ -21619,8 +21638,8 @@
           "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260110120018_twitter_com_blackdoginmyhed_status_2009958476173455389.json": {
       "status": "failed",
@@ -21634,8 +21653,8 @@
           "https://pbs.twimg.com/profile_images/1986404739685466112/SZXeURsH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260117191734_twitter_com_blackdoginmyhed_status_2012605230714613998.json": {
       "status": "failed",
@@ -21649,8 +21668,8 @@
           "https://pbs.twimg.com/profile_images/1975497164873998338/8ns_Xle0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260223103514_twitter_com_blackdoginmyhed_status_2025882133194318056.json": {
       "status": "done",
@@ -21787,8 +21806,8 @@
           "https://pbs.twimg.com/profile_images/2021832109191725058/dy84pDM5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260225081928_twitter_com_blackdoginmyhed_status_2026572742477349162.json": {
       "status": "done",
@@ -21841,8 +21860,8 @@
           "https://pbs.twimg.com/profile_images/1998044038981877760/Qb8G_aQ2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260226032006_twitter_com_blackdoginmyhed_status_2026859791360897383.json": {
       "status": "failed",
@@ -21854,8 +21873,8 @@
           "https://pbs.twimg.com/profile_images/1998044038981877760/Qb8G_aQ2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260226032806_twitter_com_blackdoginmyhed_status_2026861807512469834.json": {
       "status": "done",
@@ -21923,8 +21942,8 @@
           "https://pbs.twimg.com/profile_images/2009572352519213057/8DgrF8uc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260226072037_twitter_com_blackdoginmyhed_status_2026920321807184050.json": {
       "status": "failed",
@@ -21938,8 +21957,8 @@
           "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:39",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260226093104_twitter_com_blackdoginmyhed_status_2026953149999632745.json": {
       "status": "failed",
@@ -21952,8 +21971,8 @@
           "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260226111255_twitter_com_blackdoginmyhed_status_2026978780540023076.json": {
       "status": "failed",
@@ -21969,8 +21988,8 @@
           "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260226115637_twitter_com_blackdoginmyhed_status_2026989778432938401.json": {
       "status": "failed",
@@ -21982,8 +22001,8 @@
           "https://pbs.twimg.com/profile_images/2012345874899513344/DajrQh8E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260226120419_twitter_com_blackdoginmyhed_status_2026991715681182092.json": {
       "status": "done",
@@ -22023,8 +22042,8 @@
           "https://pbs.twimg.com/profile_images/2023995101543104512/aX_mx8Xf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260227002556_twitter_com_blackdoginmyhed_status_2027178350410695053.json": {
       "status": "done",
@@ -22065,8 +22084,8 @@
           "https://pbs.twimg.com/profile_images/2009908068763742211/nMj1rGML_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260227083511_twitter_com_blackdoginmyhed_status_2027301472228999619.json": {
       "status": "done",
@@ -22218,8 +22237,8 @@
           "https://pbs.twimg.com/profile_images/2012646710720266240/aZcwfVqw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260303105426_twitter_com_blackdoginmyhed_status_2028786069127262397.json": {
       "status": "done",
@@ -22268,8 +22287,8 @@
           "https://pbs.twimg.com/profile_images/2028121462633340928/boF6LO-__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260305094008_twitter_com_blackdoginmyhed_status_2029492147976614277.json": {
       "status": "done",
@@ -22367,8 +22386,8 @@
           "https://pbs.twimg.com/profile_images/2026312026201505792/w8nfM-7z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:44",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260306070845_twitter_com_blackdoginmyhed_status_2029816436827599235.json": {
       "status": "done",
@@ -22393,8 +22412,8 @@
           "https://pbs.twimg.com/profile_images/2023064775299944448/L4v5-lFH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260306083111_twitter_com_blackdoginmyhed_status_2029837180844265762.json": {
       "status": "done",
@@ -22452,8 +22471,8 @@
           "https://pbs.twimg.com/profile_images/1982019881886248960/sjuM2YGY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260306133423_twitter_com_blackdoginmyhed_status_2029913484654432698.json": {
       "status": "done",
@@ -22642,8 +22661,8 @@
           "https://pbs.twimg.com/profile_images/1794740572110094337/Rcp7tI-V_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260320051624_twitter_com_blackdoginmyhed_status_2034861592207401186.json": {
       "status": "done",
@@ -22687,8 +22706,8 @@
           "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:39",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260320173408_twitter_com_blackdoginmyhed_status_2035047250334748914.json": {
       "status": "done",
@@ -22744,8 +22763,8 @@
           "https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260322003339_twitter_com_blackdoginmyhed_status_2035515212166488263.json": {
       "status": "failed",
@@ -22761,8 +22780,8 @@
           "https://pbs.twimg.com/profile_images/1671208943589412864/JixewCDp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:49",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260322003536_twitter_com_blackdoginmyhed_status_2035515703910887868.json": {
       "status": "done",
@@ -22790,8 +22809,8 @@
           "https://pbs.twimg.com/profile_images/2035384576865161216/9MabQqgu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260322003808_twitter_com_blackdoginmyhed_status_2035516339704471809.json": {
       "status": "failed",
@@ -22806,8 +22825,8 @@
           "https://pbs.twimg.com/profile_images/1983880033795239939/AkVqZsZX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260322141011_twitter_com_blackdoginmyhed_status_2035720700481163518.json": {
       "status": "done",
@@ -22863,8 +22882,8 @@
           "https://pbs.twimg.com/profile_images/2034922845395197952/4a1QDbiP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260323085312_twitter_com_blackdoginmyhed_status_2036003317176823860.json": {
       "status": "done",
@@ -22946,8 +22965,8 @@
           "https://pbs.twimg.com/profile_images/1771742121588084736/lUR2j74l_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260325123118_twitter_com_blackdoginmyhed_status_2036782977221538217.json": {
       "status": "done",
@@ -23017,8 +23036,8 @@
           "https://pbs.twimg.com/profile_images/1671208943589412864/JixewCDp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260326054240_twitter_com_blackdoginmyhed_status_2037042529166614967.json": {
       "status": "done",
@@ -23112,8 +23131,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260327121452_twitter_com_blackdoginmyhed_status_2037503620141428850.json": {
       "status": "failed",
@@ -23128,11 +23147,11 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:39",
+      "miss_count": 10
     },
     "20260327121910_twitter_com_blackdoginmyhed_status_2037504701659529362.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -23142,7 +23161,7 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
+      "last_updated": "2026-09-15T18:17:39",
       "miss_count": 3
     },
     "20260327123125_twitter_com_blackdoginmyhed_status_2037507785605382301.json": {
@@ -23244,8 +23263,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260328035105_twitter_com_blackdoginmyhed_status_2037739225563721972.json": {
       "status": "done",
@@ -23321,8 +23340,8 @@
           "https://pbs.twimg.com/profile_images/2029333996317065216/UHUJborI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260328123132_twitter_com_blackdoginmyhed_status_2037870202172416388.json": {
       "status": "done",
@@ -23450,8 +23469,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260329091910_twitter_com_blackdoginmyhed_status_2038184180215927196.json": {
       "status": "done",
@@ -23476,8 +23495,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260329124258_twitter_com_blackdoginmyhed_status_2038235465728548875.json": {
       "status": "done",
@@ -23532,8 +23551,8 @@
           "https://pbs.twimg.com/profile_images/2036780825325576192/hV1zXUhb_normal.png"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260329130941_twitter_com_blackdoginmyhed_status_2038242189269217477.json": {
       "status": "failed",
@@ -23549,8 +23568,8 @@
           "https://pbs.twimg.com/profile_images/2030832911432507392/Em01SCPy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260329132658_twitter_com_blackdoginmyhed_status_2038246538942832738.json": {
       "status": "done",
@@ -23588,8 +23607,8 @@
           "https://pbs.twimg.com/profile_images/2025210016291033089/eQnDkr6H_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260329134544_twitter_com_blackdoginmyhed_status_2038251260852531590.json": {
       "status": "done",
@@ -23744,8 +23763,8 @@
           "https://pbs.twimg.com/profile_images/2025648197411258368/LvOOcd6D_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260330082618_twitter_com_blackdoginmyhed_status_2038533260985405586.json": {
       "status": "done",
@@ -23768,8 +23787,8 @@
           "https://pbs.twimg.com/profile_images/2025648197411258368/LvOOcd6D_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260330082857_twitter_com_blackdoginmyhed_status_2038533930648043593.json": {
       "status": "done",
@@ -23807,8 +23826,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260330083350_twitter_com_blackdoginmyhed_status_2038535159549755790.json": {
       "status": "done",
@@ -23834,8 +23853,8 @@
           "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260330111603_twitter_com_blackdoginmyhed_status_2038575979791298629.json": {
       "status": "done",
@@ -23885,8 +23904,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 8
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 9
     },
     "20260330134936_twitter_com_blackdoginmyhed_status_2038614623247876567.json": {
       "status": "done",
@@ -23952,8 +23971,8 @@
           "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260331072023_twitter_com_blackdoginmyhed_status_2038879061557350675.json": {
       "status": "done",
@@ -24025,8 +24044,8 @@
           "https://pbs.twimg.com/profile_images/2037327865541517313/8G4OZpd3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260331123558_twitter_com_blackdoginmyhed_status_2038958481060114815.json": {
       "status": "failed",
@@ -24040,8 +24059,8 @@
           "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260331123634_twitter_com_blackdoginmyhed_status_2038958632847757697.json": {
       "status": "done",
@@ -24109,8 +24128,8 @@
           "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260331131603_twitter_com_blackdoginmyhed_status_2038968566452740149.json": {
       "status": "done",
@@ -24158,8 +24177,8 @@
           "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260331140406_twitter_com_blackdoginmyhed_status_2038980660409561217.json": {
       "status": "failed",
@@ -24171,8 +24190,8 @@
           "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260331140437_twitter_com_blackdoginmyhed_status_2038980790474989572.json": {
       "status": "done",
@@ -24196,8 +24215,8 @@
           "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260331143946_twitter_com_blackdoginmyhed_status_2038989638153756892.json": {
       "status": "done",
@@ -24272,8 +24291,8 @@
           "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260401082231_twitter_com_blackdoginmyhed_status_2039257085574005208.json": {
       "status": "done",
@@ -24382,8 +24401,8 @@
           "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260401144928_twitter_com_blackdoginmyhed_status_2039354464008593529.json": {
       "status": "done",
@@ -24457,8 +24476,8 @@
           "https://pbs.twimg.com/profile_images/2019112095196069888/5sk-aoHw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260402071534_twitter_com_blackdoginmyhed_status_2039602624161526071.json": {
       "status": "failed",
@@ -24470,8 +24489,8 @@
           "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260402071857_twitter_com_blackdoginmyhed_status_2039603476884533531.json": {
       "status": "failed",
@@ -24483,8 +24502,8 @@
           "https://pbs.twimg.com/profile_images/2036721844578066432/fmKHKUi4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:36",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260402073738_twitter_com_blackdoginmyhed_status_2039608177067761970.json": {
       "status": "done",
@@ -24583,8 +24602,8 @@
           "https://pbs.twimg.com/profile_images/2035682948004073472/aK1yepnI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:37",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260402135741_twitter_com_blackdoginmyhed_status_2039703822646567134.json": {
       "status": "done",
@@ -24625,8 +24644,8 @@
           "https://pbs.twimg.com/profile_images/2038273060739092480/F3WWPq1D_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260402145025_twitter_com_blackdoginmyhed_status_2039717092639871016.json": {
       "status": "done",
@@ -24664,8 +24683,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 8
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 9
     },
     "20260403005939_twitter_com_blackdoginmyhed_status_2039870411232444444.json": {
       "status": "failed",
@@ -24681,8 +24700,8 @@
           "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403050557_twitter_com_blackdoginmyhed_status_2039932393923268887.json": {
       "status": "done",
@@ -24720,8 +24739,8 @@
           "https://pbs.twimg.com/profile_images/2003510168538210305/EGadh2x3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:39",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403055750_twitter_com_blackdoginmyhed_status_2039945450367619573.json": {
       "status": "failed",
@@ -24736,8 +24755,8 @@
           "https://pbs.twimg.com/profile_images/2039935779645067265/GN-YfkWP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:46",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403055904_twitter_com_blackdoginmyhed_status_2039945762126065873.json": {
       "status": "failed",
@@ -24751,8 +24770,8 @@
           "https://pbs.twimg.com/profile_images/2039744759007465472/OeY3ZBxW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403060310_twitter_com_blackdoginmyhed_status_2039946794595975548.json": {
       "status": "done",
@@ -24841,8 +24860,8 @@
           "https://pbs.twimg.com/profile_images/2022969419874385920/1b3_2jzv_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:39",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403092158_twitter_com_blackdoginmyhed_status_2039996822219788753.json": {
       "status": "failed",
@@ -24856,8 +24875,8 @@
           "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:43",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403104649_twitter_com_blackdoginmyhed_status_2040018176121995387.json": {
       "status": "done",
@@ -24898,8 +24917,8 @@
           "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:43",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403123656_twitter_com_blackdoginmyhed_status_2040045886986752023.json": {
       "status": "done",
@@ -24969,8 +24988,8 @@
           "https://pbs.twimg.com/profile_images/2028531881999036416/YxNVIIbZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260403145147_twitter_com_blackdoginmyhed_status_2040079825352737120.json": {
       "status": "done",
@@ -25047,8 +25066,8 @@
           "https://pbs.twimg.com/profile_images/2039826185379860480/meBWll2R_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260404064425_twitter_com_blackdoginmyhed_status_2040319562651255179.json": {
       "status": "done",
@@ -25073,8 +25092,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260404070253_twitter_com_blackdoginmyhed_status_2040324209810034882.json": {
       "status": "done",
@@ -25128,8 +25147,8 @@
           "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:43",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260404110545_twitter_com_blackdoginmyhed_status_2040385328029073873.json": {
       "status": "done",
@@ -25191,8 +25210,8 @@
           "https://pbs.twimg.com/profile_images/2035682948004073472/aK1yepnI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260404161406_twitter_com_blackdoginmyhed_status_2040462929255141699.json": {
       "status": "failed",
@@ -25204,8 +25223,8 @@
           "https://pbs.twimg.com/profile_images/2037832407521665024/m9NrbAW-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260404162217_twitter_com_blackdoginmyhed_status_2040464986884166023.json": {
       "status": "done",
@@ -25598,8 +25617,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:43",
-      "miss_count": 8
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 9
     },
     "20260408140107_twitter_com_blackdoginmyhed_status_2041879014529495254.json": {
       "status": "done",
@@ -25673,8 +25692,8 @@
           "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260409075954_twitter_com_blackdoginmyhed_status_2042150496077521172.json": {
       "status": "done",
@@ -25712,8 +25731,8 @@
           "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260410043139_twitter_com_blackdoginmyhed_status_2042460477100605926.json": {
       "status": "done",
@@ -25777,8 +25796,8 @@
           "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260410111437_twitter_com_blackdoginmyhed_status_2042561886634614861.json": {
       "status": "done",
@@ -25806,8 +25825,8 @@
           "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:44",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260410160624_twitter_com_blackdoginmyhed_status_2042635314754392432.json": {
       "status": "done",
@@ -25904,8 +25923,8 @@
           "https://pbs.twimg.com/profile_images/2040784153529262080/_tZ9SktE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260412064153_twitter_com_blackdoginmyhed_status_2043218027681026336.json": {
       "status": "failed",
@@ -25919,8 +25938,8 @@
           "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260412065103_twitter_com_blackdoginmyhed_status_2043220332094566509.json": {
       "status": "done",
@@ -26110,8 +26129,8 @@
           "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260413070847_twitter_com_blackdoginmyhed_status_2043587184503210252.json": {
       "status": "done",
@@ -26137,8 +26156,8 @@
           "https://pbs.twimg.com/profile_images/2043418558471045120/15eW0Jpd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260413080427_twitter_com_blackdoginmyhed_status_2043601192383926738.json": {
       "status": "done",
@@ -26269,8 +26288,8 @@
           "https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260413134516_twitter_com_blackdoginmyhed_status_2043686961165353155.json": {
       "status": "done",
@@ -26423,8 +26442,8 @@
           "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260413233118_twitter_com_blackdoginmyhed_status_2043834444881244233.json": {
       "status": "failed",
@@ -26439,8 +26458,8 @@
           "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260414000639_twitter_com_blackdoginmyhed_status_2043843340899364968.json": {
       "status": "failed",
@@ -26452,8 +26471,8 @@
           "https://pbs.twimg.com/profile_images/2043379781459116032/W8IJJnr1_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260414002240_twitter_com_blackdoginmyhed_status_2043847371457736987.json": {
       "status": "done",
@@ -26498,8 +26517,8 @@
           "https://pbs.twimg.com/profile_images/2040950652235550720/O1x3YZlJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260414025923_twitter_com_blackdoginmyhed_status_2043886810515026294.json": {
       "status": "done",
@@ -26600,8 +26619,8 @@
           "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260414061907_twitter_com_blackdoginmyhed_status_2043937071740662141.json": {
       "status": "done",
@@ -26625,8 +26644,8 @@
           "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260414062124_twitter_com_blackdoginmyhed_status_2043937647417237824.json": {
       "status": "done",
@@ -26650,8 +26669,8 @@
           "https://pbs.twimg.com/profile_images/2040715119458729984/HSHYmZGg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260414062817_twitter_com_blackdoginmyhed_status_2043939381690716512.json": {
       "status": "done",
@@ -26692,8 +26711,8 @@
           "https://pbs.twimg.com/profile_images/2040950652235550720/O1x3YZlJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260414063556_twitter_com_blackdoginmyhed_status_2043941305538228252.json": {
       "status": "done",
@@ -26862,8 +26881,8 @@
           "https://pbs.twimg.com/profile_images/2041571989543170048/V4kBJYd2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:44",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260415161139_twitter_com_blackdoginmyhed_status_2044448576089239921.json": {
       "status": "done",
@@ -26939,8 +26958,8 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260416074159_twitter_com_blackdoginmyhed_status_2044682703216447874.json": {
       "status": "done",
@@ -27187,8 +27206,8 @@
           "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:44",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260417155028_twitter_com_blackdoginmyhed_status_2045168020948156898.json": {
       "status": "done",
@@ -27453,8 +27472,8 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:44",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260421061317_twitter_com_blackdoginmyhed_status_2046472321549140216.json": {
       "status": "done",
@@ -27588,8 +27607,8 @@
           "https://pbs.twimg.com/profile_images/2045989998705651712/a248iTD0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260424082051_twitter_com_blackdoginmyhed_status_2047591587199570328.json": {
       "status": "done",
@@ -27636,8 +27655,8 @@
           "https://pbs.twimg.com/profile_images/2047687479369850880/yEQ7FZas_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260425060140_twitter_com_blackdoginmyhed_status_2047918948319134057.json": {
       "status": "done",
@@ -27708,8 +27727,8 @@
           "https://pbs.twimg.com/profile_images/1605927026321666055/QQEWY70f_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260425122417_twitter_com_blackdoginmyhed_status_2048015235316068615.json": {
       "status": "done",
@@ -27768,8 +27787,8 @@
           "https://pbs.twimg.com/profile_images/1925229630988173312/NQUQuLGh_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260425165724_twitter_com_blackdoginmyhed_status_2048083968273338424.json": {
       "status": "done",
@@ -28057,8 +28076,8 @@
           "https://pbs.twimg.com/profile_images/2048788057789440001/JZD502pg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260428112839_twitter_com_blackdoginmyhed_status_2049088401253732524.json": {
       "status": "done",
@@ -28417,8 +28436,8 @@
           "https://pbs.twimg.com/profile_images/2047267605359284224/c4JOThfh_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260501041033_twitter_com_blackdoginmyhed_status_2050065312629002676.json": {
       "status": "done",
@@ -28516,8 +28535,8 @@
           "https://pbs.twimg.com/profile_images/2050252431842537472/2AeXnNMB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:41",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260502055159_twitter_com_blackdoginmyhed_status_2050453226370257375.json": {
       "status": "done",
@@ -28610,8 +28629,8 @@
           "https://pbs.twimg.com/profile_images/2017463436285034496/wpn55Zsv_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260502164134_twitter_com_blackdoginmyhed_status_2050616698609467801.json": {
       "status": "failed",
@@ -28626,8 +28645,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260502164210_twitter_com_blackdoginmyhed_status_2050616850489459037.json": {
       "status": "failed",
@@ -28642,8 +28661,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260502170739_twitter_com_blackdoginmyhed_status_2050623264737902842.json": {
       "status": "done",
@@ -28753,8 +28772,8 @@
           "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260503054212_twitter_com_blackdoginmyhed_status_2050813152657543571.json": {
       "status": "failed",
@@ -28768,8 +28787,8 @@
           "https://pbs.twimg.com/profile_images/2047656132240363520/F2P_lsFT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260503061126_twitter_com_blackdoginmyhed_status_2050820511324909818.json": {
       "status": "failed",
@@ -28781,8 +28800,8 @@
           "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260503065920_twitter_com_blackdoginmyhed_status_2050832562550198300.json": {
       "status": "done",
@@ -28831,8 +28850,8 @@
           "https://pbs.twimg.com/profile_images/2049453547188854784/04Hec3yl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260503140819_twitter_com_blackdoginmyhed_status_2050940519774326862.json": {
       "status": "done",
@@ -28936,8 +28955,8 @@
           "https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260503171740_twitter_com_blackdoginmyhed_status_2050988171102753028.json": {
       "status": "done",
@@ -28988,8 +29007,8 @@
           "https://pbs.twimg.com/profile_images/1978241881319628800/qFeMya4V_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260504104900_twitter_com_blackdoginmyhed_status_2051252750630216122.json": {
       "status": "failed",
@@ -29003,8 +29022,8 @@
           "https://pbs.twimg.com/profile_images/2050800265985728514/K_RKXsmT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:43",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260504105601_twitter_com_blackdoginmyhed_status_2051254514578252260.json": {
       "status": "done",
@@ -29124,8 +29143,8 @@
           "https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260505133929_twitter_com_blackdoginmyhed_status_2051658041100271810.json": {
       "status": "done",
@@ -29172,8 +29191,8 @@
           "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:42",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260506035940_twitter_com_blackdoginmyhed_status_2051874512611012921.json": {
       "status": "done",
@@ -29303,8 +29322,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:58",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260507174753_twitter_com_blackdoginmyhed_status_2052445330030104694.json": {
       "status": "done",
@@ -29343,8 +29362,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:49",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260507190859_twitter_com_blackdoginmyhed_status_2052465738557112625.json": {
       "status": "done",
@@ -29372,8 +29391,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:58",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260508055852_twitter_com_blackdoginmyhed_status_2052629287086481533.json": {
       "status": "failed",
@@ -29386,8 +29405,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260508060019_twitter_com_blackdoginmyhed_status_2052629652200657160.json": {
       "status": "done",
@@ -29547,8 +29566,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260508173334_twitter_com_blackdoginmyhed_status_2052804114632040460.json": {
       "status": "done",
@@ -29624,8 +29643,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260509142842_twitter_com_blackdoginmyhed_status_2053119975775474169.json": {
       "status": "done",
@@ -29677,8 +29696,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260509154839_twitter_com_blackdoginmyhed_status_2053140096153739740.json": {
       "status": "done",
@@ -29729,8 +29748,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260510075750_twitter_com_blackdoginmyhed_status_2053384001843511791.json": {
       "status": "failed",
@@ -29743,8 +29762,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260510080442_twitter_com_blackdoginmyhed_status_2053385730756669765.json": {
       "status": "done",
@@ -29772,8 +29791,8 @@
           "https://pbs.twimg.com/profile_images/2053149501079351296/IJWD5uJz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260510090826_twitter_com_blackdoginmyhed_status_2053401768785281101.json": {
       "status": "done",
@@ -29824,8 +29843,8 @@
           "https://pbs.twimg.com/profile_images/2053084129126932480/crMplehU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:39",
+      "miss_count": 10
     },
     "20260510104406_twitter_com_blackdoginmyhed_status_2053425844606140549.json": {
       "status": "done",
@@ -29892,8 +29911,8 @@
           "https://pbs.twimg.com/profile_images/2053310533248716800/nlc8PHEV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260510120605_twitter_com_blackdoginmyhed_status_2053446475145941196.json": {
       "status": "failed",
@@ -29905,8 +29924,8 @@
           "https://pbs.twimg.com/profile_images/1943913037825523712/Xq6IfURV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260510120830_twitter_com_blackdoginmyhed_status_2053447084037255461.json": {
       "status": "done",
@@ -29988,8 +30007,8 @@
           "https://pbs.twimg.com/profile_images/2050800265985728514/K_RKXsmT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260511133834_twitter_com_blackdoginmyhed_status_2053832135803637847.json": {
       "status": "done",
@@ -30066,8 +30085,8 @@
           "https://pbs.twimg.com/profile_images/2052688556548919296/2XRbsJTc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260511143213_twitter_com_blackdoginmyhed_status_2053845638010503655.json": {
       "status": "failed",
@@ -30081,8 +30100,8 @@
           "https://pbs.twimg.com/profile_images/2052688556548919296/2XRbsJTc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260511144022_twitter_com_blackdoginmyhed_status_2053847691088810269.json": {
       "status": "failed",
@@ -30097,8 +30116,8 @@
           "https://pbs.twimg.com/profile_images/2047952597919916033/wvaE2RKN_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260511144556_twitter_com_blackdoginmyhed_status_2053849088857383059.json": {
       "status": "failed",
@@ -30110,8 +30129,8 @@
           "https://pbs.twimg.com/profile_images/2053184520233627648/84Y6G3lx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:45",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260511145151_twitter_com_blackdoginmyhed_status_2053850580788088940.json": {
       "status": "done",
@@ -30266,8 +30285,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:49",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260512131017_twitter_com_blackdoginmyhed_status_2054187405805343108.json": {
       "status": "done",
@@ -30514,8 +30533,8 @@
           "https://pbs.twimg.com/profile_images/2040445545832148993/n3qoPQqg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:46",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260513030338_twitter_com_blackdoginmyhed_status_2054397125786738708.json": {
       "status": "done",
@@ -30602,8 +30621,8 @@
           "https://pbs.twimg.com/profile_images/2054396765726773248/qjS0okKn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:46",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260513135022_twitter_com_blackdoginmyhed_status_2054559884268765451.json": {
       "status": "done",
@@ -30628,8 +30647,8 @@
           "https://pbs.twimg.com/profile_images/2037342765844221952/b6YvOZkT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:46",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260514045818_twitter_com_blackdoginmyhed_status_2054788371822870824.json": {
       "status": "failed",
@@ -30643,8 +30662,8 @@
           "https://pbs.twimg.com/profile_images/2051451988681113600/4KpuBqzJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:49",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260514052827_twitter_com_blackdoginmyhed_status_2054795959524343930.json": {
       "status": "done",
@@ -30733,8 +30752,8 @@
           "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:46",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260514163735_twitter_com_blackdoginmyhed_status_2054964353506701803.json": {
       "status": "failed",
@@ -30746,8 +30765,8 @@
           "https://pbs.twimg.com/profile_images/2054462384643973120/4VsCwRDh_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:46",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260515033949_twitter_com_blackdoginmyhed_status_2055131009692340429.json": {
       "status": "done",
@@ -30785,8 +30804,8 @@
           "https://pbs.twimg.com/profile_images/2044793863144194048/N6UjjMr2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:46",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260515095226_twitter_com_blackdoginmyhed_status_2055224779507130869.json": {
       "status": "done",
@@ -30815,8 +30834,8 @@
           "https://pbs.twimg.com/profile_images/2035682948004073472/aK1yepnI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260515121625_twitter_com_blackdoginmyhed_status_2055261014351061185.json": {
       "status": "done",
@@ -31033,8 +31052,8 @@
           "https://pbs.twimg.com/profile_images/2026503652240687104/EPfrUizB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260517020418_twitter_com_blackdoginmyhed_status_2055831746030223803.json": {
       "status": "done",
@@ -31149,8 +31168,8 @@
           "https://pbs.twimg.com/profile_images/2055934042063958016/mq9qOipb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260517234538_twitter_com_blackdoginmyhed_status_2056159237752201298.json": {
       "status": "done",
@@ -31558,8 +31577,8 @@
           "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:50",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260519015514_twitter_com_blackdoginmyhed_status_2056554240802525297.json": {
       "status": "done",
@@ -31634,8 +31653,8 @@
           "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260519052051_twitter_com_blackdoginmyhed_status_2056605986421666263.json": {
       "status": "done",
@@ -31705,8 +31724,8 @@
           "https://pbs.twimg.com/profile_images/2055554247735857152/Hm7xVe6s_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260519070033_twitter_com_blackdoginmyhed_status_2056631073917030408.json": {
       "status": "done",
@@ -31855,8 +31874,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260519090054_twitter_com_blackdoginmyhed_status_2056661364144484635.json": {
       "status": "done",
@@ -31918,8 +31937,8 @@
           "https://pbs.twimg.com/profile_images/2054924395634704385/CbHN7a7a_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260519135244_twitter_com_blackdoginmyhed_status_2056734804696310061.json": {
       "status": "done",
@@ -31943,8 +31962,8 @@
           "https://pbs.twimg.com/profile_images/2054924395634704385/CbHN7a7a_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260519163153_twitter_com_blackdoginmyhed_status_2056774856902107334.json": {
       "status": "done",
@@ -32357,8 +32376,8 @@
           "https://pbs.twimg.com/profile_images/2041186757178494976/zAvzljN9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260521231327_twitter_com_blackdoginmyhed_status_2057600691200537087.json": {
       "status": "done",
@@ -32383,8 +32402,8 @@
           "https://pbs.twimg.com/profile_images/2045638773766262784/IRwYrsp6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260522005853_twitter_com_blackdoginmyhed_status_2057627222614392952.json": {
       "status": "failed",
@@ -32396,8 +32415,8 @@
           "https://pbs.twimg.com/profile_images/2057483770958430208/1jF2OImd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:47",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260522010059_twitter_com_blackdoginmyhed_status_2057627750740209811.json": {
       "status": "done",
@@ -32482,8 +32501,8 @@
           "https://pbs.twimg.com/profile_images/2056722328097312768/TnT_MPn4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260522080730_twitter_com_blackdoginmyhed_status_2057735087144517673.json": {
       "status": "done",
@@ -32511,8 +32530,8 @@
           "https://pbs.twimg.com/profile_images/2040407785515724800/Djycmsu0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260522081915_twitter_com_blackdoginmyhed_status_2057738046158839811.json": {
       "status": "failed",
@@ -32528,8 +32547,8 @@
           "https://pbs.twimg.com/profile_images/2038681452028801024/oyU0e02U_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260522155243_twitter_com_blackdoginmyhed_status_2057852162554970436.json": {
       "status": "done",
@@ -32800,8 +32819,8 @@
           "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260524134252_twitter_com_blackdoginmyhed_status_2058544260656599322.json": {
       "status": "done",
@@ -32967,8 +32986,8 @@
           "https://pbs.twimg.com/profile_images/2058462958775324672/M2w3oaF2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260525010516_twitter_com_blackdoginmyhed_status_2058715995095933403.json": {
       "status": "failed",
@@ -32982,8 +33001,8 @@
           "https://pbs.twimg.com/profile_images/2052508092554702850/7rsuIIGZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260525014205_twitter_com_blackdoginmyhed_status_2058725256991527057.json": {
       "status": "failed",
@@ -32997,8 +33016,8 @@
           "https://pbs.twimg.com/profile_images/1931841192817483777/PhfkrKty_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260525015831_twitter_com_blackdoginmyhed_status_2058729394638884871.json": {
       "status": "done",
@@ -33146,8 +33165,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260525093044_twitter_com_blackdoginmyhed_status_2058843197842059600.json": {
       "status": "done",
@@ -33187,8 +33206,8 @@
           "https://pbs.twimg.com/profile_images/2051459135775158272/2O8PbP43_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260525093826_twitter_com_blackdoginmyhed_status_2058845136814301497.json": {
       "status": "done",
@@ -33516,8 +33535,8 @@
           "https://pbs.twimg.com/profile_images/2057400065350852608/AS7ZXY60_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526002513_twitter_com_blackdoginmyhed_status_2059068302790725768.json": {
       "status": "done",
@@ -33541,8 +33560,8 @@
           "https://pbs.twimg.com/profile_images/2057400065350852608/AS7ZXY60_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526002926_twitter_com_blackdoginmyhed_status_2059069362477351045.json": {
       "status": "done",
@@ -33579,8 +33598,8 @@
           "https://pbs.twimg.com/profile_images/2034546252453748736/60d7efcL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526010106_twitter_com_blackdoginmyhed_status_2059077332166648136.json": {
       "status": "done",
@@ -33889,8 +33908,8 @@
           "https://pbs.twimg.com/profile_images/2057778913133416448/4hjfJxt0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526084731_twitter_com_blackdoginmyhed_status_2059194710003253463.json": {
       "status": "done",
@@ -33941,8 +33960,8 @@
           "https://pbs.twimg.com/profile_images/2059236418887491584/oQC1fyO1_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526123715_twitter_com_blackdoginmyhed_status_2059252525006762309.json": {
       "status": "done",
@@ -34057,8 +34076,8 @@
           "https://pbs.twimg.com/profile_images/2059203472764088320/m2f9pM-Z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526143456_twitter_com_blackdoginmyhed_status_2059282141465436257.json": {
       "status": "done",
@@ -34082,8 +34101,8 @@
           "https://pbs.twimg.com/profile_images/1999794757032382465/LpaO17JN_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526143632_twitter_com_blackdoginmyhed_status_2059282542289887438.json": {
       "status": "failed",
@@ -34097,8 +34116,8 @@
           "https://pbs.twimg.com/profile_images/2057134376878817280/ExOqlDfy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526143922_twitter_com_blackdoginmyhed_status_2059283254180819440.json": {
       "status": "failed",
@@ -34110,8 +34129,8 @@
           "https://pbs.twimg.com/profile_images/1999794757032382465/LpaO17JN_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:48",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260526160515_twitter_com_blackdoginmyhed_status_2059304868867977726.json": {
       "status": "done",
@@ -34174,8 +34193,8 @@
           "https://pbs.twimg.com/profile_images/2016909693629980672/XCe6Math_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:49",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260527045954_twitter_com_blackdoginmyhed_status_2059499815105708171.json": {
       "status": "done",
@@ -34230,8 +34249,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260527051232_twitter_com_blackdoginmyhed_status_2059502995432501340.json": {
       "status": "failed",
@@ -34244,8 +34263,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260527051602_twitter_com_blackdoginmyhed_status_2059503876324426216.json": {
       "status": "done",
@@ -34440,8 +34459,8 @@
           "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260527125017_twitter_com_blackdoginmyhed_status_2059618190347706685.json": {
       "status": "done",
@@ -34619,8 +34638,8 @@
           "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260528095129_twitter_com_blackdoginmyhed_status_2059935584995659924.json": {
       "status": "done",
@@ -34649,8 +34668,8 @@
           "https://pbs.twimg.com/profile_images/2059324193427374080/g39fOwMg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260528100057_twitter_com_blackdoginmyhed_status_2059937967842684983.json": {
       "status": "done",
@@ -34676,8 +34695,8 @@
           "https://pbs.twimg.com/profile_images/2059849140906188800/g30SmeUs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:49",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260528111017_twitter_com_blackdoginmyhed_status_2059955413727297648.json": {
       "status": "done",
@@ -34800,8 +34819,8 @@
           "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260528155832_twitter_com_blackdoginmyhed_status_2060027955766845468.json": {
       "status": "done",
@@ -34849,8 +34868,8 @@
           "https://pbs.twimg.com/profile_images/2040991947641491456/xhVM8PhO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260528171237_twitter_com_blackdoginmyhed_status_2060046597367673131.json": {
       "status": "done",
@@ -35055,8 +35074,8 @@
           "https://pbs.twimg.com/profile_images/2016873340682850310/ho878XU7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260529065644_twitter_com_blackdoginmyhed_status_2060253993444773983.json": {
       "status": "done",
@@ -35092,8 +35111,8 @@
           "https://pbs.twimg.com/profile_images/2058044267139080192/dshYIGC5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260529082813_twitter_com_blackdoginmyhed_status_2060277015539077577.json": {
       "status": "done",
@@ -35227,8 +35246,8 @@
           "https://pbs.twimg.com/profile_images/2060339815493902336/Mhpge-Qm_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260529140141_twitter_com_blackdoginmyhed_status_2060360936024858705.json": {
       "status": "done",
@@ -35327,8 +35346,8 @@
           "https://pbs.twimg.com/profile_images/2050083452826066944/WL1ORgHQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:55",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260529233013_twitter_com_blackdoginmyhed_status_2060504012869304757.json": {
       "status": "failed",
@@ -35345,8 +35364,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:04",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260529233320_twitter_com_blackdoginmyhed_status_2060504795538997263.json": {
       "status": "done",
@@ -35476,8 +35495,8 @@
           "https://pbs.twimg.com/profile_images/2051459135775158272/2O8PbP43_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260530061653_twitter_com_blackdoginmyhed_status_2060606355354849646.json": {
       "status": "done",
@@ -35657,8 +35676,8 @@
           "https://pbs.twimg.com/profile_images/1940013615697760256/aIZ2RWLG_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:07",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260530104610_twitter_com_blackdoginmyhed_status_2060674120506052855.json": {
       "status": "done",
@@ -36030,8 +36049,8 @@
           "https://pbs.twimg.com/profile_images/2056480644671393792/r8cLwt4G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:51",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260601031244_twitter_com_blackdoginmyhed_status_2061284784383668496.json": {
       "status": "done",
@@ -36073,8 +36092,8 @@
           "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:55",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260601045137_twitter_com_blackdoginmyhed_status_2061309670141337914.json": {
       "status": "done",
@@ -36140,8 +36159,8 @@
           "https://pbs.twimg.com/profile_images/2040822086462312448/0uUM_IQp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:55",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260601113739_twitter_com_blackdoginmyhed_status_2061411850756161920.json": {
       "status": "done",
@@ -36170,8 +36189,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260601115219_twitter_com_blackdoginmyhed_status_2061415543517925827.json": {
       "status": "failed",
@@ -36184,8 +36203,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260601130539_twitter_com_blackdoginmyhed_status_2061433997025231214.json": {
       "status": "done",
@@ -36333,8 +36352,8 @@
           "https://pbs.twimg.com/profile_images/2060397944516558848/E11yQBYo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260602073136_twitter_com_blackdoginmyhed_status_2061712320217383420.json": {
       "status": "done",
@@ -36565,8 +36584,8 @@
           "https://pbs.twimg.com/profile_images/2061514257834115072/DNUyrBLr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260602184248_twitter_com_blackdoginmyhed_status_2061881231286079809.json": {
       "status": "failed",
@@ -36578,8 +36597,8 @@
           "https://pbs.twimg.com/profile_images/2061514257834115072/DNUyrBLr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260602192311_twitter_com_blackdoginmyhed_status_2061891397075275820.json": {
       "status": "done",
@@ -36636,8 +36655,8 @@
           "https://pbs.twimg.com/profile_images/2060953077486858240/uae6848X_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:05",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260603090131_twitter_com_blackdoginmyhed_status_2062097334956388428.json": {
       "status": "done",
@@ -36688,8 +36707,8 @@
           "https://pbs.twimg.com/profile_images/2060397944516558848/E11yQBYo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260603124600_twitter_com_blackdoginmyhed_status_2062153827495870606.json": {
       "status": "failed",
@@ -36701,8 +36720,8 @@
           "https://pbs.twimg.com/profile_images/2060397944516558848/E11yQBYo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260603141448_twitter_com_blackdoginmyhed_status_2062176174701429234.json": {
       "status": "done",
@@ -36732,8 +36751,8 @@
           "https://pbs.twimg.com/profile_images/2007715646621040640/bwtcmF3g_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:52",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604004851_twitter_com_blackdoginmyhed_status_2062335741884252365.json": {
       "status": "done",
@@ -36787,8 +36806,8 @@
           "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604022719_twitter_com_blackdoginmyhed_status_2062360520083284332.json": {
       "status": "failed",
@@ -36803,8 +36822,8 @@
           "https://pbs.twimg.com/profile_images/2061352449269809152/sPhuegpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604045014_twitter_com_blackdoginmyhed_status_2062396485908811981.json": {
       "status": "done",
@@ -36892,8 +36911,8 @@
           "https://pbs.twimg.com/profile_images/2059849140906188800/g30SmeUs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604083915_twitter_com_blackdoginmyhed_status_2062454122448871444.json": {
       "status": "done",
@@ -36959,8 +36978,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604140452_twitter_com_blackdoginmyhed_status_2062536066037653729.json": {
       "status": "failed",
@@ -36973,8 +36992,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604140927_twitter_com_blackdoginmyhed_status_2062537217919377887.json": {
       "status": "done",
@@ -37023,8 +37042,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604142459_twitter_com_blackdoginmyhed_status_2062541127845290263.json": {
       "status": "done",
@@ -37159,8 +37178,8 @@
           "https://pbs.twimg.com/profile_images/2061514257834115072/DNUyrBLr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260604193922_twitter_com_blackdoginmyhed_status_2062620242598338974.json": {
       "status": "done",
@@ -37293,8 +37312,8 @@
           "https://pbs.twimg.com/profile_images/2062622563138736128/8FNGokeW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:53",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260605160731_twitter_com_blackdoginmyhed_status_2062929317257245132.json": {
       "status": "done",
@@ -37319,8 +37338,8 @@
           "https://pbs.twimg.com/profile_images/2062534815615008768/bPaZaCCJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260605235415_twitter_com_blackdoginmyhed_status_2063046775796322330.json": {
       "status": "done",
@@ -37424,8 +37443,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260606074447_twitter_com_blackdoginmyhed_status_2063165190682890271.json": {
       "status": "done",
@@ -37507,8 +37526,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260606174724_twitter_com_blackdoginmyhed_status_2063316844438819191.json": {
       "status": "done",
@@ -37717,8 +37736,8 @@
           "https://pbs.twimg.com/profile_images/2061870606807715841/QtGZj2de_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:54",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260608072818_twitter_com_blackdoginmyhed_status_2063885815382700397.json": {
       "status": "done",
@@ -37759,8 +37778,8 @@
           "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260608081707_twitter_com_blackdoginmyhed_status_2063898100041908383.json": {
       "status": "done",
@@ -37872,8 +37891,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260608212759_twitter_com_blackdoginmyhed_status_2064097131548524755.json": {
       "status": "done",
@@ -37953,8 +37972,8 @@
           "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:58",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260610051712_twitter_com_blackdoginmyhed_status_2064577600664854541.json": {
       "status": "done",
@@ -37992,8 +38011,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260610063957_twitter_com_blackdoginmyhed_status_2064598423320588348.json": {
       "status": "done",
@@ -38175,8 +38194,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260611110625_twitter_com_blackdoginmyhed_status_2065027870079238581.json": {
       "status": "failed",
@@ -38189,8 +38208,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260611111844_twitter_com_blackdoginmyhed_status_2065030971410538597.json": {
       "status": "done",
@@ -38510,8 +38529,8 @@
           "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260616100545_twitter_com_blackdoginmyhed_status_2066824543143112774.json": {
       "status": "done",
@@ -38613,8 +38632,8 @@
           "https://pbs.twimg.com/profile_images/2052749619931791360/jaxr4YXy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260617063659_twitter_com_blackdoginmyhed_status_2067134391776870455.json": {
       "status": "done",
@@ -39552,8 +39571,8 @@
           "https://pbs.twimg.com/profile_images/1986404739685466112/SZXeURsH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:40",
-      "miss_count": 9
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 10
     },
     "20260224132138_twitter_com_blackdoginmyhed_status_2026286395917062239.json": {
       "status": "done",
@@ -39579,8 +39598,8 @@
           "https://pbs.twimg.com/profile_images/2025748905971908608/3vJUcU40_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 7
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 8
     },
     "20260226043418_twitter_com_blackdoginmyhed_status_2026878465379635612.json": {
       "status": "done",
@@ -39693,8 +39712,8 @@
           "https://pbs.twimg.com/profile_images/2033266203519549440/kBE3hxvK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 7
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 8
     },
     "20260324112756_twitter_com_blackdoginmyhed_status_2036404645976014919.json": {
       "status": "done",
@@ -39772,8 +39791,8 @@
           "https://pbs.twimg.com/profile_images/2006130201588047872/XStxUb8g_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:35",
-      "miss_count": 5
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 6
     },
     "20260710230341_twitter_com_blackdoginmyhed_status_2075717625955659896.json": {
       "status": "done",
@@ -39930,7 +39949,7 @@
           "https://pbs.twimg.com/profile_images/2076923318641549312/gPftG3A__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260715150928_twitter_com_blackdoginmyhed_status_2077410225842500006.json": {
       "status": "done",
@@ -39953,7 +39972,7 @@
           "https://pbs.twimg.com/profile_images/2077194953525231616/BWdpQe3p_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260716025026_twitter_com_blackdoginmyhed_status_2077586626939904001.json": {
       "status": "done",
@@ -39976,7 +39995,7 @@
           "https://pbs.twimg.com/profile_images/2077194953525231616/BWdpQe3p_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:56"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260716135038_twitter_com_blackdoginmyhed_status_2077752773077328379.json": {
       "status": "failed",
@@ -39993,8 +40012,8 @@
           "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:09",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 2
     },
     "20260717063309_twitter_com_blackdoginmyhed_status_2078005063117672466.json": {
       "status": "done",
@@ -40022,7 +40041,7 @@
           "https://pbs.twimg.com/profile_images/1983571769115004929/rMcR_cTg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260717153345_twitter_com_blackdoginmyhed_status_2078141112452264237.json": {
       "status": "unknown",
@@ -40036,7 +40055,7 @@
           "https://pbs.twimg.com/profile_images/1939845510950440960/FfpONIlT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260718022522_twitter_com_blackdoginmyhed_status_2078305097231258098.json": {
       "status": "done",
@@ -40098,7 +40117,7 @@
           "https://pbs.twimg.com/profile_images/2076314708152320000/60irOGu9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260718041622_twitter_com_blackdoginmyhed_status_2078333028255031505.json": {
       "status": "failed",
@@ -40111,8 +40130,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 2
     },
     "20260719034106_twitter_com_blackdoginmyhed_status_2078686543607423181.json": {
       "status": "unknown",
@@ -40126,7 +40145,7 @@
           "https://pbs.twimg.com/profile_images/1187242350256496640/k6P6kkeQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260719035343_twitter_com_blackdoginmyhed_status_2078689717777035695.json": {
       "status": "unknown",
@@ -40140,7 +40159,7 @@
           "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260719051239_twitter_com_blackdoginmyhed_status_2078709582172651797.json": {
       "status": "unknown",
@@ -40154,7 +40173,7 @@
           "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260720044221_twitter_com_blackdoginmyhed_status_2079064345808712168.json": {
       "status": "unknown",
@@ -40168,7 +40187,7 @@
           "https://pbs.twimg.com/profile_images/2049878534030528512/JgG8uQ9E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:57"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260720212839_twitter_com_blackdoginmyhed_status_2079317588686082180.json": {
       "status": "done",
@@ -40193,8 +40212,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 2
     },
     "20260721054936_twitter_com_blackdoginmyhed_status_2079443654830358806.json": {
       "status": "done",
@@ -40285,8 +40304,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:05",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 2
     },
     "20260721191403_twitter_com_blackdoginmyhed_status_2079646104032100805.json": {
       "status": "done",
@@ -40337,7 +40356,7 @@
       "last_updated": "2026-09-15T18:08:58"
     },
     "20260723161737_twitter_com_blackdoginmyhed_status_2080326479444050011.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -40347,7 +40366,7 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:58"
+      "last_updated": "2026-09-15T18:17:39"
     },
     "20260724000837_twitter_com_blackdoginmyhed_status_2080445007539167298.json": {
       "status": "done",
@@ -40459,11 +40478,11 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 2
     },
     "20260725040609_twitter_com_blackdoginmyhed_status_2080867175750058483.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -40473,7 +40492,7 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:58"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260725060324_twitter_com_blackdoginmyhed_status_2080896681043021852.json": {
       "status": "done",
@@ -40573,7 +40592,7 @@
           "https://pbs.twimg.com/profile_images/2058273933015515136/k301BEZB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260726132230_twitter_com_blackdoginmyhed_status_2081369573220335660.json": {
       "status": "done",
@@ -40711,7 +40730,7 @@
           "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260728162914_twitter_com_blackdoginmyhed_status_2082141339815489596.json": {
       "status": "done",
@@ -40761,7 +40780,7 @@
           "https://pbs.twimg.com/profile_images/2050940289750323200/IPsG5fnG_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:08:59"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260730154719_twitter_com_blackdoginmyhed_status_2082855566511374733.json": {
       "status": "done",
@@ -40789,7 +40808,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:12"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260731100148_twitter_com_blackdoginmyhed_status_2083131003242266866.json": {
       "status": "done",
@@ -40816,7 +40835,7 @@
           "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260731163836_twitter_com_blackdoginmyhed_status_2083230859113750855.json": {
       "status": "done",
@@ -40840,8 +40859,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 2
     },
     "20260731165052_twitter_com_blackdoginmyhed_status_2083233947534901711.json": {
       "status": "done",
@@ -40868,7 +40887,7 @@
           "https://pbs.twimg.com/profile_images/1564710107107053569/vsidR1i__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260801131013_twitter_com_blackdoginmyhed_status_2083540807861285333.json": {
       "status": "unknown",
@@ -40882,7 +40901,7 @@
           "https://pbs.twimg.com/profile_images/1950694251508948992/a2tzW0T3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260802004025_twitter_com_blackdoginmyhed_status_2083714501606879701.json": {
       "status": "unknown",
@@ -40898,7 +40917,7 @@
           "https://pbs.twimg.com/profile_images/1490551424341577733/fEl8e9EI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:39"
     },
     "20260802063547_twitter_com_blackdoginmyhed_status_2083803931038400752.json": {
       "status": "unknown",
@@ -40913,7 +40932,7 @@
           "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260802114638_twitter_com_blackdoginmyhed_status_2083882160969167344.json": {
       "status": "unknown",
@@ -40927,7 +40946,7 @@
           "https://pbs.twimg.com/profile_images/2077414982162243584/1h-fqQpo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260802122143_twitter_com_blackdoginmyhed_status_2083890989694067079.json": {
       "status": "done",
@@ -40954,8 +40973,8 @@
           "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:17:38",
+      "miss_count": 2
     },
     "20260805021429_twitter_com_blackdoginmyhed_status_2084825337310204348.json": {
       "status": "done",
@@ -41006,7 +41025,7 @@
           "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260805234536_twitter_com_blackdoginmyhed_status_2085150260431904796.json": {
       "status": "unknown",
@@ -41021,7 +41040,7 @@
           "https://pbs.twimg.com/profile_images/1516561356681629697/TOslZpKO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260807160812_twitter_com_blackdoginmyhed_status_2085759925033328965.json": {
       "status": "unknown",
@@ -41036,7 +41055,7 @@
           "https://pbs.twimg.com/profile_images/1978889519156908033/JJnF5mWo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260807181714_twitter_com_blackdoginmyhed_status_2085792397641035992.json": {
       "status": "unknown",
@@ -41048,7 +41067,7 @@
           "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260807194325_twitter_com_blackdoginmyhed_status_2085814086093484070.json": {
       "status": "done",
@@ -41062,7 +41081,7 @@
       "last_updated": "2026-09-15T18:09:00"
     },
     "20260808090906_twitter_com_blackdoginmyhed_status_2086016845501604006.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -41072,10 +41091,10 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260808172656_twitter_com_blackdoginmyhed_status_2086142125482377530.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -41085,10 +41104,10 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260809191736_twitter_com_blackdoginmyhed_status_2086532365132919000.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -41099,7 +41118,7 @@
           "https://pbs.twimg.com/profile_images/2006792793650323456/WI88G3rp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260809192823_twitter_com_blackdoginmyhed_status_2086535078277238828.json": {
       "status": "unknown",
@@ -41111,7 +41130,7 @@
           "https://pbs.twimg.com/profile_images/1872050299487256576/lBr8I54H_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260809203032_twitter_com_blackdoginmyhed_status_2086550720560714081.json": {
       "status": "unknown",
@@ -41125,7 +41144,7 @@
           "https://pbs.twimg.com/profile_images/2070969156569067520/RfWT5Sk-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260810023950_twitter_com_blackdoginmyhed_status_2086643658435244229.json": {
       "status": "unknown",
@@ -41137,7 +41156,7 @@
           "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260810052049_twitter_com_blackdoginmyhed_status_2086684171641217457.json": {
       "status": "unknown",
@@ -41151,7 +41170,7 @@
           "https://pbs.twimg.com/profile_images/1631959208743833602/B87g2P7V_normal.png"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260810090403_twitter_com_blackdoginmyhed_status_2086740349201043461.json": {
       "status": "done",
@@ -41191,7 +41210,7 @@
           "https://pbs.twimg.com/profile_images/2054064668235431936/58y0IrDS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260811093404_twitter_com_blackdoginmyhed_status_2087110289942806707.json": {
       "status": "done",
@@ -41214,10 +41233,10 @@
           "https://pbs.twimg.com/profile_images/2087153504188256256/RpC-rn91_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260811123322_twitter_com_blackdoginmyhed_status_2087155411309015341.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -41227,7 +41246,7 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:00"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260812044929_twitter_com_blackdoginmyhed_status_2087401061392978022.json": {
       "status": "unknown",
@@ -41241,7 +41260,7 @@
           "https://pbs.twimg.com/profile_images/2034098419405574144/zB7RtS9O_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260813101729_twitter_com_blackdoginmyhed_status_2087845991819178354.json": {
       "status": "done",
@@ -41268,7 +41287,7 @@
           "https://pbs.twimg.com/profile_images/2020723532867735552/XePjJo5H_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260814045245_twitter_com_blackdoginmyhed_status_2088126658750632238.json": {
       "status": "done",
@@ -41295,7 +41314,7 @@
           "https://pbs.twimg.com/profile_images/2067294240267268096/QofMtXVW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260814091016_twitter_com_blackdoginmyhed_status_2088191466271314200.json": {
       "status": "done",
@@ -41402,7 +41421,7 @@
           "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260816102503_twitter_com_blackdoginmyhed_status_2088935061513200097.json": {
       "status": "unknown",
@@ -41414,7 +41433,7 @@
           "https://pbs.twimg.com/profile_images/2083227140720316416/KHcTVuGn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260816102741_twitter_com_blackdoginmyhed_status_2088935722246135857.json": {
       "status": "unknown",
@@ -41426,7 +41445,7 @@
           "https://pbs.twimg.com/profile_images/2083227140720316416/KHcTVuGn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260816165248_twitter_com_blackdoginmyhed_status_2089032639013679323.json": {
       "status": "unknown",
@@ -41440,7 +41459,7 @@
           "https://pbs.twimg.com/profile_images/2080976108166791169/IlxXd3m9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:04"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260816171324_twitter_com_blackdoginmyhed_status_2089037823047508150.json": {
       "status": "done",
@@ -41465,7 +41484,7 @@
           "https://pbs.twimg.com/profile_images/2087599836539281408/f9tdLYxm_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260818010742_twitter_com_blackdoginmyhed_status_2089519574257721348.json": {
       "status": "unknown",
@@ -41479,7 +41498,7 @@
           "https://pbs.twimg.com/profile_images/2078267024925499392/ZL0mvk7f_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:39"
     },
     "20260818163352_twitter_com_blackdoginmyhed_status_2089752650539819039.json": {
       "status": "unknown",
@@ -41494,7 +41513,7 @@
           "https://pbs.twimg.com/profile_images/2078437623501295616/_zQ0E_bp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260818193413_twitter_com_blackdoginmyhed_status_2089798037195641205.json": {
       "status": "done",
@@ -41556,7 +41575,7 @@
           "https://pbs.twimg.com/profile_images/2089579696963067904/iZi3vM_P_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260819152712_twitter_com_blackdoginmyhed_status_2090098261126533526.json": {
       "status": "unknown",
@@ -41570,7 +41589,7 @@
           "https://pbs.twimg.com/profile_images/2081176588109119488/xRus0ea7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260820135739_twitter_com_blackdoginmyhed_status_2090438114007474516.json": {
       "status": "done",
@@ -41611,7 +41630,7 @@
           "https://pbs.twimg.com/profile_images/2090427865921916928/bprn5k0j_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260821203659_twitter_com_blackdoginmyhed_status_2090900998391046648.json": {
       "status": "unknown",
@@ -41623,7 +41642,7 @@
           "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260821204343_twitter_com_blackdoginmyhed_status_2090902690046058911.json": {
       "status": "unknown",
@@ -41638,7 +41657,7 @@
           "https://pbs.twimg.com/profile_images/1947585991352717312/ANvz57xI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260822094128_twitter_com_blackdoginmyhed_status_2091098417732993283.json": {
       "status": "unknown",
@@ -41650,7 +41669,7 @@
           "https://pbs.twimg.com/profile_images/2071939089910128640/6BOkTXMd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260822094630_twitter_com_blackdoginmyhed_status_2091099684693815668.json": {
       "status": "done",
@@ -41675,7 +41694,7 @@
           "https://pbs.twimg.com/profile_images/2083846106031501313/4t22ht5j_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260822100226_twitter_com_blackdoginmyhed_status_2091103694083526820.json": {
       "status": "unknown",
@@ -41689,7 +41708,7 @@
           "https://pbs.twimg.com/profile_images/2049098551024836608/RPv5RWaA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260822154559_twitter_com_blackdoginmyhed_status_2091190154677678182.json": {
       "status": "done",
@@ -41736,7 +41755,7 @@
           "https://pbs.twimg.com/profile_images/2090197995169918976/Cf9ZIrZe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260824031219_twitter_com_blackdoginmyhed_status_2091725263386431603.json": {
       "status": "unknown",
@@ -41750,7 +41769,7 @@
           "https://pbs.twimg.com/profile_images/2091558349552947200/BmDidWZI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260824042703_twitter_com_blackdoginmyhed_status_2091744070603559322.json": {
       "status": "done",
@@ -41798,7 +41817,7 @@
           "https://pbs.twimg.com/profile_images/2091577131893432326/z9piP71z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260824131002_twitter_com_blackdoginmyhed_status_2091875683136139751.json": {
       "status": "unknown",
@@ -41810,7 +41829,7 @@
           "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260824133745_twitter_com_blackdoginmyhed_status_2091882659199021269.json": {
       "status": "unknown",
@@ -41824,7 +41843,7 @@
           "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260824141039_twitter_com_blackdoginmyhed_status_2091890937358413884.json": {
       "status": "done",
@@ -41863,7 +41882,7 @@
           "https://pbs.twimg.com/profile_images/2032365154621333505/G956NLkz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260826044854_twitter_com_blackdoginmyhed_status_2092474343414505638.json": {
       "status": "done",
@@ -41902,7 +41921,7 @@
           "https://pbs.twimg.com/profile_images/2073423328333959169/j1b7LiML_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260826153753_twitter_com_blackdoginmyhed_status_2092637666139648145.json": {
       "status": "done",
@@ -41925,10 +41944,10 @@
           "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260826155438_twitter_com_blackdoginmyhed_status_2092641880622412117.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -41938,7 +41957,7 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:39"
     },
     "20260826171514_twitter_com_blackdoginmyhed_status_2092662164725391383.json": {
       "status": "unknown",
@@ -41952,7 +41971,7 @@
           "https://pbs.twimg.com/profile_images/1999158586291953665/W_1EipYM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:39"
     },
     "20260826171819_twitter_com_blackdoginmyhed_status_2092662942508724505.json": {
       "status": "done",
@@ -41975,7 +41994,7 @@
           "https://pbs.twimg.com/profile_images/2073408818801971200/deYWMI6j_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260827123534_twitter_com_blackdoginmyhed_status_2092954173633712579.json": {
       "status": "unknown",
@@ -41987,7 +42006,7 @@
           "https://pbs.twimg.com/profile_images/2070969156569067520/RfWT5Sk-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:01"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260828045947_twitter_com_blackdoginmyhed_status_2093201858169020912.json": {
       "status": "done",
@@ -42014,7 +42033,7 @@
           "https://pbs.twimg.com/profile_images/1998274575558377472/ud587yAm_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260828124755_twitter_com_blackdoginmyhed_status_2093319669642052072.json": {
       "status": "unknown",
@@ -42028,7 +42047,7 @@
           "https://pbs.twimg.com/profile_images/1945865151296544768/pny0AISn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:05"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260828162429_twitter_com_blackdoginmyhed_status_2093374167051809023.json": {
       "status": "unknown",
@@ -42040,7 +42059,7 @@
           "https://pbs.twimg.com/profile_images/2092555375119941632/i7JViKFp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260828162915_twitter_com_blackdoginmyhed_status_2093375367314895037.json": {
       "status": "unknown",
@@ -42052,7 +42071,7 @@
           "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260829010204_twitter_com_blackdoginmyhed_status_2093504421208662137.json": {
       "status": "unknown",
@@ -42066,7 +42085,7 @@
           "https://pbs.twimg.com/profile_images/2069587744901177344/HPjCwfCp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260829132829_twitter_com_blackdoginmyhed_status_2093692264803692569.json": {
       "status": "unknown",
@@ -42080,7 +42099,7 @@
           "https://pbs.twimg.com/profile_images/2074078445798088704/2rd2T6ea_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260830081323_twitter_com_blackdoginmyhed_status_2093975357019836453.json": {
       "status": "unknown",
@@ -42094,7 +42113,7 @@
           "https://pbs.twimg.com/profile_images/1576380937713106950/7Yn3Ngis_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260901031653_twitter_com_blackdoginmyhed_status_2094625515709853976.json": {
       "status": "done",
@@ -42134,7 +42153,7 @@
           "https://pbs.twimg.com/profile_images/2020851440785481728/JmvAexzU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260901032020_twitter_com_blackdoginmyhed_status_2094626380889956386.json": {
       "status": "unknown",
@@ -42148,7 +42167,7 @@
           "https://pbs.twimg.com/profile_images/2020851440785481728/JmvAexzU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260901032518_twitter_com_blackdoginmyhed_status_2094627631417471421.json": {
       "status": "unknown",
@@ -42162,7 +42181,7 @@
           "https://pbs.twimg.com/profile_images/1937679702057226240/T_Knl2K3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260902183635_twitter_com_blackdoginmyhed_status_2095219353285541940.json": {
       "status": "done",
@@ -42204,7 +42223,7 @@
           "https://pbs.twimg.com/profile_images/2074739473192284160/T_wHteaj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260902191046_twitter_com_blackdoginmyhed_status_2095227953617707013.json": {
       "status": "done",
@@ -42231,7 +42250,7 @@
           "https://pbs.twimg.com/profile_images/2036839839103123456/FxE23Lvr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260902193206_twitter_com_blackdoginmyhed_status_2095233324805722504.json": {
       "status": "unknown",
@@ -42243,7 +42262,7 @@
           "https://pbs.twimg.com/profile_images/1355979749571616769/EZvEIJIh_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260902194209_twitter_com_blackdoginmyhed_status_2095235850460401981.json": {
       "status": "done",
@@ -42271,7 +42290,7 @@
           "https://pbs.twimg.com/profile_images/2094165167647154176/UZIL-beS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:04"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260903113621_twitter_com_blackdoginmyhed_status_2095475983591809301.json": {
       "status": "unknown",
@@ -42285,7 +42304,7 @@
           "https://pbs.twimg.com/profile_images/2058273933015515136/k301BEZB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260904011917_twitter_com_blackdoginmyhed_status_2095683082783469983.json": {
       "status": "done",
@@ -42371,7 +42390,7 @@
           "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260904163341_twitter_com_blackdoginmyhed_status_2095913199837302911.json": {
       "status": "unknown",
@@ -42386,7 +42405,7 @@
           "https://pbs.twimg.com/profile_images/2077764420302929920/FjyKC7u9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260905015055_twitter_com_blackdoginmyhed_status_2096053429676474456.json": {
       "status": "unknown",
@@ -42398,7 +42417,7 @@
           "https://pbs.twimg.com/profile_images/2093894280461123584/b-za7uR6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260905045618_twitter_com_blackdoginmyhed_status_2096100082638537027.json": {
       "status": "unknown",
@@ -42412,7 +42431,7 @@
           "https://pbs.twimg.com/profile_images/2079481487536349184/ZE3vF4B-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260905074458_twitter_com_blackdoginmyhed_status_2096142529792291168.json": {
       "status": "done",
@@ -42465,7 +42484,7 @@
           "https://pbs.twimg.com/profile_images/2016391794335076353/j8Jakmi9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260906100431_twitter_com_blackdoginmyhed_status_2096540036791763021.json": {
       "status": "done",
@@ -42488,7 +42507,7 @@
           "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:02"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260906132240_twitter_com_blackdoginmyhed_status_2096589905803825336.json": {
       "status": "unknown",
@@ -42502,10 +42521,10 @@
           "https://pbs.twimg.com/profile_images/2095893504639815680/2WeaKVvj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:04"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260906151722_twitter_com_blackdoginmyhed_status_2096618767023505755.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -42515,10 +42534,10 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:39"
     },
     "20260906151827_twitter_com_blackdoginmyhed_status_2096619042211762550.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -42528,7 +42547,7 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:40"
     },
     "20260906201613_twitter_com_blackdoginmyhed_status_2096693975902249403.json": {
       "status": "unknown",
@@ -42540,7 +42559,7 @@
           "https://pbs.twimg.com/profile_images/2082628523630497792/5pbNBb2m_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260907034455_twitter_com_blackdoginmyhed_status_2096806897374687474.json": {
       "status": "done",
@@ -42580,7 +42599,7 @@
           "https://pbs.twimg.com/profile_images/2092705722962518016/JU1IfLPV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260907145802_twitter_com_blackdoginmyhed_status_2096976292424061433.json": {
       "status": "unknown",
@@ -42594,7 +42613,7 @@
           "https://pbs.twimg.com/profile_images/1364178615198359559/B9Y-IiE9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260908021704_twitter_com_blackdoginmyhed_status_2097147174094287208.json": {
       "status": "done",
@@ -42622,7 +42641,7 @@
           "https://pbs.twimg.com/profile_images/1711844188294107136/3AG4dkla_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260909110616_twitter_com_blackdoginmyhed_status_2097642741740212300.json": {
       "status": "done",
@@ -42650,7 +42669,7 @@
           "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260909141059_twitter_com_blackdoginmyhed_status_2097689225835483599.json": {
       "status": "unknown",
@@ -42663,7 +42682,7 @@
           "https://pbs.twimg.com/profile_images/1829798560667254785/TZlTiHtg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910004449_twitter_com_blackdoginmyhed_status_2097848737381126603.json": {
       "status": "unknown",
@@ -42678,7 +42697,7 @@
           "https://pbs.twimg.com/profile_images/1970840504532455427/zYMG0_OI_normal.png"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910011719_twitter_com_blackdoginmyhed_status_2097856914810122509.json": {
       "status": "unknown",
@@ -42692,7 +42711,7 @@
           "https://pbs.twimg.com/profile_images/2080433196961837056/rI59mlqU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910023315_twitter_com_blackdoginmyhed_status_2097876022775734689.json": {
       "status": "done",
@@ -42718,7 +42737,7 @@
           "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910040911_twitter_com_blackdoginmyhed_status_2097900166816964946.json": {
       "status": "unknown",
@@ -42732,7 +42751,7 @@
           "https://pbs.twimg.com/profile_images/723131327965331458/BLTDCVa2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910064821_twitter_com_blackdoginmyhed_status_2097940221702640006.json": {
       "status": "unknown",
@@ -42747,7 +42766,7 @@
           "https://pbs.twimg.com/profile_images/2093998716764200960/Yv0JxXOB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:04"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910072418_twitter_com_blackdoginmyhed_status_2097949268355248502.json": {
       "status": "unknown",
@@ -42761,7 +42780,7 @@
           "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910075003_twitter_com_blackdoginmyhed_status_2097955748219396104.json": {
       "status": "unknown",
@@ -42778,7 +42797,7 @@
           "https://pbs.twimg.com/profile_images/2042792255023640576/bYscXOM1_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:05"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260910150528_twitter_com_blackdoginmyhed_status_2098065327276085487.json": {
       "status": "done",
@@ -42807,7 +42826,7 @@
           "https://pbs.twimg.com/profile_images/2028213357376110592/HOennogq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260911091809_twitter_com_blackdoginmyhed_status_2098340310384627793.json": {
       "status": "done",
@@ -42834,7 +42853,7 @@
           "https://pbs.twimg.com/profile_images/2082358609686450176/uu8pzmR__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260911135646_twitter_com_blackdoginmyhed_status_2098410424840618205.json": {
       "status": "unknown",
@@ -42848,7 +42867,7 @@
           "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:04"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260913102154_twitter_com_blackdoginmyhed_status_2099081126707175863.json": {
       "status": "done",
@@ -42901,7 +42920,7 @@
       "last_updated": "2026-09-15T18:09:03"
     },
     "20260914003624_twitter_com_blackdoginmyhed_status_2099296167758802948.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -42912,7 +42931,7 @@
           "https://pbs.twimg.com/profile_images/1917928574494875648/K_eZFI7y_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:03"
+      "last_updated": "2026-09-15T18:17:38"
     },
     "20260914024157_twitter_com_blackdoginmyhed_status_2099327765787152487.json": {
       "status": "unknown",
@@ -42926,7 +42945,7 @@
           "https://pbs.twimg.com/profile_images/2095351938733027328/Z2vmKRQW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:09:04"
+      "last_updated": "2026-09-15T18:17:38"
     }
   }
 }

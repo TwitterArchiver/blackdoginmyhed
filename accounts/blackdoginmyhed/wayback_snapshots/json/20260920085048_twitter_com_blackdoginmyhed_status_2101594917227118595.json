@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101376932235636737"
+      ],
+      "media_source_tweet_id": [
+        "2101377061487317386"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005928152298737664",
+          "name": "Cyberpunk 2077"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2101594917227118595",
+    "created_at": "2026-09-20T08:50:48.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101594917227118595"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 21,
+          "tag": "cyberpunk2077"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1696037526048260096",
+          "start": 3,
+          "username": "qingxingua94891"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mu68JKQFP",
+          "end": 71,
+          "expanded_url": "https://x.com/qingxingua94891/status/2101377061487317386/photo/1",
+          "media_key": "3_2101376932235636737",
+          "start": 48,
+          "url": "https://t.co/4mu68JKQFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101594917227118595",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "3_2101376932235636737"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101377061487317386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qingxingua94891: #cyberpunk2077\nCyberpsycho https://t.co/4mu68JKQFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101376932235636737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmXL7Ea8AErx4K.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101376932235636737"
+          ],
+          "media_source_tweet_id": [
+            "2101377061487317386"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2101594917227118595",
+        "created_at": "2026-09-20T08:50:48.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101594917227118595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "cyberpunk2077"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1696037526048260096",
+              "start": 3,
+              "username": "qingxingua94891"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mu68JKQFP",
+              "end": 71,
+              "expanded_url": "https://x.com/qingxingua94891/status/2101377061487317386/photo/1",
+              "media_key": "3_2101376932235636737",
+              "start": 48,
+              "url": "https://t.co/4mu68JKQFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101594917227118595",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2101376932235636737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101377061487317386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qingxingua94891: #cyberpunk2077\nCyberpsycho https://t.co/4mu68JKQFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101376932235636737"
+          ]
+        },
+        "author_id": "1696037526048260096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2101377061487317386",
+        "created_at": "2026-09-19T18:25:07.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101377061487317386"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "cyberpunk2077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mu68JKQFP",
+              "end": 50,
+              "expanded_url": "https://x.com/qingxingua94891/status/2101377061487317386/photo/1",
+              "media_key": "3_2101376932235636737",
+              "start": 27,
+              "url": "https://t.co/4mu68JKQFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101377061487317386",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2101376932235636737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 6777,
+          "like_count": 1087,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "#cyberpunk2077\nCyberpsycho https://t.co/4mu68JKQFP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2101594917227118595",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 661,
+          "like_count": 5942,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1575
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-28T05:50:47.000Z",
+        "description": "artist \nfanart/中文/English/🚫AI",
+        "id": "1696037526048260096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101377061487317386",
+        "name": "QINGY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1696037526048260096/1772505245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028660250442952704/OYemSrpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 30,
+          "like_count": 257,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "qingxingua94891",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

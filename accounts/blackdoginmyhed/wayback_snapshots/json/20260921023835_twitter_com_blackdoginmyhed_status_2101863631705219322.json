@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2101647233280348221",
+    "created_at": "2026-09-21T02:38:35.000Z",
+    "display_text_range": [
+      9,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101863631705219322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101863631705219322",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101647233280348221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 停止活动一段时间可能就会自己解开 不要发帖点赞什么的）我的号就是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2101647233280348221",
+        "created_at": "2026-09-21T02:38:35.000Z",
+        "display_text_range": [
+          9,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101863631705219322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101863631705219322",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101647233280348221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 停止活动一段时间可能就会自己解开 不要发帖点赞什么的）我的号就是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2101647233280348221",
+        "created_at": "2026-09-20T12:18:41.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101647233280348221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101647233280348221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无语这个影子封禁还没解"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 \n咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2101863631705219322",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 664,
+          "like_count": 5970,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1582
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？|  07 | INTP-T | ASD | BPD | 另一个我 @她 | @loveksyi | - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV4LqN | 互联网时光机 | 第三世界线 @ |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "loveksyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 115,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 92,
+                "url": "https://t.co/zQUuHV4LqN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIjWU"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2101819267394179300",
+        "name": "拜託",
+        "pinned_tweet_id": "2080253118928056811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1440268407249649668/1767103740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 740,
+          "like_count": 4328,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/exd5BvIjWU",
+        "username": "sjshb57",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

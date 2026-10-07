@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2100178883652005939",
+    "created_at": "2026-09-16T11:03:59.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100178883652005939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HarbourMuR_/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/HarbourMuR_/status/2100117598407188862",
+          "start": 3,
+          "url": "https://t.co/f4I7aHrtcK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100178883652005939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100117598407188862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "强强 https://t.co/f4I7aHrtcK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 224980,
+        "height": 720,
+        "media_key": "13_2100117434233675776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100117434233675776/img/l1Q1TOkdSrYwa-d_.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100117434233675776/vid/avc1/480x270/PsZfXHrJO5HHRtyg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100117434233675776/vid/avc1/640x360/3Df39D8KSz276xl7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100117434233675776/vid/avc1/1280x720/4qYxkmpIOn-gsgs4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100117434233675776/pl/3B0zmt5snRskSbuF.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2100178883652005939",
+        "created_at": "2026-09-16T11:03:59.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100178883652005939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HarbourMuR_/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/HarbourMuR_/status/2100117598407188862",
+              "start": 3,
+              "url": "https://t.co/f4I7aHrtcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100178883652005939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100117598407188862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "强强 https://t.co/f4I7aHrtcK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100117434233675776"
+          ]
+        },
+        "author_id": "1523441300644663299",
+        "conversation_id": "2100117598407188862",
+        "created_at": "2026-09-16T07:00:28.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100117598407188862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g73CgJQLly",
+              "end": 46,
+              "expanded_url": "https://x.com/HarbourMuR_/status/2100117598407188862/video/1",
+              "media_key": "13_2100117434233675776",
+              "start": 23,
+              "url": "https://t.co/g73CgJQLly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100117598407188862",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100117434233675776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 132,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "日月交替 铸一座钟...\n华北浪革 - 深海 https://t.co/g73CgJQLly"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2100178883652005939",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 664,
+          "like_count": 5887,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1568
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-08T23:14:54.000Z",
+        "description": "Bandcamp: LeteroMo｜\nI speak:中文/Eng/Deu｜Germanistik als Hauptfach｜\nBassist&Composer/thrash metal/ボカロ/emorock/emogaze/IndieDev/PixelArt/Pansexaul｜\n能和你做朋友很开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leteromo.bandcamp.com",
+                "end": 23,
+                "expanded_url": "http://leteromo.bandcamp.com",
+                "start": 0,
+                "url": "https://t.co/m9mXpmyvGb"
+              }
+            ]
+          }
+        },
+        "id": "1523441300644663299",
+        "is_identity_verified": false,
+        "location": "在你身边",
+        "most_recent_tweet_id": "2100117598407188862",
+        "name": "老摩",
+        "pinned_tweet_id": "2098361003901931761",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523441300644663299/1652052100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1303,
+          "like_count": 41528,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 3878
+        },
+        "url": "https://t.co/m9mXpmyvGb",
+        "username": "HarbourMuR_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

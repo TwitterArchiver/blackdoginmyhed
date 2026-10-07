@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2106695288773873753",
+    "created_at": "2026-10-04T10:37:52.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106695288773873753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AmriAkram93/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/AmriAkram93/status/2105372898009416003",
+          "start": 6,
+          "url": "https://t.co/hyizZAPDO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106695288773873753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105372898009416003",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老英雄来了 https://t.co/hyizZAPDO1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7173,
+        "height": 904,
+        "media_key": "13_2105372847459717120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105372847459717120/img/Vi8QdGIwcCytSUKa.jpg",
+        "public_metrics": {
+          "view_count": 402668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105372847459717120/vid/avc1/320x400/3k0GwbGHcLuoBIYI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105372847459717120/vid/avc1/480x602/Sqk5YTR2kqpnkzoz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105372847459717120/vid/avc1/720x904/sFebLD-j2DPwkmBw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105372847459717120/pl/H5m_GDnaTYhvdrll.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2106695288773873753",
+        "created_at": "2026-10-04T10:37:52.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106695288773873753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmriAkram93/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/AmriAkram93/status/2105372898009416003",
+              "start": 6,
+              "url": "https://t.co/hyizZAPDO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106695288773873753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105372898009416003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老英雄来了 https://t.co/hyizZAPDO1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105372847459717120"
+          ]
+        },
+        "author_id": "1987468909923209216",
+        "conversation_id": "2105372898009416003",
+        "created_at": "2026-09-30T19:03:09.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T20:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105372898009416003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWU2OWA1Kd",
+              "end": 91,
+              "expanded_url": "https://x.com/AmriAkram93/status/2105372898009416003/video/1",
+              "media_key": "13_2105372847459717120",
+              "start": 68,
+              "url": "https://t.co/hWU2OWA1Kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105372898009416003",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2105372847459717120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2141,
+          "impression_count": 896184,
+          "like_count": 24249,
+          "quote_count": 293,
+          "reply_count": 73,
+          "retweet_count": 2455
+        },
+        "reply_settings": "everyone",
+        "text": "J'ai un camarade qui a fait Mai 68 qui sera là sur le blocus demain https://t.co/hWU2OWA1Kd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2106695288773873753",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 664,
+          "like_count": 6120,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1612
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T10:35:37.000Z",
+        "description": "MJCF93, PCF93 ☭\n\n\"Regardez la Commune de Paris, c'était ça la dictature du prolétariat\"\n- Friedrich Engels, 1891",
+        "id": "1987468909923209216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106643085191184746",
+        "name": "Amri Akram",
+        "pinned_tweet_id": "2095931670046110194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987468909923209216/1767407512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098286358364135428/EA_eADnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 116,
+          "like_count": 43451,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 3149
+        },
+        "url": "",
+        "username": "AmriAkram93",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

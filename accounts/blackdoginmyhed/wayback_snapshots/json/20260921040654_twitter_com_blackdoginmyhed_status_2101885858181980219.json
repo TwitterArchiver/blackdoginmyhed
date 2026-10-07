@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2101869063689642290",
+    "created_at": "2026-09-21T04:06:54.000Z",
+    "display_text_range": [
+      13,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T05:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101885858181980219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2077073154141265920",
+          "start": 0,
+          "username": "Suicide_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101885858181980219",
+    "in_reply_to_user_id": "2077073154141265920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101880765068042278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suicide_ovo 好抽的 没爆珠是滤嘴调味 凉感比爆珠差一点 但是甜味一整根烟都很足 虽然不太像绿茶味（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2101869063689642290",
+        "created_at": "2026-09-21T04:06:54.000Z",
+        "display_text_range": [
+          13,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101885858181980219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2077073154141265920",
+              "start": 0,
+              "username": "Suicide_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101885858181980219",
+        "in_reply_to_user_id": "2077073154141265920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101880765068042278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suicide_ovo 好抽的 没爆珠是滤嘴调味 凉感比爆珠差一点 但是甜味一整根烟都很足 虽然不太像绿茶味（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077073154141265920",
+        "conversation_id": "2101869063689642290",
+        "created_at": "2026-09-21T03:46:40.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101880765068042278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101880765068042278",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101869063689642290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 這個中南海好抽嗎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 \n咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2101885858181980219",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 664,
+          "like_count": 5975,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T16:51:10.000Z",
+        "description": "一個發洩情緒的帳號/無性別\n立場：@akyola843",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "akyola843"
+              }
+            ]
+          }
+        },
+        "id": "2077073154141265920",
+        "is_identity_verified": false,
+        "location": "生死門",
+        "most_recent_tweet_id": "2101881116827554220",
+        "name": "cult片慘鼠npc",
+        "pinned_tweet_id": "2091033132501713012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077073154141265920/1784048265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079566125801586688/mwaX9gVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 97,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "Suicide_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106348559574683648"
+      ],
+      "media_source_tweet_id": [
+        "2106348567573209319"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2106555850462781867",
+    "created_at": "2026-10-04T01:23:47.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T02:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106555850462781867"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "ヤニねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870810175730597888",
+          "start": 3,
+          "username": "sonasu4914"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YWlXaOGY4L",
+          "end": 45,
+          "expanded_url": "https://x.com/sonasu4914/status/2106348567573209319/photo/1",
+          "media_key": "3_2106348559574683648",
+          "start": 22,
+          "url": "https://t.co/YWlXaOGY4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106555850462781867",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106348559574683648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106348567573209319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sonasu4914: #ヤニねこ https://t.co/YWlXaOGY4L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2106348559574683648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtA2uKa0AA2NJS.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106348559574683648"
+          ],
+          "media_source_tweet_id": [
+            "2106348567573209319"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2106555850462781867",
+        "created_at": "2026-10-04T01:23:47.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106555850462781867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870810175730597888",
+              "start": 3,
+              "username": "sonasu4914"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWlXaOGY4L",
+              "end": 45,
+              "expanded_url": "https://x.com/sonasu4914/status/2106348567573209319/photo/1",
+              "media_key": "3_2106348559574683648",
+              "start": 22,
+              "url": "https://t.co/YWlXaOGY4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106555850462781867",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106348559574683648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106348567573209319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sonasu4914: #ヤニねこ https://t.co/YWlXaOGY4L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106348559574683648"
+          ]
+        },
+        "author_id": "1870810175730597888",
+        "conversation_id": "2106348567573209319",
+        "created_at": "2026-10-03T11:40:07.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106348567573209319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWlXaOGY4L",
+              "end": 29,
+              "expanded_url": "https://x.com/sonasu4914/status/2106348567573209319/photo/1",
+              "media_key": "3_2106348559574683648",
+              "start": 6,
+              "url": "https://t.co/YWlXaOGY4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106348567573209319",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106348559574683648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 17270,
+          "like_count": 2506,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "#ヤニねこ https://t.co/YWlXaOGY4L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2106555850462781867",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 664,
+          "like_count": 6113,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T12:34:57.000Z",
+        "description": "EN/CN 低浮上\nよく自分のポスト消してます\noc/動画/音楽/音ゲー パカパカが好きです\n因中二节奏而来的人让你们失望了我孝的是ﾊﾟ开头的那个",
+        "id": "1870810175730597888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106485424860569671",
+        "name": "SONASU",
+        "pinned_tweet_id": "2003690966826529143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870810175730597888/1790425840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080015379049660416/xs9Jl35A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 84,
+          "like_count": 1598,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "sonasu4914",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

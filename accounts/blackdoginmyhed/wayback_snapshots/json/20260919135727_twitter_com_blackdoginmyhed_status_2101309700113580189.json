@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100875505750642688"
+      ],
+      "media_source_tweet_id": [
+        "2100875532170579991"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2101309700113580189",
+    "created_at": "2026-09-19T13:57:27.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101309700113580189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "304927343",
+          "start": 3,
+          "username": "m_aliii_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vwC5U5BEnl",
+          "end": 65,
+          "expanded_url": "https://x.com/delucenaoficial/status/2100875532170579991/video/1",
+          "media_key": "13_2100875505750642688",
+          "start": 42,
+          "url": "https://t.co/vwC5U5BEnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101309700113580189",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2100875505750642688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101056760496718263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m_aliii_: devri devranını skim dünya😺 https://t.co/vwC5U5BEnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10039,
+        "height": 830,
+        "media_key": "13_2100875505750642688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100875505750642688/img/aWgFITWX8uo95BT6.jpg",
+        "public_metrics": {
+          "view_count": 576368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100875505750642688/vid/avc1/320x368/f8O8kEc7VPuaxMfD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100875505750642688/vid/avc1/480x554/T6wh_a799jUoIYxa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100875505750642688/vid/avc1/718x830/oVK_Jja7VcmIIrN8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100875505750642688/pl/1aVg6qxf-xSYJPsH.m3u8?v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100875505750642688"
+          ],
+          "media_source_tweet_id": [
+            "2100875532170579991"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2101309700113580189",
+        "created_at": "2026-09-19T13:57:27.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101309700113580189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "304927343",
+              "start": 3,
+              "username": "m_aliii_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwC5U5BEnl",
+              "end": 65,
+              "expanded_url": "https://x.com/delucenaoficial/status/2100875532170579991/video/1",
+              "media_key": "13_2100875505750642688",
+              "start": 42,
+              "url": "https://t.co/vwC5U5BEnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101309700113580189",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2100875505750642688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101056760496718263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m_aliii_: devri devranını skim dünya😺 https://t.co/vwC5U5BEnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100875505750642688"
+          ],
+          "media_source_tweet_id": [
+            "2100875532170579991"
+          ]
+        },
+        "author_id": "304927343",
+        "conversation_id": "2101056760496718263",
+        "created_at": "2026-09-18T21:12:22.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101056760496718263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwC5U5BEnl",
+              "end": 51,
+              "expanded_url": "https://x.com/delucenaoficial/status/2100875532170579991/video/1",
+              "media_key": "13_2100875505750642688",
+              "start": 28,
+              "url": "https://t.co/vwC5U5BEnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101056760496718263",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2100875505750642688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 124453,
+          "like_count": 1672,
+          "quote_count": 30,
+          "reply_count": 26,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "devri devranını skim dünya😺 https://t.co/vwC5U5BEnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100875505750642688"
+          ]
+        },
+        "author_id": "1776602202775093248",
+        "conversation_id": "2100875532170579991",
+        "created_at": "2026-09-18T09:12:13.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100875532170579991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOtCrYXXVv",
+              "end": 89,
+              "expanded_url": "https://x.com/delucenaoficial/status/2100875532170579991/video/1",
+              "media_key": "13_2100875505750642688",
+              "start": 66,
+              "url": "https://t.co/wOtCrYXXVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100875532170579991",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2100875505750642688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4042,
+          "impression_count": 1185658,
+          "like_count": 13815,
+          "quote_count": 246,
+          "reply_count": 173,
+          "retweet_count": 2095
+        },
+        "reply_settings": "everyone",
+        "text": "Luxo na vida é não ter ninguém danificando o seu sistema nervoso. https://t.co/wOtCrYXXVv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2101309700113580189",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 664,
+          "like_count": 5918,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-25T10:32:09.000Z",
+        "description": "''Size sesleniyorum... Unutmayın ki; en büyük savaş, cehalete ve gericiliğe karşı yapılan savaştır.'' Mustafa Kemal Atatürk",
+        "id": "304927343",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101309604864958915",
+        "name": "Ali✨",
+        "pinned_tweet_id": "1581740361453486081",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/304927343/1646577920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094887803196682240/uSJ-PM6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 1103,
+          "like_count": 71891,
+          "listed_count": 1,
+          "media_count": 3601,
+          "tweet_count": 46791
+        },
+        "url": "",
+        "username": "m_aliii_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

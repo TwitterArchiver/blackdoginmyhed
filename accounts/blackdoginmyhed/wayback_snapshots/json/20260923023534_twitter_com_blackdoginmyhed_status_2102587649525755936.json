@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102130689042722816"
+      ],
+      "media_source_tweet_id": [
+        "2102130779086069790"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Folk",
+          "id": "884775851589419008",
+          "name": "Folk music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Folk",
+          "id": "884775851589419008",
+          "name": "Folk music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286017614041329665",
+          "name": "Folk & acoustic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2102587649525755936",
+    "created_at": "2026-09-23T02:35:34.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T03:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102587649525755936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047234743486263296",
+          "start": 3,
+          "username": "DeezLeezn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/et2DIvGpMV",
+          "end": 61,
+          "expanded_url": "https://x.com/DeezLeezn/status/2102130779086069790/video/1",
+          "media_key": "13_2102130689042722816",
+          "start": 38,
+          "url": "https://t.co/et2DIvGpMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102587649525755936",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2102130689042722816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102130779086069790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeezLeezn: second times the charm https://t.co/et2DIvGpMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61700,
+        "height": 776,
+        "media_key": "13_2102130689042722816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102130689042722816/img/VxDd0W5-0xLymyfU.jpg",
+        "public_metrics": {
+          "view_count": 7170
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102130689042722816/vid/avc1/320x516/Qv6W6rlaN2epcNOT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102130689042722816/vid/avc1/480x776/YzusHE3cXNhMBSjv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102130689042722816/pl/Up6-FluqY_n6zmFo.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102130689042722816"
+          ],
+          "media_source_tweet_id": [
+            "2102130779086069790"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286017614041329665",
+              "name": "Folk & acoustic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2102587649525755936",
+        "created_at": "2026-09-23T02:35:34.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102587649525755936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047234743486263296",
+              "start": 3,
+              "username": "DeezLeezn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/et2DIvGpMV",
+              "end": 61,
+              "expanded_url": "https://x.com/DeezLeezn/status/2102130779086069790/video/1",
+              "media_key": "13_2102130689042722816",
+              "start": 38,
+              "url": "https://t.co/et2DIvGpMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102587649525755936",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102130689042722816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102130779086069790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeezLeezn: second times the charm https://t.co/et2DIvGpMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102130689042722816"
+          ]
+        },
+        "author_id": "2047234743486263296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286017614041329665",
+              "name": "Folk & acoustic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2102130779086069790",
+        "created_at": "2026-09-21T20:20:08.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102130779086069790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/et2DIvGpMV",
+              "end": 46,
+              "expanded_url": "https://x.com/DeezLeezn/status/2102130779086069790/video/1",
+              "media_key": "13_2102130689042722816",
+              "start": 23,
+              "url": "https://t.co/et2DIvGpMV"
+            },
+            {
+              "display_url": "x.com/bourglor/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/bourglor/status/2101987834198397334",
+              "start": 47,
+              "url": "https://t.co/NTJXccOilF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102130779086069790",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102130689042722816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 18782,
+          "like_count": 1096,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101987834198397334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "second times the charm https://t.co/et2DIvGpMV https://t.co/NTJXccOilF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 \n咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2102587649525755936",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 665,
+          "like_count": 5985,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T08:43:32.000Z",
+        "description": "when michael jackson visits the middle east and becomes sheikh“سموذ كريمينال\"            i am a minor                nsfw pdf didy DNI",
+        "id": "2047234743486263296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102516144493994187",
+        "name": "Deez Leezn",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047234743486263296/1779390366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083887852765544448/bsUduBp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 125,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1433
+        },
+        "url": "",
+        "username": "DeezLeezn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106414680378109952"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2106414690050162751",
+    "created_at": "2026-10-03T16:02:52.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106414690050162751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sE1Hd2agoI",
+          "end": 39,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2106414690050162751/photo/1",
+          "media_key": "3_2106414680378109952",
+          "start": 16,
+          "url": "https://t.co/sE1Hd2agoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106414690050162751",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106414680378109952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日份耍起没的吃就只能吃这个了 https://t.co/sE1Hd2agoI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2106414680378109952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt8_dWa8AAnw0B.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106414680378109952"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2106414690050162751",
+        "created_at": "2026-10-03T16:02:52.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106414690050162751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sE1Hd2agoI",
+              "end": 39,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2106414690050162751/photo/1",
+              "media_key": "3_2106414680378109952",
+              "start": 16,
+              "url": "https://t.co/sE1Hd2agoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106414690050162751",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106414680378109952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份耍起没的吃就只能吃这个了 https://t.co/sE1Hd2agoI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2106414690050162751",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 664,
+          "like_count": 6107,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1609
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

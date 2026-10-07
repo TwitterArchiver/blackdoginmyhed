@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2101858949335253277",
+    "created_at": "2026-09-21T02:19:58.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101858949335253277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SherryJxpbp/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/SherryJxpbp/status/2101671244395618449",
+          "start": 6,
+          "url": "https://t.co/7OxsvU7z9L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101858949335253277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101671244395618449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草心动了 https://t.co/7OxsvU7z9L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101671233955979264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqi2iaaYAAtSbC.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2101858949335253277",
+        "created_at": "2026-09-21T02:19:58.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101858949335253277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SherryJxpbp/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/SherryJxpbp/status/2101671244395618449",
+              "start": 6,
+              "url": "https://t.co/7OxsvU7z9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101858949335253277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101671244395618449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草心动了 https://t.co/7OxsvU7z9L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101671233955979264"
+          ]
+        },
+        "author_id": "1879799070254096386",
+        "conversation_id": "2101671244395618449",
+        "created_at": "2026-09-20T13:54:06.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101671244395618449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSGtfaiekg",
+              "end": 32,
+              "expanded_url": "https://x.com/SherryJxpbp/status/2101671244395618449/photo/1",
+              "media_key": "3_2101671233955979264",
+              "start": 9,
+              "url": "https://t.co/CSGtfaiekg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101671244395618449",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101671233955979264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17196,
+          "like_count": 254,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "这个我是真想要。 https://t.co/CSGtfaiekg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 \n咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2101858949335253277",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 664,
+          "like_count": 5968,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…互关可➕v \n防丢失小号：@Sherrysh2d \n定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Sherrysh2d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 104,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 81,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "is_identity_verified": false,
+        "location": "🚪88/188",
+        "most_recent_tweet_id": "2101752250200998008",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2064687600393466065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879799070254096386/1737031936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074071258590011392/mgyQIZMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8212,
+          "following_count": 385,
+          "like_count": 8682,
+          "listed_count": 20,
+          "media_count": 425,
+          "tweet_count": 5405
+        },
+        "url": "",
+        "username": "SherryJxpbp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

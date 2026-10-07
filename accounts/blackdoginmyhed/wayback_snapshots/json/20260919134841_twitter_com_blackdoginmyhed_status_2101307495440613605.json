@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2101225476182462825",
+    "created_at": "2026-09-19T13:48:41.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101307495440613605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1262416576617148417",
+          "start": 0,
+          "username": "Ame8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101307495440613605",
+    "in_reply_to_user_id": "1262416576617148417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101305810387456179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ame8964 有点小贵）不过线下也能理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2101225476182462825",
+        "created_at": "2026-09-19T13:48:41.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101307495440613605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1262416576617148417",
+              "start": 0,
+              "username": "Ame8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101307495440613605",
+        "in_reply_to_user_id": "1262416576617148417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101305810387456179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ame8964 有点小贵）不过线下也能理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262416576617148417",
+        "conversation_id": "2101225476182462825",
+        "created_at": "2026-09-19T13:42:00.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101305810387456179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101305810387456179",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101305702140846238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 在罗湖商业城买的 ¥95一根"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2101307495440613605",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 664,
+          "like_count": 5918,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1572
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-18T16:15:51.000Z",
+        "description": "-小雨\n-哎嗯踢批\n-烟鬼\n-10年 港人（518964）（拒小粉紅）\n-顺直女 有顺直男朋友（1i）\n-我是爱慕可是男友也是爱慕怎么办\n-LGBTQ+全包容\n-乌蒙批 世画批",
+        "id": "1262416576617148417",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101305810387456179",
+        "name": "Ame",
+        "pinned_tweet_id": "2069131487778381862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262416576617148417/1788672556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073133252756545536/49GQi9P1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 99,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "Ame8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

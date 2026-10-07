@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2105921105513070966",
+    "created_at": "2026-10-02T07:21:32.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105921105513070966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuliang198241/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xuliang198241/status/2105186323518865587",
+          "start": 3,
+          "url": "https://t.co/OMWJPeTlO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105921105513070966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105186323518865587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "闹麻 https://t.co/OMWJPeTlO5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2105921105513070966",
+        "created_at": "2026-10-02T07:21:32.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105921105513070966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuliang198241/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xuliang198241/status/2105186323518865587",
+              "start": 3,
+              "url": "https://t.co/OMWJPeTlO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105921105513070966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105186323518865587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闹麻 https://t.co/OMWJPeTlO5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878945386754396160",
+        "conversation_id": "2105186323518865587",
+        "created_at": "2026-09-30T06:41:46.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105186323518865587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105186323518865587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 74273,
+          "like_count": 119,
+          "quote_count": 36,
+          "reply_count": 207,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "认真说个事：\n蓝V关注你，回关是最基本的礼貌。\n有人关注完就当没这回事，隔一天都不回关。\n别自我感动了。\n人家关注你，真不是因为你写得好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2105921105513070966",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 663,
+          "like_count": 6086,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1607
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-13T23:21:14.000Z",
+        "description": "中年转来 X，边用边记。\n蓝 V，还在找自己的节奏。\n不教涨粉，只写我真正在做的事。",
+        "id": "1878945386754396160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105907756586946594",
+        "name": "@良子",
+        "pinned_tweet_id": "2105832059973566702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878945386754396160/1789469410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878945529394298880/I4eDTmwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5613,
+          "following_count": 6113,
+          "like_count": 10338,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 5938
+        },
+        "url": "",
+        "username": "xuliang198241",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

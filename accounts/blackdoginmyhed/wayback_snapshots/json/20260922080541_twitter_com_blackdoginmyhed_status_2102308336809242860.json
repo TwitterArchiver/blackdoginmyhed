@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102308332279414784"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2102243413110501820",
+    "created_at": "2026-09-22T08:05:41.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102308336809242860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972304204619513856",
+          "start": 0,
+          "username": "chiharu_orange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zd2SYCKscz",
+          "end": 52,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2102308336809242860/photo/1",
+          "media_key": "3_2102308332279414784",
+          "start": 29,
+          "url": "https://t.co/Zd2SYCKscz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102308336809242860",
+    "in_reply_to_user_id": "1972304204619513856",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102308332279414784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102243413110501820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiharu_orange 吸烟是什么很奢侈的事情吗 https://t.co/Zd2SYCKscz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 50,
+        "media_key": "3_2102308332279414784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzmSinbwAAb34_.jpg",
+        "width": 50
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102308332279414784"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2102243413110501820",
+        "created_at": "2026-09-22T08:05:41.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102308336809242860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972304204619513856",
+              "start": 0,
+              "username": "chiharu_orange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zd2SYCKscz",
+              "end": 52,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2102308336809242860/photo/1",
+              "media_key": "3_2102308332279414784",
+              "start": 29,
+              "url": "https://t.co/Zd2SYCKscz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102308336809242860",
+        "in_reply_to_user_id": "1972304204619513856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102308332279414784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102243413110501820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiharu_orange 吸烟是什么很奢侈的事情吗 https://t.co/Zd2SYCKscz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972304204619513856",
+        "conversation_id": "2102243413110501820",
+        "created_at": "2026-09-22T03:47:42.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102243413110501820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102243413110501820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸烟也可以拿学费减免的都来了\n这根烟不吸会死是吗？\n缓解压力的方式不止吸烟一种，非要选花钱的呗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 \n咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2102308336809242860",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 665,
+          "like_count": 5984,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1585
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-28T14:15:47.000Z",
+        "description": "18↑⚠内有死鸽与腐肉⚠\nInformation Forager 🐭 天龙老鼠人\n｜oc口嗨 #橘眠记事本｜和安知 #安知我\n*在这里发的所有东西不会也不应该出现在墙内的sns\n*如果你觉得我的存在让你不舒服，我故意的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "橘眠记事本"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "安知我"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzhi-ehzo.com",
+                "end": 23,
+                "expanded_url": "https://anzhi-ehzo.com/",
+                "start": 0,
+                "url": "https://t.co/Z7dpIO27m0"
+              }
+            ]
+          }
+        },
+        "id": "1972304204619513856",
+        "is_identity_verified": false,
+        "location": "阴暗的角落",
+        "most_recent_tweet_id": "2102293685149011987",
+        "name": "橘眠",
+        "pinned_tweet_id": "2045802022709199203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972304204619513856/1784946856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973012959770312704/NDQU4tyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 74,
+          "like_count": 26337,
+          "listed_count": 0,
+          "media_count": 501,
+          "tweet_count": 3068
+        },
+        "url": "https://t.co/Z7dpIO27m0",
+        "username": "chiharu_orange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105320746331590656",
+        "3_2105320745375354881",
+        "3_2105320746465837056",
+        "3_2105320746428100609"
+      ],
+      "media_source_tweet_id": [
+        "2105341911640731928",
+        "2105341911640731928",
+        "2105341911640731928",
+        "2105341911640731928"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105350053422678213",
+    "created_at": "2026-09-30T17:32:22.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T18:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105350053422678213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866513583850532864",
+          "start": 3,
+          "username": "Mrgreeenart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzjV0LGCAY",
+          "end": 59,
+          "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+          "media_key": "3_2105320746331590656",
+          "start": 36,
+          "url": "https://t.co/yzjV0LGCAY"
+        },
+        {
+          "display_url": "pic.x.com/yzjV0LGCAY",
+          "end": 59,
+          "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+          "media_key": "3_2105320745375354881",
+          "start": 36,
+          "url": "https://t.co/yzjV0LGCAY"
+        },
+        {
+          "display_url": "pic.x.com/yzjV0LGCAY",
+          "end": 59,
+          "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+          "media_key": "3_2105320746465837056",
+          "start": 36,
+          "url": "https://t.co/yzjV0LGCAY"
+        },
+        {
+          "display_url": "pic.x.com/yzjV0LGCAY",
+          "end": 59,
+          "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+          "media_key": "3_2105320746428100609",
+          "start": 36,
+          "url": "https://t.co/yzjV0LGCAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105350053422678213",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "alt_text": "Happy birthday D 💙",
+        "media_key": "3_2105320746331590656"
+      },
+      {
+        "media_key": "3_2105320745375354881"
+      },
+      {
+        "media_key": "3_2105320746465837056"
+      },
+      {
+        "media_key": "3_2105320746428100609"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105341911640731928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mrgreeenart: Hello! Night city. https://t.co/yzjV0LGCAY"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Happy birthday D 💙",
+        "height": 2901,
+        "media_key": "3_2105320746331590656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeaEHda0AAdocD.jpg",
+        "width": 1815
+      },
+      {
+        "height": 2901,
+        "media_key": "3_2105320745375354881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeaED5b0AEMtvY.jpg",
+        "width": 1815
+      },
+      {
+        "height": 2901,
+        "media_key": "3_2105320746465837056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeaEH9bQAA3JUc.jpg",
+        "width": 1815
+      },
+      {
+        "height": 2901,
+        "media_key": "3_2105320746428100609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeaEH0bcAECEaH.jpg",
+        "width": 1815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105320746331590656",
+            "3_2105320745375354881",
+            "3_2105320746465837056",
+            "3_2105320746428100609"
+          ],
+          "media_source_tweet_id": [
+            "2105341911640731928",
+            "2105341911640731928",
+            "2105341911640731928",
+            "2105341911640731928"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105350053422678213",
+        "created_at": "2026-09-30T17:32:22.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105350053422678213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866513583850532864",
+              "start": 3,
+              "username": "Mrgreeenart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 59,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320746331590656",
+              "start": 36,
+              "url": "https://t.co/yzjV0LGCAY"
+            },
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 59,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320745375354881",
+              "start": 36,
+              "url": "https://t.co/yzjV0LGCAY"
+            },
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 59,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320746465837056",
+              "start": 36,
+              "url": "https://t.co/yzjV0LGCAY"
+            },
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 59,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320746428100609",
+              "start": 36,
+              "url": "https://t.co/yzjV0LGCAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105350053422678213",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "Happy birthday D 💙",
+            "media_key": "3_2105320746331590656"
+          },
+          {
+            "media_key": "3_2105320745375354881"
+          },
+          {
+            "media_key": "3_2105320746465837056"
+          },
+          {
+            "media_key": "3_2105320746428100609"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105341911640731928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mrgreeenart: Hello! Night city. https://t.co/yzjV0LGCAY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105320746331590656",
+            "3_2105320745375354881",
+            "3_2105320746465837056",
+            "3_2105320746428100609"
+          ]
+        },
+        "author_id": "1866513583850532864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105341911640731928",
+        "created_at": "2026-09-30T17:00:01.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105341911640731928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 42,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320746331590656",
+              "start": 19,
+              "url": "https://t.co/yzjV0LGCAY"
+            },
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 42,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320745375354881",
+              "start": 19,
+              "url": "https://t.co/yzjV0LGCAY"
+            },
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 42,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320746465837056",
+              "start": 19,
+              "url": "https://t.co/yzjV0LGCAY"
+            },
+            {
+              "display_url": "pic.x.com/yzjV0LGCAY",
+              "end": 42,
+              "expanded_url": "https://x.com/Mrgreeenart/status/2105341911640731928/photo/1",
+              "media_key": "3_2105320746428100609",
+              "start": 19,
+              "url": "https://t.co/yzjV0LGCAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105341911640731928",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "Happy birthday D 💙",
+            "media_key": "3_2105320746331590656"
+          },
+          {
+            "media_key": "3_2105320745375354881"
+          },
+          {
+            "media_key": "3_2105320746465837056"
+          },
+          {
+            "media_key": "3_2105320746428100609"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 266,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Hello! Night city. https://t.co/yzjV0LGCAY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2105350053422678213",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 664,
+          "like_count": 6067,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T16:01:47.000Z",
+        "description": "• it is what it is\n\n• currently: Cyberpunk\n• ⚠️ Repost w/ credit !\n• 💌 Comms: CLOSED. (D̶M̶ ̶/̶ ̶v̶i̶s̶i̶t̶ ̶:̶ ̶L̶i̶n̶k̶^̶^̶)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "artistree.io/mr.green",
+                "end": 23,
+                "expanded_url": "https://artistree.io/mr.green",
+                "start": 0,
+                "url": "https://t.co/icvj6eyEXG"
+              }
+            ]
+          }
+        },
+        "id": "1866513583850532864",
+        "is_identity_verified": false,
+        "location": "🐢",
+        "most_recent_tweet_id": "2105341911640731928",
+        "name": "Mr.Greeen",
+        "pinned_tweet_id": "2093341060584165593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866513583850532864/1788336650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084614671383056384/vHcPdy0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1,
+          "like_count": 318,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/icvj6eyEXG",
+        "username": "Mrgreeenart",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

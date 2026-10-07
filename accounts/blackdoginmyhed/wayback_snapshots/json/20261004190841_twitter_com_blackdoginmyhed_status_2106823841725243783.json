@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2106823829276528640"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2106641301110505558",
+    "created_at": "2026-10-04T19:08:41.000Z",
+    "display_text_range": [
+      11,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T20:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106823841725243783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2086918899363438592",
+          "start": 0,
+          "username": "rolande19t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p9CYaTWWG9",
+          "end": 35,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2106823841725243783/photo/1",
+          "media_key": "16_2106823829276528640",
+          "start": 12,
+          "url": "https://t.co/p9CYaTWWG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106823841725243783",
+    "in_reply_to_user_id": "2086918899363438592",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2106823829276528640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106641301110505558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rolande19t https://t.co/p9CYaTWWG9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "16_2106823829276528640",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTzxHDxbEAAhoR7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTzxHDxbEAAhoR7.mp4"
+          }
+        ],
+        "width": 192
+      },
+      {
+        "height": 360,
+        "media_key": "3_2106641294064078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxLGHHb0AAK0wk.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106823829276528640"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2106641301110505558",
+        "created_at": "2026-10-04T19:08:41.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T20:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106823841725243783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2086918899363438592",
+              "start": 0,
+              "username": "rolande19t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9CYaTWWG9",
+              "end": 35,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2106823841725243783/photo/1",
+              "media_key": "16_2106823829276528640",
+              "start": 12,
+              "url": "https://t.co/p9CYaTWWG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106823841725243783",
+        "in_reply_to_user_id": "2086918899363438592",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2106823829276528640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106641301110505558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rolande19t https://t.co/p9CYaTWWG9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106641294064078848"
+          ]
+        },
+        "author_id": "2086918899363438592",
+        "conversation_id": "2106641301110505558",
+        "created_at": "2026-10-04T07:03:20.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106641301110505558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9QzyqQtpC",
+              "end": 62,
+              "expanded_url": "https://x.com/rolande19t/status/2106641301110505558/photo/1",
+              "media_key": "3_2106641294064078848",
+              "start": 39,
+              "url": "https://t.co/r9QzyqQtpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106641301110505558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106641294064078848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 78069,
+          "like_count": 2477,
+          "quote_count": 11,
+          "reply_count": 85,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "那种兔子操操操的表情包到底哪里来的魔力，我看一个乐一个\n\n操得发了狠忘了情了 https://t.co/r9QzyqQtpC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2106823841725243783",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 669,
+          "like_count": 6136,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T20:57:06.000Z",
+        "description": "一般路过的荤素不忌抖m压抑女子，搞同人和发表压抑言论的账号\n互联网流浪狗，私信随意♡不过最近很忙不一定会看xd",
+        "id": "2086918899363438592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106816734288384090",
+        "name": "rolyyy",
+        "pinned_tweet_id": "2101012434718990673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086918899363438592/1790073719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102336385818718208/t_10ri9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 71,
+          "like_count": 3348,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "rolande19t",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

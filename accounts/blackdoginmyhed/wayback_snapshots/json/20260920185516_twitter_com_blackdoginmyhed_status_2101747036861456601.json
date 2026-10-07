@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101747031215894528"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101656174815023559",
+    "created_at": "2026-09-20T18:55:16.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T19:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101747036861456601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure8964a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CkqK5wPdkK",
+          "end": 53,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2101747036861456601/photo/1",
+          "media_key": "3_2101747031215894528",
+          "start": 30,
+          "url": "https://t.co/CkqK5wPdkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101747036861456601",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101747031215894528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101656174815023559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure8964a 我们中国共产党真是共共又产产啊 https://t.co/CkqK5wPdkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2101747031215894528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrnyhNa8AAanXc.jpg",
+        "width": 1200
+      },
+      {
+        "height": 312,
+        "media_key": "3_2101656162555068416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqVJREbAAASoWJ.png",
+        "width": 493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101747031215894528"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101656174815023559",
+        "created_at": "2026-09-20T18:55:16.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101747036861456601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure8964a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkqK5wPdkK",
+              "end": 53,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2101747036861456601/photo/1",
+              "media_key": "3_2101747031215894528",
+              "start": 30,
+              "url": "https://t.co/CkqK5wPdkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101747036861456601",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101747031215894528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101656174815023559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure8964a 我们中国共产党真是共共又产产啊 https://t.co/CkqK5wPdkK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101656162555068416"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2101656174815023559",
+        "created_at": "2026-09-20T12:54:13.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101656174815023559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OLIRyXgif",
+              "end": 32,
+              "expanded_url": "https://x.com/shigure8964a/status/2101656174815023559/photo/1",
+              "media_key": "3_2101656162555068416",
+              "start": 9,
+              "url": "https://t.co/4OLIRyXgif"
+            },
+            {
+              "display_url": "x.com/mcmc135790/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mcmc135790/status/2101632320516022772",
+              "start": 33,
+              "url": "https://t.co/0h9dvkWpWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101656174815023559",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101656162555068416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1615,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101632320516022772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么阶级说什么话 https://t.co/4OLIRyXgif https://t.co/0h9dvkWpWM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 \n咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2101747036861456601",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 664,
+          "like_count": 5959,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "📕🌈|INTP-A|自发毛主义|左翼共产主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "is_identity_verified": false,
+        "location": "中华公社",
+        "most_recent_tweet_id": "2101688578355171352",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986828541930119168/1773817315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098459667295010816/QUzqGoEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 714,
+          "like_count": 8984,
+          "listed_count": 8,
+          "media_count": 776,
+          "tweet_count": 10353
+        },
+        "url": "",
+        "username": "shigure8964a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

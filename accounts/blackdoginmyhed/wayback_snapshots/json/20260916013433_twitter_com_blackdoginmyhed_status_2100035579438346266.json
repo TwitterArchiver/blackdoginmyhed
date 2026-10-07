@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089834772306493440"
+      ],
+      "media_source_tweet_id": [
+        "2089834794628636747"
+      ]
+    },
+    "author_id": "1951181920022437889",
+    "conversation_id": "2100035579438346266",
+    "created_at": "2026-09-16T01:34:33.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100035579438346266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1410272604259241990",
+          "start": 3,
+          "username": "ssonettos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MDpMETu68",
+          "end": 119,
+          "expanded_url": "https://x.com/cel0fc/status/2089834794628636747/video/1",
+          "media_key": "13_2089834772306493440",
+          "start": 96,
+          "url": "https://t.co/5MDpMETu68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100035579438346266",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2089834772306493440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15790
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099864500916617490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssonettos: Andando com o celular na mão porque se eu colocar no bolso a calça começa a cair https://t.co/5MDpMETu68"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7060,
+        "height": 686,
+        "media_key": "13_2089834772306493440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089834772306493440/img/cIvH9YzFNg3JNFWq.jpg",
+        "public_metrics": {
+          "view_count": 1357671
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089834772306493440/vid/avc1/282x270/iqeLcmzLDvZsiuvK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089834772306493440/vid/avc1/376x360/7r5op2E4lY1ne1yT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089834772306493440/vid/avc1/720x686/sYcpHP27wfWKlfhQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089834772306493440/pl/j_wcve7UNCZ5hATr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089834772306493440"
+          ],
+          "media_source_tweet_id": [
+            "2089834794628636747"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2100035579438346266",
+        "created_at": "2026-09-16T01:34:33.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100035579438346266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1410272604259241990",
+              "start": 3,
+              "username": "ssonettos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MDpMETu68",
+              "end": 119,
+              "expanded_url": "https://x.com/cel0fc/status/2089834794628636747/video/1",
+              "media_key": "13_2089834772306493440",
+              "start": 96,
+              "url": "https://t.co/5MDpMETu68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100035579438346266",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2089834772306493440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15790
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099864500916617490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssonettos: Andando com o celular na mão porque se eu colocar no bolso a calça começa a cair https://t.co/5MDpMETu68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089834772306493440"
+          ],
+          "media_source_tweet_id": [
+            "2089834794628636747"
+          ]
+        },
+        "author_id": "1410272604259241990",
+        "conversation_id": "2099864500916617490",
+        "created_at": "2026-09-15T14:14:45.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099864500916617490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MDpMETu68",
+              "end": 104,
+              "expanded_url": "https://x.com/cel0fc/status/2089834794628636747/video/1",
+              "media_key": "13_2089834772306493440",
+              "start": 81,
+              "url": "https://t.co/5MDpMETu68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099864500916617490",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2089834772306493440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3641,
+          "impression_count": 796751,
+          "like_count": 101213,
+          "quote_count": 1516,
+          "reply_count": 352,
+          "retweet_count": 15790
+        },
+        "reply_settings": "everyone",
+        "text": "Andando com o celular na mão porque se eu colocar no bolso a calça começa a cair https://t.co/5MDpMETu68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089834772306493440"
+          ]
+        },
+        "author_id": "1176119653053210624",
+        "conversation_id": "2089834794628636747",
+        "created_at": "2026-08-18T22:00:16.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089834794628636747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihabJeisFf",
+              "end": 70,
+              "expanded_url": "https://x.com/cel0fc/status/2089834794628636747/video/1",
+              "media_key": "13_2089834772306493440",
+              "start": 47,
+              "url": "https://t.co/ihabJeisFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089834794628636747",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2089834772306493440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5056,
+          "impression_count": 2109125,
+          "like_count": 114260,
+          "quote_count": 1361,
+          "reply_count": 443,
+          "retweet_count": 10913
+        },
+        "reply_settings": "everyone",
+        "text": "acabei de descobrir que chorar queima calorias https://t.co/ihabJeisFf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2100035579438346266",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 664,
+          "like_count": 5885,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-30T16:22:54.000Z",
+        "description": "` Honkai: Star Rail ` Wild Rift ` BS ` ZZZ                                       Aglaea, Yao, Elysia, Cyrene, Belle & Caelus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lapiseira.straw.page",
+                "end": 23,
+                "expanded_url": "https://lapiseira.straw.page/",
+                "start": 0,
+                "url": "https://t.co/hbC9tDqBIV"
+              }
+            ]
+          }
+        },
+        "id": "1410272604259241990",
+        "is_identity_verified": false,
+        "location": "ele/dele",
+        "most_recent_tweet_id": "2100029029864645073",
+        "name": "ᤢᤢLapis | ꩜",
+        "pinned_tweet_id": "1885855616616301025",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410272604259241990/1789246279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098981880548966400/fJKn20hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 789,
+          "like_count": 32949,
+          "listed_count": 5,
+          "media_count": 8242,
+          "tweet_count": 29278
+        },
+        "url": "https://t.co/hbC9tDqBIV",
+        "username": "ssonettos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

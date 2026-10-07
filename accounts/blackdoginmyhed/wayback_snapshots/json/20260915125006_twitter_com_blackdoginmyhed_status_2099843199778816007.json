@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "conversation_id": "2099837448503415098",
+    "created_at": "2026-09-15T12:50:06.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099843199778816007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1679788677583765505",
+          "start": 0,
+          "username": "YlYpBKkt3257198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099843199778816007",
+    "in_reply_to_user_id": "1679788677583765505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099842977158021509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YlYpBKkt3257198 恐怖.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2099837448503415098",
+        "created_at": "2026-09-15T12:50:06.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099843199778816007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679788677583765505",
+              "start": 0,
+              "username": "YlYpBKkt3257198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099843199778816007",
+        "in_reply_to_user_id": "1679788677583765505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099842977158021509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YlYpBKkt3257198 恐怖.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679788677583765505",
+        "conversation_id": "2099837448503415098",
+        "created_at": "2026-09-15T12:49:13.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099842977158021509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099842977158021509",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099840660245492014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 香港所有烟都一百以上，所以没有区别🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/碎碎念推以及神必小测评\n🔞!未成年人禁止!吸烟!电子烟也是!🔞 | 咨询请私和tg联系信非个人商贩仅提供建议 所发图片均为美图分享 置顶有我的tg也可以用私信",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2099843199778816007",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 664,
+          "like_count": 5872,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1561
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-14T09:43:50.000Z",
+        "description": "我与我周旋久，宁作我\n小號@watermelon1byh\n（毛粉🌟（香港人）粤／普都会说 Know a little English 日本語を少し知っている\n政治零分 学习中 喜欢我的反对我的都可以fo🥰叫我润之兄 东叔 腊哥都行（停更一年了）\n抑郁四年 吃药三年 病情反复无常（暂无自杀倾向）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "watermelon1byh"
+              }
+            ]
+          }
+        },
+        "id": "1679788677583765505",
+        "is_identity_verified": false,
+        "location": "延安",
+        "most_recent_tweet_id": "2099842977158021509",
+        "name": "毛润之 Mao Zedong",
+        "pinned_tweet_id": "2089977287076888969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679788677583765505/1786296974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924727739220951041/hFlBgl8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 1530,
+          "like_count": 29372,
+          "listed_count": 6,
+          "media_count": 509,
+          "tweet_count": 11564
+        },
+        "url": "",
+        "username": "YlYpBKkt3257198",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

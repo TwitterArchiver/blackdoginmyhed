@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1951181920022437889",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2106708353523110269",
+    "created_at": "2026-10-04T11:29:46.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106708353523110269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhoujunhong202…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/zhoujunhong2024/status/2105381945249272238",
+          "start": 16,
+          "url": "https://t.co/vfjO9moWqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106708353523110269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105381945249272238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以看出当年图图的力度还是不够 https://t.co/vfjO9moWqR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2106708353523110269",
+        "created_at": "2026-10-04T11:29:46.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106708353523110269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhoujunhong202…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/zhoujunhong2024/status/2105381945249272238",
+              "start": 16,
+              "url": "https://t.co/vfjO9moWqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106708353523110269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105381945249272238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以看出当年图图的力度还是不够 https://t.co/vfjO9moWqR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766722039795294208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2105381945249272238",
+        "created_at": "2026-09-30T19:39:06.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T20:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105381945249272238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinjin1124040/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/xinjin1124040/status/2105341338430607562",
+              "start": 110,
+              "url": "https://t.co/X8Yzq4Bg41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105381945249272238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果没有共产党，我的祖上不仅是大地主，还是私塾先生。按这样的家庭出身，我完全能够从小读书识字，接受良好教育，甚至早早出国留学、见识更大的世界。不至于在湖南那个鸟不拉屎的偏僻山村里，苦熬16年，才终于有机会去小县城读书。\n\n我再说得直白一点：如果没有这个邪恶的共产党，我本可以拥有完全不同的人生——读书、留学、见世面，甚至成为一个受过良好教育、活得体面的名媛。怎么会沦为一个孤苦伶仃、长期留守山村的女童？\n\n我的人生，不该是这样的。\n\n我今天为什么反共？因为我太清楚，一个邪恶政权的存在，改变的不只是历史书上的几个数字。它改变的，是我祖先的命运，是我父母的命运，也是我的童年——它改变的，是整整几代人的人生轨迹！\n\n所以，我没有凭空恨什么。我今天所走的每一步，都是在与这个邪恶政权留给我的伤痕抗争。\n\n我要把本该属于我的人生，一点一点夺回来；也要把该伸张的正义，一点一点讨回来！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 2008696,
+          "like_count": 651,
+          "quote_count": 475,
+          "reply_count": 994,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105341338430607562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果没有共产党，我的祖上不仅是大地主，还是私塾先生。按这样的家庭出身，我完全能够从小读书识字，接受良好教育，甚至早早出国留学、见识更大的世界。不至于在湖南那个鸟不拉屎的偏僻山村里，苦熬16年，才终于有机会去小县城读书。 https://t.co/X8Yzq4Bg41"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2106708353523110269",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 668,
+          "like_count": 6129,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T07:05:44.000Z",
+        "description": "周君红，海外律盟创始人，民主党党员，湖南人，基督徒，三孩妈，系北大学士、法大硕士，24年发表反共言论走红，迫于因言获罪留美，致骨肉分离。书籍预购收款Zelle: z185221331@gmail.com（邮箱），PayPal: https://t.co/6mxFa8ZIhx,反共群：https://t.co/jzZo3Grouq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.me/zhoujunhong2024",
+                "end": 137,
+                "expanded_url": "http://paypal.me/zhoujunhong2024",
+                "start": 114,
+                "url": "https://t.co/6mxFa8ZIhx"
+              },
+              {
+                "display_url": "t.me/junhong2025",
+                "end": 165,
+                "expanded_url": "http://t.me/junhong2025",
+                "start": 142,
+                "url": "https://t.co/jzZo3Grouq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "renquanlvshi.org",
+                "end": 23,
+                "expanded_url": "https://renquanlvshi.org/",
+                "start": 0,
+                "url": "https://t.co/lC5qNg5WLJ"
+              }
+            ]
+          }
+        },
+        "id": "1766722039795294208",
+        "is_identity_verified": true,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2106632714233467082",
+        "name": "周君红（原深圳律师）",
+        "pinned_tweet_id": "2102886298352775424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766722039795294208/1749891797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095291065976934400/3vfVd0mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34144,
+          "following_count": 747,
+          "like_count": 14061,
+          "listed_count": 148,
+          "media_count": 6408,
+          "tweet_count": 21533
+        },
+        "url": "https://t.co/lC5qNg5WLJ",
+        "username": "zhoujunhong2024",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
